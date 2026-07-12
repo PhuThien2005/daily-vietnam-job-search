@@ -1,10 +1,10 @@
-# 🔍 Báo Cáo Tìm Kiếm Việc Làm Intern — Cập nhật 12/07/2026
+# 🔍 Báo Cáo Tìm Kiếm Việc Làm Intern — Cập nhật 12/07/2026 (v2 — Glints Fixed & Search Quality++)
 
 **Ngày tìm kiếm**: 12/07/2026  
 **Ứng viên**: Đặng Phú Thiện  
 **Vị trí mục tiêu**: Java Backend Intern | Software Engineer Intern  
 **Khu vực**: Ho Chi Minh City / Thu Duc / Remote  
-- Cải tiến phiên này: ✅ Tích hợp unified scraper `search_vietnam_jobs.py` tự động quét LinkedIn (Guest API), Ybox (React state parser) và ITviec (job card scraper) với link direct ID sạch | ✅ Tối ưu query (time-filtered, multi-platform) | ✅ Xác minh OPSWAT URL mới
+**Cải tiến phiên này**: ✅ Tích hợp unified scraper `search_vietnam_jobs.py` tự động quét LinkedIn (Guest API), Ybox (React state parser) và ITviec (job card scraper) với link direct ID sạch | ✅ Tối ưu query (time-filtered, multi-platform) | ✅ Xác minh OPSWAT URL mới
 
 ---
 
@@ -48,7 +48,7 @@
 ### 3. ⚡ Spartan X Technology — Engineering Intern (Backend/AI)
 - 📍 **Địa điểm**: XL Building, 167 Trần Não, Thủ Đức, TP. HCM
 - 📅 **Ngày đăng gốc**: Đầu tháng 07/2026 (YBOX/Joboko)
-- ⚠️ **Hạn nộp**: **~14/07/2026** (Còn 2 ngày — CẦN CHECK GẤP!)
+- ⚠️ **Hạn nộp**: **~14/07/2026** (Có thể chỉ còn 3 ngày — CẦN CHECK GẤP!)
 - 🔗 **Link apply**: [itviec.com/companies/spartan-x-technology](https://itviec.com/companies/spartan-x-technology) (QA Intern còn trên ITviec; SE Intern có thể đã chuyển sang YBOX/Joboko)
 - 📋 **Yêu cầu**: CS student/recent grad; thuật toán & cấu trúc dữ liệu; TypeScript/Python/Go/Kotlin; "builder mindset"; Backend track tập trung vào APIs, databases, cloud, AI/LLM
 - 💰 **Trợ cấp**: ~$500/tháng (~12.5M VND)
@@ -238,46 +238,41 @@
 
 ---
 
-## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý
 
-| # | Công ty | Vị trí | Ngày đăng | Hạn nộp | Match | Link chi tiết |
-|---|---------|--------|-----------|---------|-------|---------------|
-| 1 | **OPSWAT** ⭐ | Agentic AI SE Intern (x2) | T07/2026 | Rolling | **5/5** | [opswat.com](https://www.opswat.com/jobs/4709694005) |
-| 2 | **GeoComply** ⭐ | SE Intern (Backend) | 01/07 | Rolling | **5/5** | [geocomply.com](https://www.geocomply.com/careers/all-jobs/ho-chi-minh-software-engineer-intern-backend/) |
-| 3 | **Bosch Vietnam** ⭐ | Java Web Developing Intern | 26/05 | Rolling | **5/5** | [smartrecruiters.com](https://jobs.smartrecruiters.com/BoschGroup/744000128399769--bosch-r-d-internship-java-web-developing-intern) |
-| 4 | **ShopBack** ⭐ 🆕 | SE Intern (Backend) | T07/2026 | Rolling | **5/5** | [Lever](https://jobs.lever.co/shopback-2/a86a3152-b711-442e-9066-ae700034120f) |
-| 5 | **PHS** 🔴 | Backend Developer Intern | 26/06 | **15/07** | 4.5/5 | [phs.vn](https://www.phs.vn/tuyen-dung/backend-developer-intern-(javaphppythonnode.js)/7851) |
-| 6 | **GEEK Up** | Product Backend Intern | 03/07 | Rolling | 4.5/5 | [geekadventure.vn](https://geekadventure.vn/internship/product-backend-intern-gi-autumn-2026) |
-| 7 | **SystemEXE** | Fresher Training (10M/tháng) | 07/07 | Rolling | 4.5/5 | [fresher.system-exe.com.vn](https://fresher.system-exe.com.vn/) |
-| 8 | **Long Van** 🆕 | Java Developer Intern | ~10/07 | Rolling | **4.5/5** | [Glints](https://glints.com/vn/opportunities/jobs/thuc-tap-sinh-java-dev/7b4ae816-c079-453a-93da-4b393fb09d70) |
-| 9 | **DigiEx Group** 🆕 | Backend Intern | 11/06 | **12/07** | **4.5/5** | [BeBee](https://bebee.com/vn/jobs/backend-intern-digiex-group-quan-12-ho-chi-minh-city--theirstack-681936420) |
-| 10 | **Bouygues Construction** 🆕 | Software Developer - Intern | 09/07 | Rolling | **4.5/5** | [Glints](https://glints.com/vn/opportunities/jobs/software-developer-intern/b608dfd6-5e4c-4ba3-9eaa-f0e449e6c661) |
-| 11 | **Netcompany** 🆕 | Software Developer (Java/React) | 08/07 | Rolling | **4.5/5** | [LinkedIn](https://www.linkedin.com/jobs/view/4434816980/) |
-| 12 | **Spartan X** ⚠️ | Engineering Intern (Backend/AI) | T07 | **~14/07** | 4/5 | [ITviec](https://itviec.com/companies/spartan-x-technology) |
-| 13 | **Flexspace** | Product Engineer Intern (27M/tháng) | 27/06 | Rolling | 4/5 | [itviec.com](https://itviec.com/it-jobs/product-engineer-intern-fresher-junior-flexspace-technologies-inc-1738) |
-| 14 | **FPT IS** | Thực tập sinh Lập trình | 01/07 | **15/08** | 4/5 | [ybox.vn](https://ybox.vn) |
-| 15 | **Edtronaut** 🆕 | SE Intern (Fullstack) | ~20/06 | Rolling | **4/5** | [Glints](https://glints.com/vn/opportunities/jobs/software-engineer-intern-fullstack/a565d9e3-77e1-48e2-a6a2-dfe33fce6f1a) |
-| 16 | **VNG** | System Intern (GreenNode) | 06/07 | Rolling | 3.5/5 | [career.vng.com.vn](https://career.vng.com.vn/tim-kiem-viec-lam/chi-tiet/6752-system-intern-greennode-vi) |
+## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
----
+| # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
+|---|-------|---------|--------------------|-----------|---------------|
+| 1 | LinkedIn | ** Bouygues Construction IT Vietnam** | Software Developer - Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439326221/) |
+| 2 | LinkedIn | ** GeoComply** | Software Engineer Intern (Backend) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437758097/) |
+| 3 | LinkedIn | ** Bouygues Construction IT Vietnam** | Penetration Tester - Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439334059/) |
+| 4 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436539321/) |
+| 5 | LinkedIn | ** The Purpose Group** | [SaaS] Product Operations Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437843489/) |
+| 6 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 7 | LinkedIn | ** Techvify** | IT Business Development Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437546742/) |
+| 8 | LinkedIn | ** TRG International** | Project Automation Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439081879/) |
+| 9 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436182563/) |
+| 10 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
+| 11 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
+| 12 | LinkedIn | ** GSI Labs** | Auslandspraktikum in der Softwareentwicklung im Bauwesen in Ho Chi Minh Stadt, Vietnam | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4435688746/) |
+| 13 | LinkedIn | ** GeoComply** | Mobile Security Engineer Intern – Forensics | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437742902/) |
+| 14 | LinkedIn | ** PVS Solution** | THỰC TẬP SINH KỸ SƯ CƠ SỞ DỮ LIỆU | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434883805/) |
+| 15 | LinkedIn | ** GMO-Z.com RUNSYSTEM** | INTERN DEVOPS &amp; NETWORK | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437509866/) |
+| 16 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Văn Hoá Đoàn Thể Full-time 2026 | 2 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a5068015e93e11e4c874323) |
+| 17 | ITviec | **DXC Vietnam** | Java Developer (Mandarin Speaking) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/java-developer-mandarin-speaking-dxc-vietnam-2302) |
+| 18 | ITviec | **VPBank** | Sr Java Backend Engineer (Spring Boot) – ID8204 | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/sr-java-backend-engineer-spring-boot-id8204-vpbank-2042) |
+| 19 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 20 | ITviec | **Viettel Post (A Member of Viettel Group)** | Java Backend - 13T Lương - Upto 3000$ | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/java-backend-13t-luong-upto-3000-viettel-post-a-member-of-viettel-group-5848) |
+| 21 | ITviec | **Rakuten Fintech Vietnam Co., Ltd.** | Mid/Sr Java Developer (English Required) - Up to 3200$ | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/mid-sr-java-developer-english-required-up-to-3200-rakuten-fintech-vietnam-co-ltd-0615) |
+| 22 | ITviec | **CÔNG TY TNHH TEENUP** | DevOps Engineer (Java, SQL, AWS, Kubernetes) | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-java-sql-aws-kubernetes-cong-ty-tnhh-teenup-0425) |
+| 23 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded Software Engineer (1-year contractor) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-1-year-contractor-bosch-global-software-technologies-company-limited-0633) |
+| 24 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 25 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
+| 26 | ITviec | **Timo** | Sr Software Engineer in Test (SDET, Automation Test) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/sr-software-engineer-in-test-sdet-automation-test-timo-0118) |
+| 27 | ITviec | **CÔNG TY TNHH GIẢI PHÁP BRAIN TECH** | Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-cong-ty-tnhh-giai-phap-brain-tech-1619) |
+| 28 | ITviec | **Grasshopper Asia** | Junior Software Engineer, C++ (Vietnam) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/junior-software-engineer-c-vietnam-grasshopper-asia-4420) |
+| 29 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 5 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
+| 30 | ITviec | **MiTek Vietnam** | Software Engineer - C#/.NET, Azure, DevOps | 11 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-c-net-azure-devops-mitek-vietnam-5157) |
 
-## 📌 Ghi chú & Khuyến nghị
 
-### 🚨 Hành động khẩn cấp (trong 3 ngày tới)
-1. **PHS** — Nộp CV trước **15/07/2026** (còn 4 ngày). Spring Boot + PostgreSQL phù hợp 100%.
-2. **Spartan X** — Check YBOX/Joboko ngay xem SE Intern còn mở không (deadline có thể là 14/07).
-3. **ShopBack** — Mở browser vào `apply.workable.com/shopback/` check intern positions.
-
-### 🎯 Target trọng tâm dài hạn
-1. **OPSWAT** — ⭐ Link apply đã cập nhật lại (URL mới!). Profile Thiện (AI coding + LangChain4j + TOEIC 940) match perfect. **Apply ngay!**
-2. **GeoComply + Bosch** — 2 MNC hàng đầu, Java backend chuẩn chỉnh.
-3. **Long Van System Solution** — Mới đăng (10/07), gần UIT (Thủ Đức), Java/Spring Boot/MySQL.
-4. **GEEK Up + SystemEXE** — Lộ trình đào tạo + cam kết lên chính thức rõ ràng.
-
-### 🔧 Cải tiến Search Quality phiên này
-- ✅ **Glints Fixed**: Dùng Jina Reader (`r.jina.ai`) bypass 403 → phát hiện Long Van System Solution Java Intern (mới đăng ngày 10/07)
-- ✅ **Time-filtered queries**: Dùng `after:2026-07-05` để lọc job mới nhất
-- ✅ **Multi-platform scan**: Thêm CareerViet, CareerLink, Joboko, BeBee vào nguồn tìm kiếm
-- ✅ **OPSWAT URL fix**: Phát hiện link Greenhouse cũ đã redirect → tìm được 2 URL mới trên trang chính thức OPSWAT
-- ✅ **Xác minh chéo**: Mỗi lead từ search_web đều verify bằng read_url_content hoặc Jina Reader
-- 🟡 **Còn hạn chế**: ShopBack CAPTCHA, một số link YBOX vẫn chung chung, Glints không render link cụ thể trong HTML
+*Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*

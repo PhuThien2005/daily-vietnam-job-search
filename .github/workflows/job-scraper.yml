@@ -1,0 +1,40 @@
+name: Daily Job Scraper & Report Generator
+
+on:
+  schedule:
+    # 5:00 AM ICT (Vietnam Time) is 10:00 PM (22:00) UTC of the previous day
+    - cron: '0 22 * * *'
+  workflow_dispatch: # Allows manual execution from GitHub UI
+
+jobs:
+  scrape-and-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history so git commit and push works correctly
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Generate Daily Reports
+        run: |
+          python3 tools/job-search/generate_daily_reports.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add reports/
+          # Only commit and push if there are modified/new files in reports/
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "auto: update daily job search reports for $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No new changes to commit."
+          fi

@@ -1,8 +1,8 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-07-12
-Generated on: 2026-07-12 04:04:44
+Generated on: 2026-07-12 04:09:08
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 24
+- **Total unique relevant jobs found**: 21
 
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
@@ -18,16 +18,13 @@ Generated on: 2026-07-12 04:04:44
 | 9 | **Junior Java Developer (Mandarin skill)** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4427683715/) |
 | 10 | **HCM - Java Backend Developer** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4438919543/) |
 | 11 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4370240395/) |
-| 12 | **Back End Developer** | AB InBev Southeast Asia | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4425991961/) |
-| 13 | **Software Engineer Intern (Backend)** | GeoComply | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4437758097/) |
-| 14 | **Software Developer - Intern** | Bouygues Construction IT Vietnam | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439326221/) |
-| 15 | **Python Developer** | LARION | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4429064711/) |
-| 16 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4437338427/) |
-| 17 | **Backend Engineer** | Axon Active - Agile Software Development Company | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4436532344/) |
-| 18 | **Backend Software Engineer** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4373563038/) |
-| 19 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 20 | **Software Developer Intern (5G)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4436539321/) |
-| 21 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4437950583/) |
-| 22 | **System Software Engineer, AI Data Platform** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4437929232/) |
-| 23 | **Embedded Software Engineer** | Olik Global | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4437134809/) |
-| 24 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4399894208/) |
+| 12 | **Software Engineer Intern (Backend)** | GeoComply | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4437758097/) |
+| 13 | **Software Developer - Intern** | Bouygues Construction IT Vietnam | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439326221/) |
+| 14 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 15 | **Software Developer Intern (5G)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4436539321/) |
+| 16 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4437950583/) |
+| 17 | **System Software Engineer, AI Data Platform** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4437929232/) |
+| 18 | **Embedded Software Engineer** | Olik Global | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4437134809/) |
+| 19 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4399894208/) |
+| 20 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4437338427/) |
+| 21 | **Middle Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4436544183/) |
