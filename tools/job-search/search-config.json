@@ -1,0 +1,273 @@
+{
+  "candidate": {
+    "name": "Đặng Phú Thiện",
+    "location": "Thu Duc, Ho Chi Minh",
+    "phone": "+84395455136",
+    "email": "dangphuthien2005@gmail.com",
+    "linkedin": "linkedin.com/in/phuthien2005",
+    "github": "github.com/PhuThien2005",
+    "university": "UIT-VNUHCM",
+    "major": "Software Engineering",
+    "gpa": "8.91/10",
+    "graduation": "2027 (Expected)",
+    "toeic": 940,
+    "certifications": [
+      "TOEIC 940 (IIG Vietnam, Mar 2026)",
+      "Foundations of UX Design (Google, May 2026)"
+    ],
+    "skills": {
+      "languages": ["Java", "C++", "C#", "SQL"],
+      "frameworks": ["Spring Boot"],
+      "databases": ["PostgreSQL", "MySQL", "MSSQL Server"],
+      "tools": ["Git/GitHub", "Docker", "Postman", "Vercel", "Netlify", "Cloudinary", "Aiven", "Supabase"]
+    },
+    "target_positions": [
+      "Java Backend Intern",
+      "Software Engineer Intern",
+      "Backend Developer Intern",
+      "Java Developer Intern",
+      "Spring Boot Developer Intern"
+    ],
+    "target_locations": ["Ho Chi Minh City", "Remote"],
+    "availability": "Full-time"
+  },
+  "search_sources": {
+    "job_platforms": [
+      {
+        "name": "LinkedIn",
+        "search_url_template": "https://www.linkedin.com/jobs/search/?keywords={query}&location=Ho+Chi+Minh+City",
+        "search_queries": [
+          "Java intern",
+          "Backend intern",
+          "Software engineer intern",
+          "Spring Boot intern"
+        ]
+      },
+      {
+        "name": "TopCV",
+        "search_url_template": "https://www.topcv.vn/tim-viec-lam-{query}-tai-ho-chi-minh",
+        "search_queries": [
+          "thuc-tap-java",
+          "thuc-tap-backend",
+          "intern-software"
+        ]
+      },
+      {
+        "name": "ITviec",
+        "search_url_template": "https://itviec.com/it-jobs/{query}?city=ho-chi-minh",
+        "search_queries": [
+          "java-intern",
+          "backend-intern",
+          "fresher-java"
+        ]
+      },
+      {
+        "name": "Indeed",
+        "search_url_template": "https://vn.indeed.com/jobs?q={query}&l=Ho+Chi+Minh",
+        "search_queries": [
+          "java intern",
+          "software intern",
+          "backend intern"
+        ]
+      },
+      {
+        "name": "Vietnamworks",
+        "search_url_template": "https://www.vietnamworks.com/tim-viec-lam/{query}",
+        "search_queries": [
+          "java-intern",
+          "thuc-tap-backend"
+        ]
+      },
+      {
+        "name": "Glints",
+        "search_url_template": "https://glints.com/vn/opportunities/jobs/explore?keyword={query}&country=VN&cityId=18&locationName=Ho+Chi+Minh&jobTypes=INTERNSHIP&sortBy=LATEST",
+        "search_queries": [
+          "java+intern",
+          "backend+developer+intern",
+          "software+engineer+intern"
+        ],
+        "note": "Glints blocks direct crawl (403). Use Jina Reader: prefix URL with https://r.jina.ai/"
+      }
+    ],
+    "university_career_pages": [
+      {
+        "name": "FIT HCMUS",
+        "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265"
+      },
+      {
+        "name": "HCMUTE Career Hub",
+        "url": "https://careerhub.hcmute.edu.vn/get-jobs?khoa=612ba20febb5856c68702f09"
+      },
+      {
+        "name": "UIT Forum - Viec lam Thuc tap",
+        "url": "https://forum.uit.edu.vn/c/ho-tro-doi-song/viec-lam-thuc-tap/32"
+      },
+      {
+        "name": "UIT Career",
+        "url": "https://www.uit.edu.vn/viec-lam"
+      },
+      {
+        "name": "HCMUT Career (Bach Khoa)",
+        "url": "https://hcmut.edu.vn/tuyen-dung"
+      },
+      {
+        "name": "UEL Career (Kinh te Luat)",
+        "url": "https://uel.edu.vn/tin-tuc-tuyen-dung"
+      },
+      {
+        "name": "HCMIU Career (Quoc te)",
+        "url": "https://hcmiu.edu.vn/tin-tuc-su-kien/tin-tuyen-dung/"
+      }
+    ],
+    "company_career_pages": [
+      {
+        "name": "VNG Corporation",
+        "career_url": "https://tuyendung.vng.com.vn/",
+        "search_keywords": ["intern", "thực tập", "fresher"]
+      },
+      {
+        "name": "Bosch Vietnam",
+        "career_url": "https://www.bosch.com.vn/careers/",
+        "search_keywords": ["intern", "software"]
+      },
+      {
+        "name": "FPT Software",
+        "career_url": "https://fpt-software.com/career/",
+        "search_keywords": ["intern", "java"]
+      },
+      {
+        "name": "Shopee",
+        "career_url": "https://careers.shopee.vn/",
+        "search_keywords": ["intern", "engineer"]
+      },
+      {
+        "name": "Grab",
+        "career_url": "https://grab.careers/",
+        "search_keywords": ["intern", "vietnam", "engineer"]
+      },
+      {
+        "name": "MoMo",
+        "career_url": "https://careers.momo.vn/",
+        "search_keywords": ["intern", "developer"]
+      },
+      {
+        "name": "Tiki",
+        "career_url": "https://tuyendung.tiki.vn/",
+        "search_keywords": ["intern", "java"]
+      },
+      {
+        "name": "Samsung Vietnam",
+        "career_url": "https://www.samsung.com/vn/about-us/careers/",
+        "search_keywords": ["intern", "software"]
+      },
+      {
+        "name": "Intel Vietnam",
+        "career_url": "https://jobs.intel.com/",
+        "search_keywords": ["intern", "vietnam"]
+      },
+      {
+        "name": "Cốc Cốc",
+        "career_url": "https://coccoc.com/careers",
+        "search_keywords": ["intern", "developer"]
+      },
+      {
+        "name": "VNPAY",
+        "career_url": "https://tuyendung.vnpay.vn/",
+        "search_keywords": ["intern", "java"]
+      },
+      {
+        "name": "KMS Technology",
+        "career_url": "https://kms-technology.com/careers",
+        "search_keywords": ["intern", "java"]
+      },
+      {
+        "name": "NashTech",
+        "career_url": "https://nashtechglobal.com/careers/",
+        "search_keywords": ["intern", "vietnam"]
+      },
+      {
+        "name": "TMA Solutions",
+        "career_url": "https://www.tmasolutions.com/careers",
+        "search_keywords": ["intern"]
+      },
+      {
+        "name": "Axon Active",
+        "career_url": "https://www.axonactive.com/career/",
+        "search_keywords": ["intern"]
+      },
+      {
+        "name": "Zalo (VNG)",
+        "career_url": "https://tuyendung.vng.com.vn/",
+        "search_keywords": ["intern", "zalo"]
+      },
+      {
+        "name": "ELCA Vietnam",
+        "career_url": "https://www.elca.vn/careers",
+        "search_keywords": ["intern", "java"]
+      },
+      {
+        "name": "OPSWAT",
+        "career_url": "https://www.opswat.com/careers",
+        "search_keywords": ["intern", "vietnam", "software", "ai"]
+      },
+      {
+        "name": "GeoComply",
+        "career_url": "https://www.geocomply.com/careers",
+        "search_keywords": ["intern", "software", "backend"]
+      },
+      {
+        "name": "Bouygues Construction IT",
+        "career_url": "https://www.linkedin.com/company/bouygues-construction-information-technologies-vietnam/jobs/",
+        "search_keywords": ["intern", "vietnam", "developer"]
+      },
+      {
+        "name": "Netcompany",
+        "career_url": "https://www.netcompany.com/int/career/vacancies",
+        "search_keywords": ["vietnam", "fresher", "developer", "student"]
+      },
+      {
+        "name": "Hitachi Digital Services",
+        "career_url": "https://hitachids.com/careers/our-people/vietnam/",
+        "search_keywords": ["intern", "software"]
+      }
+    ],
+    "intern_programs": [
+      {
+        "name": "VNG Star Camp",
+        "search_query": "VNG Star Camp 2026"
+      },
+      {
+        "name": "FPT Fresher Academy",
+        "search_query": "FPT Fresher Academy 2026"
+      },
+      {
+        "name": "Shopee Code League",
+        "search_query": "Shopee Code League 2026"
+      },
+      {
+        "name": "Viettel Digital Talent",
+        "search_query": "Viettel Digital Talent 2026"
+      },
+      {
+        "name": "Samsung SDS Internship",
+        "search_query": "Samsung SDS intern Vietnam 2026"
+      },
+      {
+        "name": "Bosch IT Internship Program",
+        "search_query": "Bosch Vietnam internship program 2026"
+      },
+      {
+        "name": "Google STEP Intern",
+        "search_query": "Google STEP intern Vietnam 2026"
+      }
+    ]
+  },
+  "search_settings": {
+    "max_days_old": 14,
+    "locations": ["Ho Chi Minh City", "Thu Duc", "Remote"],
+    "position_types": ["Internship", "Fresher"],
+    "languages": ["Vietnamese", "English"],
+    "require_verification": true,
+    "require_specific_link": true
+  }
+}
