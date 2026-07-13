@@ -5,7 +5,7 @@ import json
 import re
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -131,8 +131,8 @@ def search_ybox():
                         time_str = "Recent"
                         if published_at != "N/A":
                             try:
-                                dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%S.%fZ")
-                                diff = datetime.utcnow() - dt
+                                dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%S.%fZ").replace(tzinfo=timezone.utc)
+                                diff = datetime.now(timezone.utc) - dt
                                 if diff.days > 0:
                                     time_str = f"{diff.days} days ago"
                                 else:
@@ -271,7 +271,7 @@ def main():
     print(f"✨ Deduplicated & filtered to {len(filtered)} positions.")
     
     # Save Report
-    today_str = datetime.now().strftime("%Y-%m-%d")
+    today_str = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
     report_dir = os.path.join("reports", today_str)
     os.makedirs(report_dir, exist_ok=True)
     report_path = os.path.join(report_dir, "vietnam-jobs-scan.md")

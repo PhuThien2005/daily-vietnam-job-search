@@ -4,7 +4,7 @@ import urllib.parse
 import re
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 def load_config():
     config_path = os.path.join(os.path.dirname(__file__), "search-config.json")
@@ -143,14 +143,15 @@ def main():
     print(f"✨ Deduplicated & filtered to {len(filtered_jobs)} relevant positions.\n")
     
     # Save Report
-    date_str = datetime.today().strftime('%Y-%m-%d')
+    ict_tz = timezone(timedelta(hours=7))
+    date_str = datetime.now(ict_tz).strftime('%Y-%m-%d')
     report_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "reports", date_str)
     os.makedirs(report_dir, exist_ok=True)
     report_path = os.path.join(report_dir, "linkedin-scan.md")
     
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(f"# 🔍 LinkedIn Auto-Scan Report - {date_str}\n")
-        f.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+        f.write(f"Generated on: {datetime.now(ict_tz).strftime('%Y-%m-%d %H:%M:%S')}\n\n")
         f.write("## 📊 Summary\n")
         f.write(f"- **Total unique relevant jobs found**: {len(filtered_jobs)}\n\n")
         

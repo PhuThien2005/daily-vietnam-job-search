@@ -3,7 +3,7 @@ import os
 import sys
 import re
 import subprocess
-from datetime import datetime, date
+from datetime import datetime, date, timezone, timedelta
 
 def run_script(script_name):
     script_path = os.path.join(os.path.dirname(__file__), script_name)
@@ -83,7 +83,7 @@ def update_deadlines(content, today_date):
     if spartan_days is not None:
         if spartan_days > 0:
             content = re.sub(
-                r'⚠️ \*\*Hạn nộp\*\*: \*\*~14/07/2026\*\* \(Còn \d+ ngày[^)]*\)',
+                r'⚠️ \*\*Hạn nộp\*\*: \*\*~14/07/2026\*\* \((?:Có thể chỉ còn|Còn) \d+ ngày[^)]*\)',
                 f'⚠️ **Hạn nộp**: **~14/07/2026** (Còn {spartan_days} ngày — CẦN CHECK GẤP!)',
                 content
             )
@@ -103,7 +103,8 @@ def update_deadlines(content, today_date):
     return content
 
 def generate_job_search_report():
-    today = datetime.now()
+    ict_tz = timezone(timedelta(hours=7))
+    today = datetime.now(ict_tz)
     today_str = today.strftime("%Y-%m-%d")
     today_date = today.date()
     
