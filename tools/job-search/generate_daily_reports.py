@@ -54,7 +54,8 @@ def update_deadlines(content, today_date):
             content
         )
         # Move DigiEx to closed or mark it clearly
-        content = content.replace('### 1. 🆕 DigiEx Group — Backend Intern', '### 1. 🆕 DigiEx Group — Backend Intern (Đã đóng)')
+        if '### 1. 🆕 DigiEx Group — Backend Intern (Đã đóng)' not in content:
+            content = content.replace('### 1. 🆕 DigiEx Group — Backend Intern', '### 1. 🆕 DigiEx Group — Backend Intern (Đã đóng)')
         
     # Update PHS (15/07/2026)
     phs_days = calculate_remaining_days("15/07/2026", today_date)

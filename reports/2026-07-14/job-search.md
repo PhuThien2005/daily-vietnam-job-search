@@ -23,7 +23,7 @@
 
 ## 🔴 KHẨN CẤP — Hạn chót cực gần!
 
-### 1. 🆕 DigiEx Group — Backend Intern (Đã đóng) (Đã đóng)
+### 1. 🆕 DigiEx Group — Backend Intern (Đã đóng)
 - 📍 **Địa điểm**: QTSC Building 1, Công viên phần mềm Quang Trung, Quận 12, TP. HCM (Onsite / Hybrid)
 - 📅 **Ngày đăng gốc**: 11/06/2026 (BeBee)
 - ⚠️ **Hạn nộp**: **12/07/2026** (ĐÃ HẾT HẠN 🔴)
