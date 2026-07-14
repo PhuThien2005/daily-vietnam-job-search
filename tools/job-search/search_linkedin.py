@@ -109,6 +109,20 @@ def filter_jobs(jobs):
             
     return filtered
 
+def parse_time_to_hours(time_str):
+    """Parse relative time strings into numeric hours for sorting."""
+    time_str = time_str.strip().lower()
+    if time_str in ("just now", "recent", "n/a"):
+        return 0
+    match = re.match(r'(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago', time_str)
+    if match:
+        value = int(match.group(1))
+        unit = match.group(2)
+        multipliers = {"second": 1/3600, "minute": 1/60, "hour": 1, "day": 24, "week": 168, "month": 720, "year": 8760}
+        return value * multipliers.get(unit, 9999)
+    return 99999
+
+
 def main():
     print("🚀 Running LinkedIn Guest API Job Searcher...")
     config = load_config()
@@ -142,6 +156,10 @@ def main():
     filtered_jobs = filter_jobs(list(unique_jobs.values()))
     print(f"✨ Deduplicated & filtered to {len(filtered_jobs)} relevant positions.\n")
     
+    # Sort by posting date: newest first
+    filtered_jobs.sort(key=lambda job: parse_time_to_hours(job["time"]))
+    print("📅 Sorted by posting date (newest → oldest).")
+    
     # Save Report
     ict_tz = timezone(timedelta(hours=7))
     date_str = datetime.now(ict_tz).strftime('%Y-%m-%d')
@@ -153,7 +171,8 @@ def main():
         f.write(f"# 🔍 LinkedIn Auto-Scan Report - {date_str}\n")
         f.write(f"Generated on: {datetime.now(ict_tz).strftime('%Y-%m-%d %H:%M:%S')}\n\n")
         f.write("## 📊 Summary\n")
-        f.write(f"- **Total unique relevant jobs found**: {len(filtered_jobs)}\n\n")
+        f.write(f"- **Total unique relevant jobs found**: {len(filtered_jobs)}\n")
+        f.write(f"- 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*\n\n")
         
         f.write("## 📋 Job Listings\n")
         f.write("| # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |\n")

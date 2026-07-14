@@ -245,6 +245,37 @@ def filter_jobs(jobs):
             
     return filtered
 
+def parse_time_to_hours(time_str):
+    """Parse relative time strings into numeric hours for sorting.
+    
+    Handles formats like: 'Just now', '20 hours ago', '3 days ago', 
+    '1 week ago', '2 weeks ago', '1 month ago', 'Recent', etc.
+    Returns float hours. Lower = more recent.
+    """
+    time_str = time_str.strip().lower()
+    
+    if time_str in ("just now", "recent", "n/a"):
+        return 0
+    
+    match = re.match(r'(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago', time_str)
+    if match:
+        value = int(match.group(1))
+        unit = match.group(2)
+        multipliers = {
+            "second": 1/3600,
+            "minute": 1/60,
+            "hour": 1,
+            "day": 24,
+            "week": 24 * 7,
+            "month": 24 * 30,
+            "year": 24 * 365,
+        }
+        return value * multipliers.get(unit, 9999)
+    
+    # Fallback: unknown format gets pushed to bottom
+    return 99999
+
+
 def main():
     print("🚀 Running Vietnam Job Search Aggregator...")
     
@@ -270,6 +301,10 @@ def main():
     filtered = filter_jobs(all_jobs)
     print(f"✨ Deduplicated & filtered to {len(filtered)} positions.")
     
+    # Sort by posting date: newest first (smallest hours ago = first)
+    filtered.sort(key=lambda job: parse_time_to_hours(job["time"]))
+    print("📅 Sorted by posting date (newest → oldest).")
+    
     # Save Report
     today_str = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
     report_dir = os.path.join("reports", today_str)
@@ -279,6 +314,7 @@ def main():
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(f"# Báo cáo tuyển dụng Java/Backend/Software Intern ({today_str})\n\n")
         f.write(f"Tìm thấy **{len(filtered)}** vị trí thực tập/fresher phù hợp.\n\n")
+        f.write(f"📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*\n\n")
         f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |\n")
         f.write("|---|-------|---------|--------------------|-----------|---------------|\n")
         for idx, job in enumerate(filtered, 1):
