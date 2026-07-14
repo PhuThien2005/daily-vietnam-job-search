@@ -168,8 +168,7 @@ def main():
     report_path = os.path.join(report_dir, "linkedin-scan.md")
     
     with open(report_path, "w", encoding="utf-8") as f:
-        f.write(f"# 🔍 LinkedIn Auto-Scan Report - {date_str}\n")
-        f.write(f"Generated on: {datetime.now(ict_tz).strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+        f.write(f"# 🔍 LinkedIn Auto-Scan Report - {date_str}\n\n")
         f.write("## 📊 Summary\n")
         f.write(f"- **Total unique relevant jobs found**: {len(filtered_jobs)}\n")
         f.write(f"- 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*\n\n")

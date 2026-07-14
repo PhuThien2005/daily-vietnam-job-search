@@ -2,10 +2,8 @@ name: Daily Job Scraper & Report Generator
 
 on:
   schedule:
-    # Runs 4 times a day (every 6 hours) starting at 5:00 AM ICT (22:00 UTC)
-    # UTC times: 22:00, 04:00, 10:00, 16:00
-    # ICT times: 05:00, 11:00, 17:00, 23:00
-    - cron: '0 4,10,16,22 * * *'
+    # Runs every hour at minute 0
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows manual execution from GitHub UI
 
 permissions:
@@ -41,19 +39,22 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add reports/
           # Only commit and push if there are modified/new files in reports/
-          if ! git diff --quiet || ! git diff --staged --quiet; then
+          if ! git diff --cached --quiet; then
             git commit -m "auto: update daily job search reports for ${{ env.TODAY_DATE }}"
             git push
+            echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
           else
             echo "No new changes to commit."
+            echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
           fi
 
       - name: Send Telegram Notification
+        if: env.CHANGES_DETECTED == 'true'
         run: |
           # 1. Send text message notification
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
             -d "chat_id=${{ secrets.TELEGRAM_TO }}" \
-            -d "text=🌅 Hệ thống tự động quét đã chạy và cập nhật báo cáo tuyển dụng ngày ${{ env.TODAY_DATE }}. Vui lòng xem 3 file báo cáo chi tiết được gửi đính kèm bên dưới!"
+            -d "text=🌅 Hệ thống tự động quét đã chạy và phát hiện thay đổi mới trong báo cáo tuyển dụng ngày ${{ env.TODAY_DATE }}. Vui lòng xem 3 file báo cáo chi tiết được gửi đính kèm bên dưới!"
           
           # 2. Upload job-search.md
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendDocument" \
