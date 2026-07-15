@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary scrape data
+/longvan_job.json
+/shopback_jobs.json
+
+# System metadata files
+*.Identifier
+.DS_Store
+Thumbs.db
