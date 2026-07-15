@@ -1,6 +1,6 @@
 # 🔍 Vietnam Job Search Scraper & Automation
 
-Hệ thống tự động hóa quét, tổng hợp và phân tích tin tuyển dụng vị trí **Java Backend Intern / Software Engineer Intern** tại khu vực TP. Hồ Chí Minh, phục vụ quá trình ứng tuyển của ứng viên **Đặng Phú Thiện**.
+Hệ thống tự động hóa quét, tổng hợp và phân tích tin tuyển dụng vị trí **Java Backend Intern / Software Engineer Intern** tại khu vực TP. Hồ Chí Minh.
 
 ---
 
@@ -122,6 +122,14 @@ Nếu bạn đang phát triển dự án này bằng **Antigravity IDE** hoặc 
 Hệ thống tận dụng subagent `research` tích hợp sẵn của Antigravity để xử lý tìm kiếm song song:
 *   **Nhiệm vụ**: Agent chính (Orchestrator) sẽ tự động chia nhỏ công việc và kích hoạt các subagent `research` chạy ngầm để đọc code, tra cứu dữ liệu web đồng thời từ nhiều nguồn khác nhau mà không làm nghẽn luồng xử lý chính.
 *   **Cách kích hoạt nhanh**: Bạn có thể dùng slash command `/plan` hoặc `/goal` trực tiếp trong chat box để yêu cầu Agent phân rã task tìm kiếm và phân bổ cho các `research` subagents xử lý.
+
+### 3. Prompt Mẫu Yêu Cầu Agent Quét Rộng (Nguồn Ngoài 3 Sàn Lớn)
+Vì hệ thống chạy tự động (cron) hàng giờ chỉ quét 3 sàn lớn (LinkedIn, ITviec, Ybox) để tối ưu hiệu năng và tránh bị chặn, bạn có thể chủ động prompt cho AI Agent (Gemini/Claude) thực hiện quét sâu các diễn đàn trường đại học và trang tuyển dụng công ty bằng các câu lệnh mẫu sau:
+
+*   **Prompt quét sâu diễn đàn trường & career page**:
+    > "Hãy quét sâu diện rộng toàn bộ các diễn đàn trường đại học (UIT Forum, FIT HCMUS, HCMUTE Career) và trang career của các công ty công nghệ mục tiêu để cập nhật báo cáo job-search ngày hôm nay giúp mình."
+*   **Prompt quét theo công nghệ & xác minh link ứng tuyển**:
+    > "Tìm kiếm thêm các vị trí Java/Backend Intern yêu cầu Spring Boot mới nhất trên các trang web tuyển dụng công ty tại TP.HCM. Hãy dùng trình duyệt để xác minh link apply hoạt động và cập nhật trực tiếp vào file báo cáo."
 
 ---
 
