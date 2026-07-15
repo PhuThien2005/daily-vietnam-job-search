@@ -6,15 +6,15 @@ Tìm thấy **27** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** bTaskee** | AI Engineer Intern | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441219630/) |
-| 2 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
-| 3 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
-| 4 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 12 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
-| 5 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 13 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
-| 6 | ITviec | **VINCENT HOLDINGS CO LTD** | Software Engineer II | 13 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-ii-vincent-holdings-co-ltd-5804) |
-| 7 | LinkedIn | ** Toll Group** | Internship | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4435973904/) |
-| 8 | ITviec | **Rakuten Fintech Vietnam Co., Ltd.** | Mid/Sr Java Developer (English Required) - Up to 3200$ | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mid-sr-java-developer-english-required-up-to-3200-rakuten-fintech-vietnam-co-ltd-0615) |
-| 9 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 1 | LinkedIn | ** bTaskee** | AI Engineer Intern | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441219630/) |
+| 2 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
+| 3 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
+| 4 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 14 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
+| 5 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 14 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 6 | ITviec | **VINCENT HOLDINGS CO LTD** | Software Engineer II | 15 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-ii-vincent-holdings-co-ltd-5804) |
+| 7 | ITviec | **Rakuten Fintech Vietnam Co., Ltd.** | Mid/Sr Java Developer (English Required) - Up to 3200$ | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mid-sr-java-developer-english-required-up-to-3200-rakuten-fintech-vietnam-co-ltd-0615) |
+| 8 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 9 | LinkedIn | ** FORVIA HELLA** | Embedded SW Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434986292/) |
 | 10 | LinkedIn | ** PwC** | Intern - Deal Valuation | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682491/) |
 | 11 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ APAC D&amp;A HUB ] - Analytics Product Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439130883/) |
 | 12 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
