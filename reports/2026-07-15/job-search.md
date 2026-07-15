@@ -247,13 +247,13 @@
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
 | 1 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
-| 2 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
-| 3 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 5 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
-| 4 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 6 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
-| 5 | ITviec | **VINCENT HOLDINGS CO LTD** | Software Engineer II | 6 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-ii-vincent-holdings-co-ltd-5804) |
+| 2 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
+| 3 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 6 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
+| 4 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 7 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 5 | ITviec | **VINCENT HOLDINGS CO LTD** | Software Engineer II | 7 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-ii-vincent-holdings-co-ltd-5804) |
 | 6 | LinkedIn | ** Toll Group** | Internship | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4435973904/) |
-| 7 | ITviec | **Rakuten Fintech Vietnam Co., Ltd.** | Mid/Sr Java Developer (English Required) - Up to 3200$ | 11 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mid-sr-java-developer-english-required-up-to-3200-rakuten-fintech-vietnam-co-ltd-0615) |
-| 8 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 11 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 7 | ITviec | **Rakuten Fintech Vietnam Co., Ltd.** | Mid/Sr Java Developer (English Required) - Up to 3200$ | 12 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mid-sr-java-developer-english-required-up-to-3200-rakuten-fintech-vietnam-co-ltd-0615) |
+| 8 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 12 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
 | 9 | LinkedIn | ** PwC** | Intern - Deal Valuation | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682491/) |
 | 10 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ APAC D&amp;A HUB ] - Analytics Product Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439130883/) |
 | 11 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
@@ -273,7 +273,6 @@
 | 25 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436539321/) |
 | 26 | LinkedIn | ** The Purpose Group** | [SaaS] Product Operations Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437843489/) |
 | 27 | ITviec | **VPBank** | Sr Java Backend Engineer (Spring Boot) – ID8204 | 7 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/sr-java-backend-engineer-spring-boot-id8204-vpbank-2042) |
-| 28 | Ybox | **N/A** | [HCM] Hệ Thống Hỗ Trợ Thanh Toán Hóa Đơn PAYOO Tuyển Dụng Nhân Viên Backend Developer Full-time 2026 | Wed Jul 15 | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a5707a81ce05825717804e2) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*

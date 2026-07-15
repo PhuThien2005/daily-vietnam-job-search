@@ -7,9 +7,9 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Developer Intern (C++)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 4 hours ago | [Link](https://www.linkedin.com/jobs/view/4440947942/) |
+| 1 | **Software Developer Intern (C++)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4440947942/) |
 | 2 | **Internship** | Toll Group | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4435973904/) |
-| 3 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4439957779/) |
+| 3 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4439957779/) |
 | 4 | **Intern - Deal Valuation** | PwC | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4437682491/) |
 | 5 | **Embedded SW Engineer Intern** | FORVIA HELLA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4434986292/) |
 | 6 | **Account Fresher** | Snaps Agency | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439820759/) |
