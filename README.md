@@ -110,6 +110,21 @@ Báo cáo sau khi quét sẽ được ghi trực tiếp vào thư mục `reports
 
 ---
 
+## 🧠 Tích Hợp AI Agent Skills & Subagents (Dành cho Antigravity IDE/CLI)
+
+Nếu bạn đang phát triển dự án này bằng **Antigravity IDE** hoặc CLI `agy`, dự án đã được trang bị sẵn custom **Skill** và các cấu hình tích hợp **Subagents** để AI có thể tự động tìm kiếm thông minh:
+
+### 1. Custom Skill: `job-search`
+*   **Vị trí file cấu hình**: [tools/job-search/SKILL.md](file:///home/fhu_thjen/projects/java-intern/tools/job-search/SKILL.md)
+*   **Cách hoạt động**: Khi bạn chat với Agent Antigravity và yêu cầu tìm job hoặc cập nhật báo cáo, Agent sẽ tự động đọc `SKILL.md` để nắm được các bài học kinh nghiệm tránh bịa đặt thông tin (anti-hallucination rules), cách bypass lỗi 403 Forbidden bằng Jina Reader, và quy chuẩn chấm điểm độ phù hợp (Match Score ⭐).
+
+### 2. Sử Dụng Research Subagent (`research`)
+Hệ thống tận dụng subagent `research` tích hợp sẵn của Antigravity để xử lý tìm kiếm song song:
+*   **Nhiệm vụ**: Agent chính (Orchestrator) sẽ tự động chia nhỏ công việc và kích hoạt các subagent `research` chạy ngầm để đọc code, tra cứu dữ liệu web đồng thời từ nhiều nguồn khác nhau mà không làm nghẽn luồng xử lý chính.
+*   **Cách kích hoạt nhanh**: Bạn có thể dùng slash command `/plan` hoặc `/goal` trực tiếp trong chat box để yêu cầu Agent phân rã task tìm kiếm và phân bổ cho các `research` subagents xử lý.
+
+---
+
 ## 📝 Quy Trình Cập Nhật & Bảo Trì
 
 Khi cần thêm từ khóa lọc hoặc sửa đổi hành vi cào dữ liệu, hãy tham khảo cẩm nang chi tiết tại [SKILL.md](file:///home/fhu_thjen/projects/java-intern/tools/job-search/SKILL.md) để đảm bảo không làm phá vỡ các quy tắc lọc và cấu trúc báo cáo của hệ thống.
