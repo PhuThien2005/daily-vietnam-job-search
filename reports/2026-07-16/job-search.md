@@ -12,12 +12,12 @@
 
 | Metric | Số lượng |
 |--------|----------|
-| Tổng vị trí đã xác minh | **30** |
-| 🟢 Đang tuyển (verified open) | **16** |
+| Tổng vị trí đã xác minh | **35** |
+| 🟢 Đang tuyển (verified open) | **21** |
 | 🟡 Chưa xác minh / Cần check thêm | **2** |
 | 🔴 Đã đóng / Hết hạn | **12** |
-| Vị trí phù hợp cao (4-5⭐) | **14** |
-| **MỚI** so với báo cáo v1 | **+6 vị trí mới** (OPSWAT, Long Van, Spartan X, DigiEx, Bouygues, Netcompany) |
+| Vị trí phù hợp cao (4-5⭐) | **17** |
+| **MỚI** so với báo cáo v1 | **+11 vị trí mới** (OPSWAT, Long Van, Spartan X, DigiEx, Bouygues, Netcompany, Bosch Embedded, Bosch SAP, FOIS ICT PRO, PHS Backend, ELCA Java Trainee) |
 
 ---
 
@@ -43,7 +43,20 @@
 - 🔗 **Link apply gốc**: [phs.vn/tuyen-dung](https://www.phs.vn/tuyen-dung/backend-developer-intern-(javaphppythonnode.js)/7851)
 - 📋 **Yêu cầu**: Sinh viên năm cuối/mới tốt nghiệp ngành CNTT; Java/PHP/Python/Node.js; REST API, Git, SQL/NoSQL; Unit Test, Automation Script
 - ⭐ **Phù hợp**: 4.5/5 (Fintech, đúng stack Java)
-- 📎 **Xác minh**: `read_url_content` ✅ + Glints (via Jina Reader) ✅
+- 📎 **Xác minh**: `search_web` + `read_url_content` ✅ (Portal talent.phs.vn hoạt động, tin active).
+
+### 18. 🆕 ELCA Vietnam — Java Trainee
+- 📍 **Địa điểm**: CII Tower, 152 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP. HCM — Hybrid
+- 📅 **Ngày đăng gốc**: Tháng 06-07/2026 (Oracle HCM / careers.elca.vn)
+- 🔗 **Link apply gốc (MỚI)**: [ELCA Vietnam Careers](https://careers.elca.vn/) hoặc [Oracle HCM Portal](https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)
+- 📋 **Yêu cầu chính**:
+    - Bằng Cử nhân ngành Khoa học Máy tính hoặc tương đương.
+    - Kiến thức cơ bản về **OOP, SOLID principles, Design Patterns, Data modeling**.
+    - Kỹ năng phân tích và giải quyết vấn đề tốt.
+    - Đọc hiểu và viết tài liệu kỹ thuật bằng tiếng Anh.
+- 🎁 **Quyền lợi**: Chương trình đào tạo bài bản theo lộ trình của công ty Thụy Sĩ, giờ làm linh hoạt, làm việc hybrid, bảo hiểm sức khỏe cao cấp, công ty đạt "Great Place to Work" nhiều năm liên tiếp.
+- ⭐ **Phù hợp**: **5/5** — Đúng stack Java, có chương trình Trainee đào tạo bài bản, công ty Thụy Sĩ uy tín hoạt động tại VN từ 1998, văn phòng Quận 1 thuận tiện, chế độ hybrid + bảo hiểm cao cấp cực tốt. Yêu cầu OOP/SOLID/Design Patterns phù hợp tuyệt đối với nền tảng Java của bạn.
+- 📎 **Xác minh**: `search_web` + `read_url_content` ✅ (Portal careers.elca.vn và Oracle HCM active, tin tuyển dụng còn hiệu lực).
 
 ### 3. ⚡ Spartan X Technology — Engineering Intern (Backend/AI)
 - 📍 **Địa điểm**: XL Building, 167 Trần Não, Thủ Đức, TP. HCM
