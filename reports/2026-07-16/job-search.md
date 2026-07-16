@@ -12,12 +12,12 @@
 
 | Metric | Số lượng |
 |--------|----------|
-| Tổng vị trí đã xác minh | **30** |
-| 🟢 Đang tuyển (verified open) | **16** |
+| Tổng vị trí đã xác minh | **34** |
+| 🟢 Đang tuyển (verified open) | **20** |
 | 🟡 Chưa xác minh / Cần check thêm | **2** |
 | 🔴 Đã đóng / Hết hạn | **12** |
-| Vị trí phù hợp cao (4-5⭐) | **14** |
-| **MỚI** so với báo cáo v1 | **+6 vị trí mới** (OPSWAT, Long Van, Spartan X, DigiEx, Bouygues, Netcompany) |
+| Vị trí phù hợp cao (4-5⭐) | **16** |
+| **MỚI** so với báo cáo v1 | **+10 vị trí mới** (OPSWAT, Long Van, Spartan X, DigiEx, Bouygues, Netcompany, Bosch Embedded, Bosch SAP, FOIS ICT PRO, PHS Backend) |
 
 ---
 
@@ -198,6 +198,61 @@
     - Chấp nhận ứng viên Fresher (có chương trình Academy đào tạo và mentoring bài bản)
 - ⭐ **Phù hợp**: **4.5/5** — Tập đoàn Đan Mạch hàng đầu, cực kỳ nổi tiếng về đào tạo bài bản cho Fresher & sinh viên năm cuối (Netcompany Academy), stack Java/OOP chuẩn, văn phòng cực hiện đại tại Opal Tower.
 - 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
+
+### 14. 🆕 Bosch Vietnam — [EMC] Intern for Embedded Software (C++/Java/Python)
+- 📍 **Địa điểm**: Tòa nhà Etown, 364 Cộng Hòa, Quận Tân Bình, TP. HCM — Onsite (Car Multimedia Team)
+- 📅 **Ngày đăng gốc**: Đầu tháng 07/2026 (HCMUTE Career Hub / SmartRecruiters)
+- ⏳ **Thời hạn thực tập**: 6 tháng full-time (Thứ 2 - Thứ 6)
+- 🔗 **Link apply gốc (MỚI)**: [SmartRecruiters - Bosch](https://smrtr.io/z7gsS)
+- 📋 **Yêu cầu chính**:
+    - Sinh viên năm cuối/mới tốt nghiệp đại học chuyên ngành IT, Điện tử, Cơ điện tử hoặc tương đương.
+    - Kiến thức tốt về OOP, có kinh nghiệm với một trong các ngôn ngữ: **Java, C++, Python, C**.
+    - Sử dụng tốt Linux hoặc Android-based system.
+    - Tiếng Anh tốt; biết tiếng Nhật là một lợi thế cực kỳ lớn.
+- 🎁 **Quyền lợi**: Trợ cấp thực tập hấp dẫn hàng tháng, phụ cấp cơm & gửi xe, đào tạo bài bản trong môi trường quốc tế, cơ hội chuyển tiếp lên chính thức cao.
+- ⭐ **Phù hợp**: **4.5/5** — Môi trường đa quốc gia lớn, có trợ cấp tốt, yêu cầu Java/OOP tốt, chỉ có điểm trừ là thực tập 6 tháng full-time.
+- 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅ (JD active trên SmartRecruiters).
+
+### 15. 🆕 Bosch Vietnam — [BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)
+- 📍 **Địa điểm**: Tòa nhà Etown, 364 Cộng Hòa, Quận Tân Bình, TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Đầu tháng 07/2026 (SmartRecruiters)
+- ⏳ **Thời hạn thực tập**: 6 tháng full-time
+- 🔗 **Link apply gốc (MỚI)**: [SmartRecruiters - Bosch Group](https://jobs.smartrecruiters.com/BoschGroup) (Search "[BD] Internship - SAP Developer")
+- 📋 **Yêu cầu chính**:
+    - Sinh viên năm cuối hoặc mới tốt nghiệp ngành Công nghệ thông tin, Kỹ thuật phần mềm.
+    - Kiến thức lập trình căn bản tốt với **JavaScript (ES6+) hoặc Java**.
+    - Đam mê học hỏi các công nghệ chuyên sâu của SAP (Fiori, UI5, ABAP, BTP Cloud).
+- 🎁 **Quyền lợi**: Trợ cấp thực tập hàng tháng, phụ cấp ăn trưa/gửi xe, ngày phép có lương, được training 1-1 bởi Senior Developer.
+- ⭐ **Phù hợp**: **4/5** — Lộ trình đào tạo doanh nghiệp bài bản, yêu cầu Java/JS tốt, văn phòng Tân Bình thuận tiện, tuy nhiên định hướng đi theo mảng SAP.
+- 📎 **Xác minh**: `search_web` ✅ (tin tuyển dụng active trên hệ thống Bosch).
+
+### 16. 🆕 FOIS ICT PRO — Backend Intern (Python/Django, FastAPI)
+- 📍 **Địa điểm**: Tòa nhà KICOTRANS, 44-46-48 Bạch Đằng, Quận Tân Bình, TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Tháng 06-07/2026 (UIT Forum)
+- ⏳ **Thời hạn thực tập**: 15/06/2026 – 15/10/2026 (4 tháng)
+- 🔗 **Link apply gốc**: [foisictpro.com](https://foisictpro.com/)
+- 📋 **Yêu cầu chính**:
+    - Sinh viên năm 3/năm cuối ngành CNTT hoặc liên quan.
+    - Có kiến thức cơ bản về Backend với Python (Django, FastAPI).
+    - Có khả năng tìm tòi, tích hợp các mô hình AI (ChatGPT, Gemini, Vector DB).
+- 🎁 **Quyền lợi**: Đào tạo bài bản theo quy trình Nhật Bản, tham gia trực tiếp dự án thực tế, trợ cấp thực tập hàng tháng.
+- ⭐ **Phù hợp**: **3.5/5** — Môi trường tốt ở Tân Bình, yêu cầu tích hợp AI phù hợp, tuy nhiên stack chính là Python thay vì Java.
+- 📎 **Xác minh**: `search_web` ✅ (bài đăng active trên forum UIT).
+
+### 17. 🆕 Chứng khoán Phú Hưng (PHS) — Backend Developer Intern (Java/PHP/Python/Node.js)
+- 📍 **Địa điểm**: Tầng 21, Phú Mỹ Hưng Tower, 08 Hoàng Văn Thái, Quận 7, TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Tháng 07/2026 (Ybox, Glints, TopCV)
+- ⚠️ **Hạn nộp**: **31/07/2026** (cần nộp sớm!)
+- 🔗 **Link apply gốc (MỚI)**: [talent.phs.vn](https://talent.phs.vn/)
+- 📋 **Yêu cầu chính**:
+    - Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT.
+    - Kiến thức cơ bản về **Java/PHP/Python/Node.js**, RESTful API, NestJS, ReactJS.
+    - Hiểu biết về SQL/NoSQL (MongoDB, Redis, MySQL), Git, Docker, Microservices.
+    - Tiếng Anh trình độ trung cấp (đọc hiểu và giao tiếp).
+- 📋 **Công việc**: Hỗ trợ thiết kế, lập trình, kiểm thử API và dịch vụ Socket (eKYC GW, PHS Middleware, Market Data gateway). Tham gia review code và viết unit test.
+- 🎁 **Quyền lợi**: Trợ cấp 2.000.000 VNĐ/tháng + phí gửi xe, đào tạo chuyên môn, đóng dấu thực tập.
+- ⭐ **Phù hợp**: **4/5** — Vị trí Backend đúng stack Java, làm việc với Fintech/Securities (lĩnh vực tài chính hấp dẫn), yêu cầu Docker/Microservices phù hợp xu hướng, văn phòng Quận 7 hiện đại. Trợ cấp khá thấp (2M) là điểm trừ.
+- 📎 **Xác minh**: `search_web` + `read_url_content` ✅ (Portal talent.phs.vn hoạt động, tin active).
 
 ---
 
