@@ -6,20 +6,20 @@ Tìm thấy **32** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 1 hour ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
-| 2 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded Hardware Software Specialist (HSW) | 1 hour ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-hardware-software-specialist-hsw-bosch-global-software-technologies-company-limited-3024) |
-| 3 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 1 hour ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
-| 4 | LinkedIn | ** EON TECH** | Software Developer Internship | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440707908/) |
-| 5 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
-| 6 | LinkedIn | ** Axon** | Backend Software Engineer | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 7 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Embedded Software Engineer (MCU, FreeRTOS) | 22 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-mcu-freertos-lg-electronics-development-vietnam-lgedv-2221) |
-| 8 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 22 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
-| 9 | LinkedIn | ** bTaskee** | AI Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441219630/) |
-| 10 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
-| 11 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
-| 12 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Tuyển Dụng Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a585a775a06bc57353714bb) |
-| 13 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
-| 14 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 1 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 2 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
+| 2 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded Hardware Software Specialist (HSW) | 3 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-hardware-software-specialist-hsw-bosch-global-software-technologies-company-limited-3024) |
+| 3 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 3 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
+| 4 | LinkedIn | ** EON TECH** | Software Developer Internship | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440707908/) |
+| 5 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
+| 6 | LinkedIn | ** Axon** | Backend Software Engineer | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 7 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Embedded Software Engineer (MCU, FreeRTOS) | 23 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-mcu-freertos-lg-electronics-development-vietnam-lgedv-2221) |
+| 8 | LinkedIn | ** bTaskee** | AI Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441219630/) |
+| 9 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
+| 10 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
+| 11 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Tuyển Dụng Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a585a775a06bc57353714bb) |
+| 12 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
+| 13 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 14 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
 | 15 | ITviec | **VINCENT HOLDINGS CO LTD** | Software Engineer II | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/software-engineer-ii-vincent-holdings-co-ltd-5804) |
 | 16 | LinkedIn | ** FORVIA HELLA** | Embedded SW Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434986292/) |
 | 17 | LinkedIn | ** PwC** | Intern - Deal Valuation | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682491/) |
