@@ -12,8 +12,8 @@
 
 | Metric | Số lượng |
 |--------|----------|
-| Tổng vị trí đã xác minh | **30** |
-| 🟢 Đang tuyển (verified open) | **16** |
+| Tổng vị trí đã xác minh | **32** |
+| 🟢 Đang tuyển (verified open) | **18** |
 | 🟡 Chưa xác minh / Cần check thêm | **2** |
 | 🔴 Đã đóng / Hết hạn | **12** |
 | Vị trí phù hợp cao (4-5⭐) | **14** |
@@ -198,6 +198,23 @@
     - Chấp nhận ứng viên Fresher (có chương trình Academy đào tạo và mentoring bài bản)
 - ⭐ **Phù hợp**: **4.5/5** — Tập đoàn Đan Mạch hàng đầu, cực kỳ nổi tiếng về đào tạo bài bản cho Fresher & sinh viên năm cuối (Netcompany Academy), stack Java/OOP chuẩn, văn phòng cực hiện đại tại Opal Tower.
 - 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
+
+### 14. 🆕 Gameloft Saigon — Backend Developer Intern
+- 📍 **Địa điểm**: TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: 14/07/2026 (LinkedIn)
+- 🔗 **Link apply gốc**: [LinkedIn - Gameloft Saigon](https://www.linkedin.com/jobs/view/4440008282/)
+- 📋 **Yêu cầu**: Sinh viên IT; Kiến thức JavaScript/Node.js, kiến trúc Web, Database. (⚠️ Lưu ý: Role này ưu tiên Node.js/JavaScript, không phải Java Spring Boot)
+- 💰 **Trợ cấp**: Từ 6.000.000 VNĐ/tháng Gross
+- ⭐ **Phù hợp**: **3.5/5** — Môi trường đa quốc gia tốt, đãi ngộ cao nhưng trái stack tech mục tiêu (Java).
+- 📎 **Xác minh**: Đã xác minh bằng trình duyệt (`read_url_content`) ✅ - Form apply còn hoạt động bình thường.
+
+### 15. 🆕 QKIT Software — Backend Intern (Java/Spring Boot)
+- 📍 **Địa điểm**: TP. HCM
+- 📅 **Ngày đăng gốc**: Theo dữ liệu quét từ UIT Forum 2026
+- 🔗 **Link apply gốc**: Qua email nhà tuyển dụng trên [UIT Forum](https://forum.uit.edu.vn/)
+- 📋 **Yêu cầu**: Nắm vững OOP, Java Core, CSDL. Spring Boot là điểm cộng rất lớn.
+- ⭐ **Phù hợp**: **4/5** — Tech stack Java Backend phù hợp, được nhắc đến trên diễn đàn trường.
+- 📎 **Xác minh**: Đã quét sâu qua `search_web` diễn đàn UIT ✅
 
 ---
 
