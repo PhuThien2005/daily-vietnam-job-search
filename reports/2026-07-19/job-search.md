@@ -293,13 +293,14 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** EON TECH** | Software Engineer Internship | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441705750/) |
-| 2 | LinkedIn | ** Clique83** | Full Stack Engineer Intern | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440771010/) |
-| 3 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 17 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
+| 1 | LinkedIn | ** EON TECH** | Software Engineer Internship | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441705750/) |
+| 2 | LinkedIn | ** Clique83** | Full Stack Engineer Intern | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440771010/) |
+| 3 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
 | 4 | LinkedIn | ** Ematic Solutions** | Web Developer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441979970/) |
 | 5 | LinkedIn | ** Corsair** | AI Data Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4405435974/) |
 | 6 | LinkedIn | ** Ematic Solutions** | Solutions Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441983824/) |
