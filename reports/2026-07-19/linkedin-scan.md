@@ -7,11 +7,11 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **IT BA / PO Intern - AI Startup, Tech background, Onsite HCMC Only** | Edtronaut AI | Ho Chi Minh City, Vietnam | 55 minutes ago | [Link](https://www.linkedin.com/jobs/view/4441754168/) |
-| 2 | **Java Backend Developer - HCM** | HD SAISON CAREERS | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4439985864/) |
-| 3 | **Agentic / Backend Engineer** | Growtrics | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4442458085/) |
-| 4 | **Software Engineer Internship** | EON TECH | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4441705750/) |
-| 5 | **Serverside Tagging Developer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4441719219/) |
+| 1 | **IT BA / PO Intern - AI Startup, Tech background, Onsite HCMC Only** | Edtronaut AI | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4441754168/) |
+| 2 | **Java Backend Developer - HCM** | HD SAISON CAREERS | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4439985864/) |
+| 3 | **Agentic / Backend Engineer** | Growtrics | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4442458085/) |
+| 4 | **Software Engineer Internship** | EON TECH | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4441705750/) |
+| 5 | **Serverside Tagging Developer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4441719219/) |
 | 6 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439209531/) |
 | 7 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 8 | **Java Developer** | Alphaway Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439400161/) |
