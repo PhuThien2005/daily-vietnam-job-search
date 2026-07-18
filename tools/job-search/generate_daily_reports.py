@@ -114,13 +114,19 @@ def generate_job_search_report():
     today_dir = os.path.join(reports_dir, today_str)
     
     # 1. Get latest report to use as template
-    latest_date = get_latest_report_date(reports_dir, today_str)
+    today_report_path = os.path.join(today_dir, "job-search.md")
     template_path = None
-    if latest_date:
-        template_path = os.path.join(reports_dir, latest_date, "job-search.md")
-        
+    
+    if os.path.exists(today_report_path):
+        template_path = today_report_path
+        print(f"Found existing today's report, using it as template: {template_path}")
+    else:
+        latest_date = get_latest_report_date(reports_dir, today_str)
+        if latest_date:
+            template_path = os.path.join(reports_dir, latest_date, "job-search.md")
+            print(f"Found template from {latest_date}: {template_path}")
+            
     if template_path and os.path.exists(template_path):
-        print(f"Found template from {latest_date}: {template_path}")
         with open(template_path, "r", encoding="utf-8") as f:
             content = f.read()
             
