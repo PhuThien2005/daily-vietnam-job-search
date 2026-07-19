@@ -12,3 +12,6 @@ __pycache__/
 *.Identifier
 .DS_Store
 Thumbs.db
+
+# Credentials/Passwords
+/pw.md
