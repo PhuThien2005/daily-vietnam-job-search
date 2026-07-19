@@ -296,12 +296,13 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
 | 1 | LinkedIn | ** EON TECH** | Software Engineering Intern | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441758521/) |
-| 2 | LinkedIn | ** HD SAISON CAREERS** | Java Backend Developer - HCM | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439985864/) |
+| 2 | LinkedIn | ** HD SAISON CAREERS** | Java Backend Developer - HCM | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439985864/) |
 | 3 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 4 | LinkedIn | ** Clique83** | Full Stack Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440771010/) |
 | 5 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
