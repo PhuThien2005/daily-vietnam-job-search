@@ -1,31 +1,38 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-07-20
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 22
+- **Total unique relevant jobs found**: 29
 - 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Quantitative Research Intern (LLMs &amp; AI Agents)** | WorldQuant | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4132261540/) |
-| 2 | **Serverside Tagging Developer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441719219/) |
-| 3 | **Web Developer Intern** | Ematic Solutions | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441979970/) |
-| 4 | **AI Data Engineer Intern** | Corsair | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4405435974/) |
-| 5 | **Solutions Engineer Intern** | Ematic Solutions | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441983824/) |
-| 6 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4439209531/) |
-| 7 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
-| 8 | **Software Engineer Intern (Salesforce/Guidewire/RPA)** | Capgemini | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4440665420/) |
-| 9 | **Software Engineer (6Y+ Java, Spring, AWS/Azure)** | TECH HOT JOBS | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4435396619/) |
-| 10 | **Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4423955040/) |
-| 11 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
-| 12 | **Software Developer Intern (C++)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4440947942/) |
-| 13 | **Internship** | Toll Group | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4435973904/) |
-| 14 | **MPE Product Development Engineer Intern** | Intel | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4440223270/) |
-| 15 | **Back End Developer (Java)** | UNIT Technology Corporation | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4439986503/) |
-| 16 | **Embedded SW Engineer Intern** | FORVIA HELLA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4434986292/) |
-| 17 | **Intern - Deal Valuation** | PwC | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4437682491/) |
-| 18 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4440384680/) |
+| 1 | **Java Backend Developer - HCM** | HD SAISON CAREERS | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439985864/) |
+| 2 | **Agentic / Backend Engineer** | Growtrics | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4442458085/) |
+| 3 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4439209531/) |
+| 4 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 5 | **Software Engineer (AI-native)** | OPSWAT | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441171151/) |
+| 6 | **Software Engineer (AI-native)** | OPSWAT | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
+| 7 | **Java Developer - HCM** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4440626377/) |
+| 8 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
+| 9 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 10 | **Software Engineer Intern (Salesforce/Guidewire/RPA)** | Capgemini | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4440665420/) |
+| 11 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 12 | **Software Engineer (6Y+ Java, Spring, AWS/Azure)** | TECH HOT JOBS | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4435396619/) |
+| 13 | **Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4423955040/) |
+| 14 | **Back End Developer (Java)** | UNIT Technology Corporation | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4439986503/) |
+| 15 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 16 | **Software Engineer** | DXC Technology | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4440233632/) |
+| 17 | **Software Developer Intern (C++)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4440947942/) |
+| 18 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4439957779/) |
 | 19 | **Software Engineer (Java)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4439846360/) |
-| 20 | **[ APAC D&amp;A HUB ] - Analytics Product Intern** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4439130883/) |
-| 21 | **Backend Developer Intern** | Gameloft Saigon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4440008282/) |
-| 22 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4437260338/) |
+| 20 | **Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4439818147/) |
+| 21 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4440384680/) |
+| 22 | **Software Engineer II** | Global Fashion Group | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4432326580/) |
+| 23 | **Junior Backend Engineer (.NET + Azure)** | CODE LEAP | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4438010415/) |
+| 24 | **Backend Engineer – FinApp** | Tuyển Dụng 247 | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4439860663/) |
+| 25 | **Software Engineer, Metropolis Vision AI** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4439479473/) |
+| 26 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4437260338/) |
+| 27 | **Backend Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4391589428/) |
+| 28 | **Backend Developer Intern** | Gameloft Saigon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4440008282/) |
+| 29 | **AI Software Engineer** | OPSWAT | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4440037320/) |
