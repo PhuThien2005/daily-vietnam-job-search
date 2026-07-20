@@ -23,24 +23,7 @@
 
 ## 🟢 ĐANG TUYỂN — Đã xác minh đang mở nhận CV
 
-### 1. ⭐ OPSWAT — Agentic AI Software Engineer Intern (2 vị trí!)
-- 📍 **Địa điểm**: Văn phòng Quận 3, TP. HCM — Onsite
-- 📅 **Ngày đăng gốc**: Tháng 07/2026 (OPSWAT Careers + LinkedIn 2 tuần trước)
-- 🔗 **Link apply gốc**:
-    - Vị trí 1: [opswat.com/jobs/4709694005](https://www.opswat.com/jobs/4709694005)
-    - Vị trí 2: [opswat.com/jobs/4709693005](https://www.opswat.com/jobs/4709693005)
-    - LinkedIn: [linkedin.com/jobs/view/4436182563](https://www.linkedin.com/jobs/view/4436182563/)
-- 📋 **Yêu cầu chính**:
-    - Đang theo học CS, SE hoặc ngành liên quan
-    - Nền tảng vững: data structures, APIs, databases, Git
-    - **BẮT BUỘC**: Kinh nghiệm thực tế với AI coding tools (Claude, Cursor, Copilot) & agentic workflows
-    - Đã build một dự án end-to-end (side project, hackathon, open-source)
-    - Giao tiếp viết tốt bằng tiếng Anh, tư duy security
-- 🎁 **Quyền lợi**: Mentorship từ Senior Engineers, ownership dự án thật, exposure AI-powered engineering tại công ty cybersecurity hàng đầu
-- ⭐ **Phù hợp**: **5/5 (Perfect Match)** — Cực kỳ phù hợp với kinh nghiệm AI (LangChain4j/TaskPilot) và TOEIC 940 của Thiện
-- 📎 **Xác minh**: `read_url_content` via Jina Reader ✅ (Trang OPSWAT chính thức, JD đầy đủ, nút Apply hoạt động)
-
-### 2. ⭐ GeoComply — Software Engineer Intern (Backend)
+### 1. ⭐ GeoComply — Software Engineer Intern (Backend)
 - 📍 **Địa điểm**: Văn phòng Quận 1, TP. HCM — Hybrid (3 ngày onsite/tuần)
 - 📅 **Ngày đăng gốc**: Tháng 07/2026 (GeoComply Careers + LinkedIn 1 tuần trước)
 - 🔗 **Link apply gốc**:
@@ -50,15 +33,7 @@
 - ⭐ **Phù hợp**: **5/5 (Perfect Match)** — Unicorn product, TOEIC 940 là lợi thế cực lớn, AI-first approach
 - 📎 **Xác minh**: `read_url_content` ✅ (LinkedIn JD đầy đủ, nút Apply hoạt động)
 
-### 3. ⭐ ShopBack — Software Engineer Intern (Backend)
-- 📍 **Địa điểm**: TP. HCM — Onsite
-- 📅 **Ngày đăng gốc**: Tháng 07/2026 (Lever - shopback-2, LinkedIn 2 tuần trước)
-- 🔗 **Link apply gốc**: [Lever - ShopBack](https://jobs.lever.co/shopback-2/a86a3152-b711-442e-9066-ae700034120f)
-- 📋 **Yêu cầu**: Sinh viên năm 3/4 CS/SE; CS fundamentals (DS&A); Java, Python, Go, JavaScript; **AI Competency** (ChatGPT, Gemini, Claude)
-- ⭐ **Phù hợp**: **5/5 (Perfect Match)** — Tập đoàn đa quốc gia, hỗ trợ Java, AI competency phù hợp tuyệt đối với TaskPilot
-- 📎 **Xác minh**: `read_url_content` (via Jina Reader on Lever) ✅
-
-### 4. 🆕 Capgemini — Software Engineer Intern (Salesforce/Guidewire/RPA)
+### 2. 🆕 Capgemini — Software Engineer Intern (Salesforce/Guidewire/RPA)
 - 📍 **Địa điểm**: TP. HCM — Onsite
 - 📅 **Ngày đăng gốc**: 17/07/2026 (LinkedIn — Đăng 3 ngày trước, 71 applicants)
 - 🔗 **Link apply**: [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/)
@@ -74,39 +49,7 @@
 - ⭐ **Phù hợp**: **4.5/5** — Tập đoàn tư vấn CNTT hàng đầu thế giới, Guidewire track dùng **Java/GOSU**, rất phù hợp với nền tảng Java/OOP, AI competency tốt
 - 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
 
-### 5. ~~Long Van System Solution — Java Developer Intern~~ 🔴 ĐÃ ĐÓNG
-- 📍 **Địa điểm**: Quận Thủ Đức, TP. HCM
-- 📅 **Ngày đăng gốc**: ~10/07/2026 (Glints)
-- 🔗 ~~[Glints - Long Van System Solution](https://glints.com/vn/opportunities/jobs/thuc-tap-sinh-java-dev/7b4ae816-c079-453a-93da-4b393fb09d70)~~ — **Tin đã đóng trên Glints**
-- 📎 **Xác minh**: `read_url_content` ✅ — Trang Glints xác nhận trạng thái "Closed"
-- ⚠️ **Lưu ý**: Vị trí này đã mở ở báo cáo 19/07 nhưng nay đã đóng. Chuyển xuống mục Đã đóng.
-
-### 6. SystemEXE Việt Nam — Fresher Training Program (Khóa T09/2026)
-- 📍 **Địa điểm**: Quận Tân Bình, TP. HCM
-- 📅 **Ngày đăng gốc**: 07/07/2026 (SystemEXE Fresher Portal)
-- 🔗 **Link apply gốc**: [fresher.system-exe.com.vn](https://fresher.system-exe.com.vn/)
-- 📋 **Yêu cầu**: Sinh viên sắp/mới tốt nghiệp IT; đào tạo 2 tháng full-time (phụ cấp **10M VND/tháng**); Java, .NET, PHP
-- ⭐ **Phù hợp**: 4.5/5 (Đào tạo Nhật bản, phụ cấp cực tốt, cam kết ký HĐ chính thức)
-- 📎 **Xác minh**: `search_web` ✅
-
-### 7. Flexspace Technologies — Product Engineer (Intern/Fresher/Junior)
-- 📍 **Địa điểm**: 39 Nguyễn Duy Hiệu, Thủ Đức, TP. HCM — Hybrid
-- 📅 **Ngày đăng gốc**: 27/06/2026 (ITviec)
-- 🔗 **Link apply gốc**: [itviec.com - Flexspace](https://itviec.com/it-jobs/product-engineer-intern-fresher-junior-flexspace-technologies-inc-1738)
-- 📋 **Yêu cầu**: Ruby, TypeScript, Python; AI coding (Claude, Cursor); Lương **lên tới 27M VND/tháng** GROSS
-- ⭐ **Phù hợp**: 4/5 (Không dùng Java, nhưng trợ cấp cực cao & AI-native)
-- 📎 **Xác minh**: `read_url_content` ✅
-
-### 8. Bouygues Construction IT Vietnam — Software Developer - Intern
-- 📍 **Địa điểm**: Tòa nhà Etown, 364 Cộng Hòa, Quận Tân Bình, TP. HCM — Onsite
-- 📅 **Ngày đăng gốc**: 09/07/2026 (Glints + LinkedIn 1 tuần trước)
-- 🔗 **Link apply gốc**: [Glints - Bouygues Construction IT](https://glints.com/vn/opportunities/jobs/software-developer-intern/b608dfd6-5e4c-4ba3-9eaa-f0e449e6c661)
-- 📋 **Yêu cầu**: Sinh viên năm 3/4 CS/IT; **Java**, PHP; Frontend (HTML, CSS, JS, Bootstrap, **Angular**); Unit testing (JUnit); Design Patterns; Tiếng Anh tốt
-- 💰 **Trợ cấp**: **6.000.000 - 6.600.000 VNĐ/tháng**, laptop Dell & màn hình ngoài, bảo hiểm cao cấp
-- ⭐ **Phù hợp**: **4.5/5** — Đúng stack Java/OOP, phụ cấp & chế độ cực tốt cho Intern
-- 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
-
-### 9. Netcompany — Software Developers (Fresher/Last-year Student)
+### 3. Netcompany — Software Developers (Fresher/Last-year Student)
 - 📍 **Địa điểm**: Opal Tower, 92 Nguyễn Hữu Cảnh, Bình Thạnh, TP. HCM — Onsite/Hybrid
 - 📅 **Ngày đăng gốc**: 15/07/2026 (LinkedIn — Đăng 5 ngày trước, 96 applicants, BÀI ĐĂNG MỚI thay thế bài cũ)
 - 🔗 **Link apply gốc**: [LinkedIn - Netcompany](https://www.linkedin.com/jobs/view/4437682590/)
@@ -115,7 +58,7 @@
 - ⭐ **Phù hợp**: **4.5/5** — Tập đoàn Đan Mạch hàng đầu, Academy cực mạnh, Java/.NET stack
 - 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
 
-### 10. FUJINET Việt Nam — Java/.NET Fresher Developer
+### 4. FUJINET Việt Nam — Java/.NET Fresher Developer
 - 📍 **Địa điểm**: Số 10 Phổ Quang, Quận Tân Bình, TP. HCM — Onsite
 - 📅 **Ngày đăng gốc**: 16/07/2026 (UIT Forum / Facebook)
 - 🔗 **Link apply**: Gửi CV về email [tuyendung@fujinet.net](mailto:tuyendung@fujinet.net) với tiêu đề `[HCM- UNG TUYEN LAP TRINH VIEN]`
@@ -123,25 +66,7 @@
 - ⭐ **Phù hợp**: **4.5/5** — Đúng stack Java/Spring Boot/SQL, đào tạo Fresher bài bản, học tiếng Nhật miễn phí
 - 📎 **Xác minh**: `read_url_content` (UIT Forum) ✅
 
-### 11. Edtronaut — Software Engineer Intern (Fullstack)
-- 📍 **Địa điểm**: Quận 3, TP. HCM — Onsite
-- 📅 **Ngày đăng gốc**: ~20/06/2026 (Glints)
-- 🔗 **Link apply gốc**: [Glints - Edtronaut](https://glints.com/vn/opportunities/jobs/software-engineer-intern-fullstack/a565d9e3-77e1-48e2-a6a2-dfe33fce6f1a)
-- 📋 **Yêu cầu**: React/Next.js; Node.js/Express, Python/Flask; PostgreSQL/MongoDB; Docker, CI/CD
-- ⭐ **Phù hợp**: **4/5** — Yêu cầu PostgreSQL, AI & EdTech startup
-- 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
-
-### 12. ISB Việt Nam (IVC) — Intern Backend & Fullstack (2 vị trí)
-- 📍 **Địa điểm**: E Town 2, 364 Cộng Hòa, Quận Tân Bình, TP. HCM — Onsite
-- 📅 **Ngày đăng gốc**: 03/10/2025 (Website công ty, vẫn active tháng 07/2026)
-- 🔗 **Link apply**:
-    - Vị trí 1 (Intern Backend Java/Net): [ISB Careers](https://isb-vietnam.com.vn/jobs/intern-backend-java-net-and-japanese-n4-3)
-    - Vị trí 2 (Intern Fullstack AI & Automation): [ISB Careers](https://isb-vietnam.com.vn/jobs/intern-fullstack-developer-ai-automation-focus-18)
-- 📋 **Yêu cầu**: Java hoặc .NET fundamentals, OOP, SQL; tiếng Nhật N4 lợi thế; AI/Automation cho vị trí 2
-- ⭐ **Phù hợp**: **4.5/5** — Đúng stack Java, AI/Automation, thương hiệu Nhật uy tín
-- 📎 **Xác minh**: `read_url_content` (Careers page) ✅
-
-### 13. MONIQ TAP — Intern Android Developers (Kotlin/Java)
+### 5. MONIQ TAP — Intern Android Developers (Kotlin/Java)
 - 📍 **Địa điểm**: 175 Huy Cận, Thủ Đức, TP. HCM — Onsite/Hybrid
 - 📅 **Ngày đăng gốc**: 16/07/2026 (UIT Forum)
 - 🔗 **Link apply**: Gửi CV về email [lucas@moniqtap.com](mailto:lucas@moniqtap.com) với tiêu đề `INTERN_ANDROID_YourName`
@@ -150,7 +75,7 @@
 - ⭐ **Phù hợp**: **3.5/5** — Mobile Android, nhưng Thủ Đức gần UIT
 - 📎 **Xác minh**: `read_url_content` (UIT Forum) ✅
 
-### 14. Clique83 — Full Stack Engineer Intern
+### 6. Clique83 — Full Stack Engineer Intern
 - 📍 **Địa điểm**: Ho Chi Minh City — Onsite
 - 📅 **Ngày đăng gốc**: 18/07/2026 (LinkedIn)
 - 🔗 **Link apply**: [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440771010/)
@@ -158,7 +83,7 @@
 - ⭐ **Phù hợp**: **4/5** — Startup, AI-native
 - 📎 **Xác minh**: `read_url_content` ✅
 
-### 15. EON TECH — Software Engineering Intern
+### 7. EON TECH — Software Engineering Intern
 - 📍 **Địa điểm**: Ho Chi Minh City — Onsite
 - 📅 **Ngày đăng gốc**: 19/07/2026 (LinkedIn)
 - 🔗 **Link apply**: [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441758521/)
@@ -166,7 +91,7 @@
 - ⭐ **Phù hợp**: **4/5** — Đúng backend/OOP
 - 📎 **Xác minh**: `read_url_content` ✅
 
-### 16. Gameloft Saigon — Backend Developer Intern
+### 8. Gameloft Saigon — Backend Developer Intern
 - 📍 **Địa điểm**: Quận 1, TP. HCM — Onsite
 - 📅 **Ngày đăng gốc**: 14/07/2026 (LinkedIn)
 - 🔗 **Link apply**: [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/)
@@ -175,7 +100,7 @@
 - ⭐ **Phù hợp**: **4/5** — Trợ cấp cao, thương hiệu toàn cầu
 - 📎 **Xác minh**: `read_url_content` ✅
 
-### 17. 🆕 CEVA Logistics (CESA Vietnam) — Java Developer (Spring Boot, English)
+### 9. 🆕 CEVA Logistics (CESA Vietnam) — Java Developer (Spring Boot, English)
 - 📍 **Địa điểm**: Etown 2, 364 Cộng Hòa, Tân Bình, TP. HCM — Onsite
 - 📅 **Ngày đăng gốc**: ~14/07/2026 (LinkedIn — Đăng 6 ngày trước)
 - 🔗 **Link apply**: [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437260338/)
@@ -189,6 +114,8 @@
 - 💰 **Lương**: Up to **$1,000/tháng**
 - ⭐ **Phù hợp**: **4/5** — Stack Java/Spring Boot/PostgreSQL trùng 100% CV, tuy nhiên JD ghi "Junior" nên có thể cần kinh nghiệm
 - 📎 **Xác minh**: `read_url_content` (via Jina Reader) ✅
+
+---
 
 ---
 
