@@ -260,24 +260,25 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** MoMo (M_Service)** | Software Engineer II | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442003501/) |
-| 2 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 1 hour ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
-| 3 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 2 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
-| 4 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 2 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
-| 5 | Ybox | **Công Ty Kỹ** | [HCM] Công Ty Kỹ Thuật Số IT Consultis Tuyển Dụng Thực Tập Sinh Project Management Assistant 2026 | 12 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a5cecd75f65cd2d5469309a) |
-| 6 | LinkedIn | ** EON TECH** | Serverside Tagging Developer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441719219/) |
+| 1 | LinkedIn | ** Edtronaut AI** | AI Engineer Internship - Tech Startup - HCMC Onsite Only | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442005526/) |
+| 2 | LinkedIn | ** MoMo (M_Service)** | Software Engineer II | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442003501/) |
+| 3 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 3 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
+| 4 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 3 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
+| 5 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 3 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
+| 6 | Ybox | **Công Ty Kỹ** | [HCM] Công Ty Kỹ Thuật Số IT Consultis Tuyển Dụng Thực Tập Sinh Project Management Assistant 2026 | 14 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a5cecd75f65cd2d5469309a) |
 | 7 | LinkedIn | ** Corsair** | AI Data Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4405435974/) |
 | 8 | ITviec | **CÔNG TY TNHH TEENUP** | DevOps Engineer (Java, SQL, AWS, Kubernetes) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-java-sql-aws-kubernetes-cong-ty-tnhh-teenup-0425) |
-| 9 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
-| 10 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
-| 11 | LinkedIn | ** Ematic Solutions** | Web Developer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441979970/) |
-| 12 | LinkedIn | ** Ematic Solutions** | Solutions Engineer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441983824/) |
-| 13 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
-| 14 | LinkedIn | ** Axon** | Backend Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 9 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
+| 10 | LinkedIn | ** Ematic Solutions** | Web Developer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441979970/) |
+| 11 | LinkedIn | ** Ematic Solutions** | Solutions Engineer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441983824/) |
+| 12 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
+| 13 | LinkedIn | ** Axon** | Backend Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 14 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
 | 15 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded Hardware Software Specialist (HSW) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-hardware-software-specialist-hsw-bosch-global-software-technologies-company-limited-3024) |
 | 16 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Embedded Software Engineer (MCU, FreeRTOS) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-mcu-freertos-lg-electronics-development-vietnam-lgedv-2221) |
 | 17 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
