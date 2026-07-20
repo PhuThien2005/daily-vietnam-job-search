@@ -150,20 +150,21 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
-| 2 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442579442/) |
-| 3 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 4 | ITviec | **New Eagle** | Embedded Software Engineer (C, C++, Automotive, MCUs) | 4 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-c-c-automotive-mcus-new-eagle-2502) |
-| 5 | ITviec | **ATOMI DIGITAL** | Backend Developer (Java, Microservices) | 5 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/backend-developer-java-microservices-atomi-digital-5812) |
-| 6 | ITviec | **ATOMI DIGITAL** | Technical Architect (Java, Spring Boot) | 5 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/technical-leader-java-spring-boot-atomi-digital-3250) |
-| 7 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 9 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
+| 1 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
+| 2 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442579442/) |
+| 3 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 4 | ITviec | **ATOMI DIGITAL** | Backend Developer (Java, Microservices) | 5 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/backend-developer-java-microservices-atomi-digital-5812) |
+| 5 | ITviec | **ATOMI DIGITAL** | Technical Architect (Java, Spring Boot) | 5 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/technical-leader-java-spring-boot-atomi-digital-3250) |
+| 6 | ITviec | **New Eagle** | Embedded Software Engineer (C, C++, Automotive, MCUs) | 5 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-c-c-automotive-mcus-new-eagle-2502) |
+| 7 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
 | 8 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
 | 9 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
-| 10 | Ybox | **Công Ty Kỹ** | [HCM] Công Ty Kỹ Thuật Số IT Consultis Tuyển Dụng Thực Tập Sinh Project Management Assistant 2026 | 20 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a5cecd75f65cd2d5469309a) |
+| 10 | Ybox | **Công Ty Kỹ** | [HCM] Công Ty Kỹ Thuật Số IT Consultis Tuyển Dụng Thực Tập Sinh Project Management Assistant 2026 | 21 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a5cecd75f65cd2d5469309a) |
 | 11 | LinkedIn | ** Corsair** | AI Data Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4405435974/) |
 | 12 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
 | 13 | LinkedIn | ** Ematic Solutions** | Web Developer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441979970/) |
