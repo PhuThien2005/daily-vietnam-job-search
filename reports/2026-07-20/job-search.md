@@ -13,25 +13,11 @@
 | Metric | Số lượng |
 |--------|----------|
 | Tổng vị trí đã quét & xác minh | **40+** |
-| 🟢 Đang tuyển (verified open) | **16** |
-| 🟡 Chưa xác minh / Cần check thêm | **4** |
-| 🔴 Đã đóng / Hết hạn | **19** |
-| Vị trí phù hợp cao (4-5⭐) | **12** |
-| **MỚI** so với báo cáo 19/07 | **+5 vị trí mới** (Capgemini, CEVA Logistics, VNG AI Intern, FPT Software HCMUTE, Endava 5G) |
-| **ĐÃ ĐÓNG** so với 19/07 | **-4** (Bosch Java Web Intern, GEEK Up Backend Intern, VNG System Intern GreenNode, Long Van Java Intern) |
+| 🟢 Đang tuyển (verified open) | **9** |
+| 🟡 Chưa xác minh / Cần check thêm | **2** |
+| Vị trí phù hợp cao (4-5⭐) | **7** |
 
 ---
-
-## 🔴 KHẨN CẤP — Hạn chót cực gần!
-
-### 1. ⭐ FPT IS — Thực tập sinh Lập trình (Backend/Java)
-- 📍 **Địa điểm**: Quận 7, TP. HCM
-- 📅 **Ngày đăng gốc**: 01/07/2026 (YBOX)
-- ⚠️ **Hạn nộp**: **15/08/2026** — Còn ~26 ngày!
-- 🔗 **Link apply**: [YBOX - FPT IS](https://ybox.vn) (cần search "FPT IS thực tập" trên YBOX)
-- 📋 **Yêu cầu**: Sinh viên năm cuối/mới tốt nghiệp; Java, .NET, NodeJS; dự án Agile/Scrum cấp chính phủ/ngân hàng
-- ⭐ **Phù hợp**: 4/5 (Tập đoàn lớn, quy trình chuẩn)
-- 📎 **Xác minh**: `search_web` ✅
 
 ---
 
@@ -232,35 +218,7 @@
 
 ---
 
-## 🔴 ĐÃ ĐÓNG / HẾT HẠN
-
-| # | Công ty | Vị trí | Lý do đóng |
-|---|---------|--------|-------------|
-| 1 | **Bosch Vietnam** | **Java Web Developing Intern** | 🔴 **MỚI ĐÓNG** — SmartRecruiters không còn hiển thị vị trí này (đã gỡ) |
-| 2 | **GEEK Up** | **Product Backend Intern (GI Autumn 2026)** | 🔴 **MỚI ĐÓNG** — Trang GEEK Adventure không còn hiển thị đợt này |
-| 3 | **VNG Corporation** | **System Intern (GreenNode AI Cloud)** | 🔴 **MỚI ĐÓNG** — Vị trí đã bị gỡ khỏi career page VNG |
-| 4 | **Long Van System Solution** | **Java Developer Intern** | 🔴 **MỚI ĐÓNG** — Tin tuyển dụng trên Glints đã chuyển trạng thái "Closed" |
-| 5 | TAPTAP (VUI Vietnam) | SE Intern | ❌ Hạn nộp 12/07 — đã đóng |
-| 6 | AlphaSphere | Fullstack Trainee | ❌ Form đóng sau 10/07 |
-| 7 | AvePoint/MaivenPoint | Software Developer Trainee | ❌ Sự kiện phỏng vấn kết thúc 11/07 |
-| 8 | Zalo (VNG) | Tech Fresher 2026 | ❌ Đóng đăng ký từ 22/05/2026 |
-| 9 | GoTymeX | Backend (Java API) Intern | ❌ Đã đóng |
-| 10 | Pharmacity | Backend Intern | ❌ Hết hạn 30/04/2026 |
-| 11 | CJ OliveNetworks Vina | Java Developer Intern | ❌ Glints 404 — tin đã gỡ |
-| 12 | DEKON Tech | IT Program Intern | ❌ Đợt tháng 6 đã onboard |
-| 13 | Tanca | Backend Intern | ❌ Trang 404, chỉ tuyển Frontend/Tester |
-| 14 | Golden Owl Solutions | IT Intern | ❌ Không tuyển Java |
-| 15 | FPT Software | Java Fresher (trực tiếp) | ❌ Không có đợt công khai active |
-| 16 | Netcompany | Software Developer (bài cũ 4434816980) | ❌ ITviec 410 Gone — ĐÃ THAY THẾ bằng bài mới 4437682590 |
-| 17 | DigiEx Group | Backend Intern | ❌ Hạn nộp 12/07/2026 |
-| 18 | Phú Hưng Securities | Backend Developer Intern | ❌ Hạn nộp 15/07/2026 |
-| 19 | Spartan X Technology | Engineering Intern (Backend/AI) | ❌ Hạn nộp ~14/07/2026 |
-
 ---
-
-
-
-
 
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
@@ -298,11 +256,5 @@
 | 30 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437260338/) |
 | 31 | LinkedIn | ** DXC Technology** | Java Developer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439818147/) |
 | 32 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
-| 33 | LinkedIn | ** Bouygues Construction IT Vietnam** | Software Developer - Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439326221/) |
-| 34 | LinkedIn | ** Accenture** | Java Backend Developer | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
-| 35 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
-| 36 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 37 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded SW Engineer (Java/Python/C) - 1 year contract | 9 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-sw-engineer-java-python-c-1-year-contract-bosch-global-software-technologies-company-limited-0559) |
-
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
