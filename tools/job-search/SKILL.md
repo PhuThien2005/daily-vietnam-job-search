@@ -123,6 +123,9 @@ Format mỗi entry:
 6. **Mỗi entry phải ghi rõ: `📎 Xác minh: read_url_content ✅` hoặc `❌ thất bại`**
    Đây là bằng chứng bắt buộc để người đọc biết thông tin nào đáng tin.
 
+7. **Lọc bỏ các job cũ và hết hạn (QUAN TRỌNG)**
+   TUYỆT ĐỐI KHÔNG đưa vào báo cáo các tin tuyển dụng đã đăng quá 7 ngày tính từ ngày tìm kiếm, hoặc các tin có hạn nộp đã qua. LUÔN LUÔN rà soát và loại bỏ các job hết hạn trong mỗi lần cập nhật báo cáo.
+
 ---
 
 ## Danh sách nguồn tìm kiếm
