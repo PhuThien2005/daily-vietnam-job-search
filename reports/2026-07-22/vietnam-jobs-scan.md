@@ -6,12 +6,12 @@ Tìm thấy **36** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Mondelēz International** | R&amp;D Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434923813/) |
-| 2 | LinkedIn | ** CODE LEAP** | Typescript Engineer Intern - 6-month Internship | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440454246/) |
-| 3 | ITviec | **Eastgate Software** | DevOps Engineer (Cloud, AWS, Docker, Kubernetes) | 7 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-eastgate-software-4822) |
-| 4 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 8 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
-| 5 | LinkedIn | ** CoverGo | Insurtech** | AI Engineer Intern | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443317623/) |
-| 6 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
+| 1 | LinkedIn | ** Mondelēz International** | R&amp;D Intern | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434923813/) |
+| 2 | LinkedIn | ** CODE LEAP** | Typescript Engineer Intern - 6-month Internship | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440454246/) |
+| 3 | ITviec | **Eastgate Software** | DevOps Engineer (Cloud, AWS, Docker, Kubernetes) | 9 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-eastgate-software-4822) |
+| 4 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
+| 5 | LinkedIn | ** CoverGo | Insurtech** | AI Engineer Intern | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443317623/) |
+| 6 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 12 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
 | 7 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
 | 8 | LinkedIn | ** GeoComply** | Software Engineer Intern (Fullstack) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442729172/) |
 | 9 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
@@ -33,12 +33,12 @@ Tìm thấy **36** vị trí thực tập/fresher phù hợp.
 | 25 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
 | 26 | LinkedIn | ** Axon** | Backend Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
 | 27 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
-| 28 | LinkedIn | ** CODE LEAP** | Junior Backend Engineer (.NET + Azure) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4438010415/) |
-| 29 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
-| 30 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
-| 31 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
-| 32 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
-| 33 | LinkedIn | ** PwC** | Intern - Deal Valuation | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682491/) |
-| 34 | LinkedIn | ** FORVIA HELLA** | Embedded SW Engineer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434986292/) |
-| 35 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
+| 28 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
+| 29 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
+| 30 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 31 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 32 | LinkedIn | ** PwC** | Intern - Deal Valuation | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682491/) |
+| 33 | LinkedIn | ** FORVIA HELLA** | Embedded SW Engineer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434986292/) |
+| 34 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
+| 35 | LinkedIn | ** CODE LEAP** | Junior Backend Engineer (.NET + Azure) | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4438010415/) |
 | 36 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded SW Engineer (Java/Python/C) - 1 year contract | 11 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-sw-engineer-java-python-c-1-year-contract-bosch-global-software-technologies-company-limited-0559) |
