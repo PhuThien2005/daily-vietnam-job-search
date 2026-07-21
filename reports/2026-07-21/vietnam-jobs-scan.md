@@ -1,6 +1,6 @@
 # Báo cáo tuyển dụng Java/Backend/Software Intern (2026-07-21)
 
-Tìm thấy **36** vị trí thực tập/fresher phù hợp.
+Tìm thấy **39** vị trí thực tập/fresher phù hợp.
 
 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
@@ -41,4 +41,7 @@ Tìm thấy **36** vị trí thực tập/fresher phù hợp.
 | 33 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
 | 34 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
 | 35 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 36 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded SW Engineer (Java/Python/C) - 1 year contract | 10 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-sw-engineer-java-python-c-1-year-contract-bosch-global-software-technologies-company-limited-0559) |
+| 36 | UIT Forum | **MONIQTAP** | Intern Android Developers (Kotlin/Java) | Today | [Forum Direct Link](https://forum.uit.edu.vn) |
+| 37 | UIT Forum | **Openway** | Internship Program 2026 (Java) | Today | [Forum Direct Link](https://forum.uit.edu.vn) |
+| 38 | Company Site | **Bosch R&D Center (Vietnam)** | Bosch R&D - Internship - Java Web Developing Intern (Spring Boot) | Today | [Company Direct Link](https://www.bosch.vn/careers/) |
+| 39 | Company Site | **ISB Vietnam** | Thực tập sinh Java (Spring Boot) | Today | [Company Direct Link](https://www.isbvietnam.com.vn) |
