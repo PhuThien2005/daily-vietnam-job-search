@@ -12,10 +12,10 @@
 
 | Metric | Số lượng |
 |--------|----------|
-| Tổng vị trí đã quét & xác minh | **78+** |
-| 🟢 Đang tuyển (verified open) | **11** |
+| Tổng vị trí đã quét & xác minh | **95+** |
+| 🟢 Đang tuyển (verified open) | **16** |
 | 🟡 Chưa xác minh / Cần check thêm | **2** |
-| Vị trí phù hợp cao (4-5⭐) | **9** |
+| Vị trí phù hợp cao (4-5⭐) | **13** |
 | *Lưu ý: Ngoài các vị trí trực tiếp, hiện có các chương trình Talent Program / Tech Academy của các tập đoàn lớn (NAB, TMA, Bosch...) dành cho Fresher Java rất đáng chú ý.* |
 
 ---
@@ -134,6 +134,47 @@
 - ⭐ **Phù hợp**: **4.5/5** — Rất tốt để rèn luyện kỹ năng thực tế với Java.
 - 📎 **Xác minh**: `search_web` ✅
 
+### 12. 🆕 Bosch R&D — Java Web Developing Intern
+- 📍 **Địa điểm**: Lầu 7, The Mett Office, 15 Trần Bạch Đằng, Thủ Thiêm, Thủ Đức, TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Tháng 07/2026 (SmartRecruiters / Bosch Careers)
+- 🔗 **Link apply**: [Bosch SmartRecruiters Portal](https://careers.smartrecruiters.com/BoschGroup/vietnam) hoặc nộp CV qua email HR: [Truc.LeThiPhuong@vn.bosch.com](mailto:Truc.LeThiPhuong@vn.bosch.com)
+- 📋 **Yêu cầu**: Sinh viên ngành CS/IT; Java programming, OOP; quen thuộc với **Spring Boot** và RESTful API; SQL/NoSQL; Tiếng Anh giao tiếp tốt.
+- ⭐ **Phù hợp**: **5/5 (Perfect Match)** — Tập đoàn công nghệ hàng đầu, đúng vị trí Backend Java/Spring Boot thực tế, trợ cấp và môi trường rất tốt.
+- 📎 **Xác minh**: `read_url_content` (via SmartRecruiters) ✅
+
+### 13. 🆕 ELCA Vietnam — Java Trainee (ELCAdemy)
+- 📍 **Địa điểm**: TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Tháng 07/2026 (ELCA Careers + ITviec)
+- 🔗 **Link apply**: [ELCA Careers](https://www.elca.vn/en/career) hoặc qua ITviec/LinkedIn.
+- 📋 **Yêu cầu**: Tốt nghiệp CS/IT; tư duy logic tốt; OOP, SOLID principles, Design Patterns, data modeling; quen thuộc với **Spring/Spring Boot** là lợi thế; Tiếng Anh tốt.
+- ⭐ **Phù hợp**: **4.5/5** — Chương trình đào tạo chuyên sâu chuẩn Thụy Sĩ, trợ cấp tốt và cơ hội onboard chính thức cao.
+- 📎 **Xác minh**: `read_url_content` ✅
+
+### 14. 🆕 GEEK Up — Product Backend Intern (GI Autumn 2026)
+- 📍 **Địa điểm**: TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: 07/07/2026 (UIT Forum)
+- 🔗 **Link apply**: [UIT Forum Thread](https://forum.uit.edu.vn/t/product-backend-intern-gi-autumn-2026) (hoặc xem tại [geekadventure.vn](https://geekadventure.vn))
+- 📋 **Yêu cầu**: Đam mê trở thành Software Engineer; kiến thức tốt về backend development (Java/Node.js/Go); tư duy giải quyết vấn đề tốt; cam kết làm việc full-time từ **17/08/2026 đến 23/10/2026** (10 tuần).
+- ⭐ **Phù hợp**: **4/5** — Môi trường Product/Agile rất chất lượng, tuy nhiên thực tập 10 tuần cần sắp xếp lịch học.
+- 📎 **Xác minh**: `read_url_content` (UIT Forum) ✅
+
+### 15. 🆕 Bosch Global Software Technologies (BGSW) — Embedded Software Intern (C++/Java/Python)
+- 📍 **Địa điểm**: Etown Building, 364 Cộng Hòa, Tân Bình, TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Tháng 07/2026 (HCMUTE Career Hub + SmartRecruiters)
+- 🔗 **Link apply**: [SmartRecruiters Direct Link](https://smrtr.io/z7gsS)
+- 📋 **Yêu cầu**: Sinh viên năm 3/năm cuối ngành CS/IT/Embedded; lập trình C++ hoặc **Java** hoặc Python; OOP; tiếng Anh tốt.
+- ⭐ **Phù hợp**: **4/5** — Phân khúc Automotive/Embedded, nhưng có track Java và thương hiệu Bosch lớn.
+- 📎 **Xác minh**: `read_url_content` ✅
+
+### 16. 🆕 BioTuring — Software Engineer (B-GENS Program 2026)
+- 📍 **Địa điểm**: TP. HCM — Onsite
+- 📅 **Ngày đăng gốc**: Tháng 07/2026 (HCMUTE Career)
+- 🔗 **Link apply**: Nộp qua thông báo B-GENS 2026 của trường/fanpage BioTuring.
+- 📋 **Yêu cầu**: Tư duy thuật toán cực mạnh, cấu trúc dữ liệu; Java/C++/.NET; sinh viên năm cuối hoặc mới tốt nghiệp.
+- 💰 **Trợ cấp**: **18.000.000 VNĐ (Gross) / tháng** trong thời gian đào tạo 5 tháng.
+- ⭐ **Phù hợp**: **4.5/5** — Trợ cấp khủng nhất thị trường cho Intern/Fresher, thử thách thuật toán cao.
+- 📎 **Xác minh**: `search_web` (xác nhận chương trình B-GENS 2026 hoạt động) ✅
+
 ---
 
 ---
@@ -200,44 +241,51 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** RAKSUL Vietnam** | Backend Engineer Intern | 25 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442950810/) |
-| 2 | ITviec | **bbv Vietnam** | Java Backend Developer (Java 17+, Spring Boot, English) | 58 minutes ago | [ITviec Direct Link](https://itviec.com/it-jobs/java-backend-developer-java-17-spring-boot-english-bbv-vietnam-1758) |
-| 3 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 1 hour ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
-| 4 | LinkedIn | ** CODE LEAP** | Typescript Engineer Intern - 6-month Internship | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440454246/) |
-| 5 | ITviec | **Eastgate Software** | DevOps Engineer (Cloud, AWS, Docker, Kubernetes) | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-eastgate-software-4822) |
-| 6 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
-| 7 | LinkedIn | ** CoverGo | Insurtech** | AI Engineer Intern | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443317623/) |
-| 8 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 21 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
-| 9 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
-| 10 | LinkedIn | ** GeoComply** | Software Engineer Intern (Fullstack) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442729172/) |
-| 11 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442579442/) |
-| 12 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 13 | LinkedIn | ** GeoComply** | Software Engineer Intern, iOS | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442719661/) |
-| 14 | ITviec | **ATOMI DIGITAL** | Backend Developer (Java, Microservices) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/backend-developer-java-microservices-atomi-digital-5812) |
-| 15 | ITviec | **ATOMI DIGITAL** | Technical Architect (Java, Spring Boot) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/technical-leader-java-spring-boot-atomi-digital-3250) |
-| 16 | ITviec | **New Eagle** | Embedded Software Engineer (C, C++, Automotive, MCUs) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-c-c-automotive-mcus-new-eagle-2502) |
-| 17 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
-| 18 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
-| 19 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
-| 20 | LinkedIn | ** Corsair** | AI Data Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4405435974/) |
-| 21 | ITviec | **CÔNG TY TNHH TEENUP** | DevOps Engineer (Java, SQL, AWS, Kubernetes) | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-java-sql-aws-kubernetes-cong-ty-tnhh-teenup-0425) |
-| 22 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
-| 23 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
-| 24 | LinkedIn | ** Ematic Solutions** | Web Developer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441979970/) |
-| 25 | LinkedIn | ** Ematic Solutions** | Solutions Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441983824/) |
-| 26 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
-| 27 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
-| 28 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
-| 29 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
-| 30 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
-| 31 | LinkedIn | ** FORVIA HELLA** | Embedded SW Engineer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434986292/) |
-| 32 | LinkedIn | ** PwC** | Intern - Deal Valuation | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682491/) |
-| 33 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
-| 34 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded SW Engineer (Java/Python/C) - 1 year contract | 11 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-sw-engineer-java-python-c-1-year-contract-bosch-global-software-technologies-company-limited-0559) |
+| 1 | LinkedIn | ** RAKSUL Vietnam** | Backend Engineer Intern | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442950810/) |
+| 2 | ITviec | **bbv Vietnam** | Java Backend Developer (Java 17+, Spring Boot, English) | 2 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/java-backend-developer-java-17-spring-boot-english-bbv-vietnam-1758) |
+| 3 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 2 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 4 | LinkedIn | ** CODE LEAP** | Typescript Engineer Intern - 6-month Internship | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440454246/) |
+| 5 | ITviec | **Eastgate Software** | DevOps Engineer (Cloud, AWS, Docker, Kubernetes) | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-eastgate-software-4822) |
+| 6 | LinkedIn | ** Amaris Consulting** | Junior Full Stack Developer (Java Angular) | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440439562/) |
+| 7 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 20 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
+| 8 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 22 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
+| 9 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Financial Services | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440418699/) |
+| 10 | LinkedIn | ** DXC Technology Vietnam** | Software Engineer (Java) | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436462763/) |
+| 11 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Java EE) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442587968/) |
+| 12 | LinkedIn | ** GeoComply** | Software Engineer Intern (Fullstack) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442729172/) |
+| 13 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442579442/) |
+| 14 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
+| 15 | LinkedIn | ** GeoComply** | Software Engineer Intern, iOS | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442719661/) |
+| 16 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 17 | ITviec | **ATOMI DIGITAL** | Backend Developer (Java, Microservices) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/backend-developer-java-microservices-atomi-digital-5812) |
+| 18 | ITviec | **ATOMI DIGITAL** | Technical Architect (Java, Spring Boot) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/technical-leader-java-spring-boot-atomi-digital-3250) |
+| 19 | ITviec | **New Eagle** | Embedded Software Engineer (C, C++, Automotive, MCUs) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-c-c-automotive-mcus-new-eagle-2502) |
+| 20 | LinkedIn | ** KMS Technology, Inc.** | Middle Java Software Engineer (Spring, AWS) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4424149381/) |
+| 21 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
+| 22 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
+| 23 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
+| 24 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439209531/) |
+| 25 | ITviec | **CÔNG TY TNHH TEENUP** | DevOps Engineer (Java, SQL, AWS, Kubernetes) | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-java-sql-aws-kubernetes-cong-ty-tnhh-teenup-0425) |
+| 26 | ITviec | **LG CNS Việt Nam** | Korean Bridge Software Engineer | 4 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/korean-bridge-software-engineer-lg-cns-viet-nam-0625) |
+| 27 | LinkedIn | ** DXC Technology** | Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432605891/) |
+| 28 | LinkedIn | ** Capgemini** | Software Engineer Intern (Salesforce/Guidewire/RPA) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440665420/) |
+| 29 | LinkedIn | ** Axon** | Backend Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 30 | LinkedIn | ** Ematic Solutions** | Web Developer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441979970/) |
+| 31 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 5 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
+| 32 | LinkedIn | ** HD SAISON Finance Co., Ltd** | Java Developer - HCM | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440626377/) |
+| 33 | LinkedIn | ** UNIT Technology Corporation** | Back End Developer (Java) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439986503/) |
+| 34 | LinkedIn | ** Endava Vietnam** | Software Developer Intern (C++) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440947942/) |
+| 35 | LinkedIn | ** Intel** | MPE Product Development Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440223270/) |
+| 36 | ITviec | **Tập đoàn ROX (ROX Group)** | Fullstack Developer (Java, Spring, ReactJS) - 2V069 | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-developer-java-spring-reactjs-2v069-tap-doan-rox-rox-group-0703) |
+| 37 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 6 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
+| 38 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437260338/) |
+| 39 | LinkedIn | ** Gameloft Saigon** | Backend Developer Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440008282/) |
+| 40 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded SW Engineer (Java/Python/C) - 1 year contract | 11 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-sw-engineer-java-python-c-1-year-contract-bosch-global-software-technologies-company-limited-0559) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
