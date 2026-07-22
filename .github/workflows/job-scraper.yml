@@ -41,6 +41,7 @@ jobs:
           # Only commit and push if there are modified/new files in reports/
           if ! git diff --cached --quiet; then
             git commit -m "auto: update daily job search reports for ${{ env.TODAY_DATE }}"
+            git pull --rebase origin ${{ github.ref_name }}
             git push
             echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
           else
