@@ -7,10 +7,10 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Backend Java Developer (Onsite Bank)** | Devwork_Test | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4443952554/) |
-| 2 | **TypeScript Software Engineer** | Serdao / Digital Services &amp; 24/7 IT Support | District 1, Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4443134362/) |
-| 3 | **Full-stack Test Engineer Intern** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4443768298/) |
-| 4 | **Back End Software Engineer** | Manulife | Tân Bình, Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4442948040/) |
+| 1 | **Backend Java Developer (Onsite Bank)** | Devwork_Test | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4443952554/) |
+| 2 | **TypeScript Software Engineer** | Serdao / Digital Services &amp; 24/7 IT Support | District 1, Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4443134362/) |
+| 3 | **Full-stack Test Engineer Intern** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4443768298/) |
+| 4 | **Back End Software Engineer** | Manulife | Tân Bình, Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4442948040/) |
 | 5 | **AI Engineer Intern** | CoverGo / Insurtech | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4443317623/) |
 | 6 | **Software Engineer, Java, Financial Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4440418699/) |
 | 7 | **Typescript Engineer Intern - 6-month Internship** | CODE LEAP | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4440454246/) |
