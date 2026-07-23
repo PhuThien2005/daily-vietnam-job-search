@@ -203,61 +203,15 @@
 - ⭐ **Phù hợp**: 3.5/5 — Thiên về AI/Data hơn Backend thuần
 - 📎 **Xác minh**: `read_url_content` ✅ nhưng link career page chung, cần check vị trí cụ thể
 
----
+## 🔴 ĐÃ ĐÓNG / THEO DÕI ĐỢT SAU
 
----
+### 1. Zalo - Tech Fresher 2026
+- 🔗 **Link gốc**: [zalo.careers/techfresher](https://zalo.careers/techfresher)
+- 💡 **Ghi chú**: Đã đóng nhận CV đợt 1 năm 2026. Chuẩn bị cho các đợt mở rộng tiếp theo.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 2. DigiEx Group — Java Intern 2026
+- 🔗 **Link gốc**: [digiex.group/careers](https://digiex.group)
+- 💡 **Ghi chú**: Đã hết hạn nộp CV đợt tuyển thực tập hè.
 
 
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
@@ -307,3 +261,18 @@
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
+
+---
+
+## 📌 Ghi chú & Khuyến nghị
+
+1. **Top 3 Vị trí Cần Ưu Tiên Nộp CV Ngay (Perfect Match 5/5 ⭐)**:
+   - **NAB Innovation Centre Vietnam** — *Early Careers: StarCamp Batch 24* (Backend Java track): Đào tạo 3 tháng hưởng lương, môi trường Úc chuẩn mực.
+   - **GeoComply** — *Software Engineer Intern (Backend)*: Unicorn product, làm việc tại Q1 HCM (Hybrid), rất chuộng ứng viên Java + TOEIC 900+.
+   - **Bosch R&D** — *Java Web Developing Intern*: Yêu cầu Java/Spring Boot, REST API, làm việc tại Thủ Thiêm Q2 (TP. Thủ Đức).
+
+2. **Chiến lược chuẩn bị CV & Phỏng vấn**:
+   - Nhấn mạnh các dự án cá nhân/môn học về **Java 17/21**, **Spring Boot**, **RESTful APIs**, **PostgreSQL/MySQL**, và kiến thức về **Docker / CI-CD**.
+   - Chuẩn bị sẵn khả năng giao tiếp Tiếng Anh tốt (đặc biệt đối với NAB, GeoComply, Capgemini, Netcompany, CEVA Logistics, Bosch).
+   - Tiếp tục theo dõi các kênh diễn đàn trường (UIT Forum, FIT HCMUS, HCMUTE Career) cho các đợt nhận thực tập đợt Autumn 2026.
+
