@@ -13,9 +13,9 @@
 | Metric | Số lượng |
 |--------|----------|
 | Tổng vị trí đã quét & xác minh | **95+** |
-| 🟢 Đang tuyển (verified open) | **16** |
-| 🟡 Chưa xác minh / Cần check thêm | **2** |
-| Vị trí phù hợp cao (4-5⭐) | **13** |
+| 🟢 Đang tuyển (verified open) | **15** |
+| 🟡 Chưa xác minh / Cần check thêm | **3** |
+| Vị trí phù hợp cao (4-5⭐) | **12** |
 | *Lưu ý: Ngoài các vị trí trực tiếp, hiện có các chương trình Talent Program / Tech Academy của các tập đoàn lớn (NAB, TMA, Bosch...) dành cho Fresher Java rất đáng chú ý.* |
 
 ---
@@ -166,15 +166,6 @@
 - ⭐ **Phù hợp**: **4/5** — Phân khúc Automotive/Embedded, nhưng có track Java và thương hiệu Bosch lớn.
 - 📎 **Xác minh**: `read_url_content` ✅
 
-### 16. 🆕 BioTuring — Software Engineer (B-GENS Program 2026)
-- 📍 **Địa điểm**: TP. HCM — Onsite
-- 📅 **Ngày đăng gốc**: Tháng 07/2026 (HCMUTE Career)
-- 🔗 **Link apply**: Nộp qua thông báo B-GENS 2026 của trường/fanpage BioTuring.
-- 📋 **Yêu cầu**: Tư duy thuật toán cực mạnh, cấu trúc dữ liệu; Java/C++/.NET; sinh viên năm cuối hoặc mới tốt nghiệp.
-- 💰 **Trợ cấp**: **18.000.000 VNĐ (Gross) / tháng** trong thời gian đào tạo 5 tháng.
-- ⭐ **Phù hợp**: **4.5/5** — Trợ cấp khủng nhất thị trường cho Intern/Fresher, thử thách thuật toán cao.
-- 📎 **Xác minh**: `search_web` (xác nhận chương trình B-GENS 2026 hoạt động) ✅
-
 ---
 
 ---
@@ -205,11 +196,15 @@
 
 ## 🔴 ĐÃ ĐÓNG / THEO DÕI ĐỢT SAU
 
-### 1. Zalo - Tech Fresher 2026
+### 1. BioTuring — Software Engineer (B-GENS Program 2026)
+- 🔗 **Link gốc**: [bioturing.com/careers](https://bioturing.com)
+- 💡 **Ghi chú**: 🔴 **ĐÃ ĐÓNG (Hết hạn 19/04/2026)**. Đã đóng đơn ứng tuyển đợt 1 năm 2026 và đã chính thức onboard từ tháng 06/2026 (Trợ cấp 18M gross/tháng). Theo dõi các đợt tuyển tiếp theo.
+
+### 2. Zalo - Tech Fresher 2026
 - 🔗 **Link gốc**: [zalo.careers/techfresher](https://zalo.careers/techfresher)
 - 💡 **Ghi chú**: Đã đóng nhận CV đợt 1 năm 2026. Chuẩn bị cho các đợt mở rộng tiếp theo.
 
-### 2. DigiEx Group — Java Intern 2026
+### 3. DigiEx Group — Java Intern 2026
 - 🔗 **Link gốc**: [digiex.group/careers](https://digiex.group)
 - 💡 **Ghi chú**: Đã hết hạn nộp CV đợt tuyển thực tập hè.
 
