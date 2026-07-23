@@ -33,6 +33,7 @@ jobs:
         run: |
           echo "TODAY_DATE=$(python3 -c "from datetime import datetime, timezone, timedelta; print(datetime.now(timezone(timedelta(hours=7))).strftime('%Y-%m-%d'))")" >> $GITHUB_ENV
           echo "RUN_TIME=$(python3 -c "from datetime import datetime, timezone, timedelta; print(datetime.now(timezone(timedelta(hours=7))).strftime('%H:%M:%S'))")" >> $GITHUB_ENV
+          echo "RUN_COUNT=$(python3 -c "from datetime import datetime, timezone, timedelta; h = datetime.now(timezone(timedelta(hours=7))).hour; print(h if h > 0 else 24)")" >> $GITHUB_ENV
 
       - name: Commit and Push changes
         run: |
@@ -56,7 +57,7 @@ jobs:
           # 1. Send text message notification
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
             -d "chat_id=${{ secrets.TELEGRAM_TO }}" \
-            -d "text=🌅 Hệ thống tự động quét đã chạy và phát hiện thay đổi mới trong báo cáo tuyển dụng ngày ${{ env.TODAY_DATE }} lúc ${{ env.RUN_TIME }}. Vui lòng xem 3 file báo cáo chi tiết được gửi đính kèm bên dưới!"
+            -d "text=🌅 [Lần thứ ${{ env.RUN_COUNT }} trong ngày] Hệ thống tự động quét đã chạy và phát hiện thay đổi mới trong báo cáo tuyển dụng ngày ${{ env.TODAY_DATE }} lúc ${{ env.RUN_TIME }}. Vui lòng xem 3 file báo cáo chi tiết được gửi đính kèm bên dưới!"
           
           # 2. Upload job-search.md
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendDocument" \
@@ -81,4 +82,4 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
             -d "chat_id=${{ secrets.TELEGRAM_TO }}" \
-            -d "text=🔍 Hệ thống đã tự động chạy quét lúc ${{ env.RUN_TIME }} (${{ env.TODAY_DATE }}) nhưng không phát hiện thay đổi hay tin tuyển dụng mới nào."
+            -d "text=🔍 [Lần thứ ${{ env.RUN_COUNT }} trong ngày] Hệ thống đã tự động chạy quét lúc ${{ env.RUN_TIME }} (${{ env.TODAY_DATE }}) nhưng không phát hiện thay đổi hay tin tuyển dụng mới nào."
