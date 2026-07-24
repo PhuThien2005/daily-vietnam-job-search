@@ -263,7 +263,7 @@
     ]
   },
   "search_settings": {
-    "max_days_old": 14,
+    "max_days_old": 7,
     "locations": ["Ho Chi Minh City", "Thu Duc", "Remote"],
     "position_types": ["Internship", "Fresher"],
     "languages": ["Vietnamese", "English"],

@@ -46,7 +46,7 @@ def search_linkedin(queries):
     jobs = []
     print("📡 Scanning LinkedIn Guest API...")
     for q in queries:
-        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={urllib.parse.quote(q)}&location=Ho%20Chi%20Minh%20City&f_TPR=r864000"
+        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={urllib.parse.quote(q)}&location=Ho%20Chi%20Minh%20City&f_TPR=r604800"
         try:
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req) as resp:
@@ -239,6 +239,11 @@ def filter_jobs(jobs):
             if not (has_it_word or has_other_keywords):
                 continue
                 
+        # Check time limit (<= 7 days / 168 hours)
+        hours_old = parse_time_to_hours(job["time"])
+        if hours_old > 168:
+            continue
+            
         if is_included and not is_excluded:
             filtered.append(job)
             seen_ids.add(job["id"])

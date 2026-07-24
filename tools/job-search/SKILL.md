@@ -51,8 +51,9 @@ Nguồn ưu tiên theo thứ tự:
 3. **Diễn đàn trường**: UIT Forum (`forum.uit.edu.vn/c/ho-tro-doi-song/viec-lam-thuc-tap/32`), FIT HCMUS, HCMUTE
 4. **Career page công ty**: Bosch, GeoComply, VNG, OPSWAT, ShopBack, v.v.
 
-**Tối ưu search quality (tìm job mới nhất):**
-- Dùng `after:YYYY-MM-DD` trong query Google để lọc kết quả mới
+**Tối ưu search quality (tìm job mới nhất đăng trong 1 tuần đổ lại):**
+- Giới hạn thời gian quét `max_days_old: 7` (chỉ lấy các tin đăng <= 7 ngày tính đến ngày hiện tại)
+- Dùng `after:YYYY-MM-DD` (ngày hiện tại trừ 7 ngày) trong query Google để lọc kết quả mới
 - Ưu tiên query site-specific: `site:itviec.com "java intern" "ho chi minh" 2026`
 - Kết hợp nhiều query nhỏ thay vì 1 query lớn
 - Thêm query tiếng Việt: `"thực tập" "java" OR "backend" "hồ chí minh"`
