@@ -1,6 +1,6 @@
 # Báo cáo tuyển dụng Java/Backend/Software Intern (2026-07-25)
 
-Tìm thấy **41** vị trí thực tập/fresher phù hợp.
+Tìm thấy **40** vị trí thực tập/fresher phù hợp.
 
 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
@@ -26,15 +26,15 @@ Tìm thấy **41** vị trí thực tập/fresher phù hợp.
 | 18 | ITviec | **Usol Vietnam** | Fullstack Dev-Java, Angular, Japanese, Oracle, SQL, Git | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-dev-java-angular-japanese-oracle-sql-git-usol-vietnam-1909) |
 | 19 | ITviec | **MAXIMUS SOLUTION COMPANY LIMITED** | Mid/Sr Fullstack Dev (Java EE, Angular, JavaScript) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/mid-sr-fullstack-dev-java-ee-angular-javascript-maximus-solution-company-limited-3234) |
 | 20 | ITviec | **Bosch Global Software Technologies Company Limited** | Embedded Hardware Software Specialist (HSW) | 2 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-hardware-software-specialist-hsw-bosch-global-software-technologies-company-limited-3024) |
-| 21 | LinkedIn | ** Amaris Consulting** | Junior Full Stack Developer (Java Angular) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440439562/) |
-| 22 | LinkedIn | ** Manulife** | Back End Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442948040/) |
-| 23 | LinkedIn | ** CODE LEAP** | Typescript Engineer Intern - 6-month Internship | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440454246/) |
-| 24 | ITviec | **bbv Vietnam** | Java Backend Developer (Java 17+, Spring Boot, English) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/java-backend-developer-java-17-spring-boot-english-bbv-vietnam-1758) |
-| 25 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
-| 26 | ITviec | **Eastgate Software** | DevOps Engineer (Cloud, AWS, Docker, Kubernetes) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-eastgate-software-4822) |
-| 27 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
-| 28 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
-| 29 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Financial Services | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440418699/) |
+| 21 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Financial Services | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440418699/) |
+| 22 | LinkedIn | ** Amaris Consulting** | Junior Full Stack Developer (Java Angular) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440439562/) |
+| 23 | LinkedIn | ** Manulife** | Back End Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442948040/) |
+| 24 | LinkedIn | ** CODE LEAP** | Typescript Engineer Intern - 6-month Internship | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440454246/) |
+| 25 | ITviec | **bbv Vietnam** | Java Backend Developer (Java 17+, Spring Boot, English) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/java-backend-developer-java-17-spring-boot-english-bbv-vietnam-1758) |
+| 26 | ITviec | **ONE Tech Stop Vietnam Company Ltd** | [Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516) |
+| 27 | ITviec | **Eastgate Software** | DevOps Engineer (Cloud, AWS, Docker, Kubernetes) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/devops-engineer-eastgate-software-4822) |
+| 28 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
+| 29 | ITviec | **Vietlink** | Bridge Software Engineer (BRSE) | 3 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-software-engineer-brse-vietlink-3551) |
 | 30 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Java EE) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442587968/) |
 | 31 | LinkedIn | ** DXC Technology Vietnam** | Software Engineer (Java) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436462763/) |
 | 32 | LinkedIn | ** GeoComply** | Software Engineer Intern (Fullstack) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442729172/) |
@@ -46,4 +46,3 @@ Tìm thấy **41** vị trí thực tập/fresher phù hợp.
 | 38 | LinkedIn | ** KMS Technology, Inc.** | Middle Java Software Engineer (Spring, AWS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4424149381/) |
 | 39 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 5 days ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
 | 40 | LinkedIn | ** Growtrics** | Agentic / Backend Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442458085/) |
-| 41 | LinkedIn | ** WorldQuant** | Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4424178671/) |
