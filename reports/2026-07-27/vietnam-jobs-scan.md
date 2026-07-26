@@ -6,9 +6,9 @@ Tìm thấy **41** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445632185/) |
-| 2 | LinkedIn | ** WorldQuant** | Python Engineer | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
-| 3 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Embedded Software Engineer (MCU, FreeRTOS) | 14 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-mcu-freertos-lg-electronics-development-vietnam-lgedv-2221) |
+| 1 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445632185/) |
+| 2 | LinkedIn | ** WorldQuant** | Python Engineer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
+| 3 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Embedded Software Engineer (MCU, FreeRTOS) | 15 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-mcu-freertos-lg-electronics-development-vietnam-lgedv-2221) |
 | 4 | LinkedIn | ** Manulife** | Back End Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
 | 5 | ITviec | **Bosch Global Software Technologies Company Limited** | ADAS Embedded Software Architect | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/adas-embedded-software-architect-bosch-global-software-technologies-company-limited-2328) |
 | 6 | LinkedIn | ** ADA** | Data Quality Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4444072239/) |
