@@ -6,17 +6,17 @@ Tìm thấy **37** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | ITviec | **TPS Software** | Bridge System Engineer | 2 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-system-engineer-tps-software-5907) |
-| 2 | LinkedIn | ** GMO-Z.com RUNSYSTEM** | Full-Time Developer Intern | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445128867/) |
-| 3 | LinkedIn | ** FORVIA HELLA** | Embedded Software Engineer Intern | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443477530/) |
-| 4 | ITviec | **Motorist Pte Ltd** | Junior Android Developer (Kotlin/Java) | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/junior-android-developer-kotlin-java-motorist-pte-ltd-3443) |
-| 5 | ITviec | **Vietnamobile** | Application Support Engineer (Java, Oracle, SQL) | 11 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/application-support-engineer-java-oracle-sql-vietnamobile-4345) |
-| 6 | ITviec | **Fullerton Health** | Data Engineer (English required, Ho Chi Minh/Ha Noi) | 13 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/data-engineer-english-required-ho-chi-minh-ha-noi-fullerton-health-1448) |
-| 7 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 15 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
-| 8 | ITviec | **LG CNS Việt Nam** | Fullstack Java Developer (Good At English) | 17 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-java-developer-good-at-english-lg-cns-viet-nam-2655) |
-| 9 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
-| 10 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
-| 11 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 18 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
+| 1 | ITviec | **TPS Software** | Bridge System Engineer | 4 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/bridge-system-engineer-tps-software-5907) |
+| 2 | LinkedIn | ** GMO-Z.com RUNSYSTEM** | Full-Time Developer Intern | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445128867/) |
+| 3 | LinkedIn | ** FORVIA HELLA** | Embedded Software Engineer Intern | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443477530/) |
+| 4 | ITviec | **Motorist Pte Ltd** | Junior Android Developer (Kotlin/Java) | 11 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/junior-android-developer-kotlin-java-motorist-pte-ltd-3443) |
+| 5 | ITviec | **Vietnamobile** | Application Support Engineer (Java, Oracle, SQL) | 12 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/application-support-engineer-java-oracle-sql-vietnamobile-4345) |
+| 6 | ITviec | **Fullerton Health** | Data Engineer (English required, Ho Chi Minh/Ha Noi) | 15 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/data-engineer-english-required-ho-chi-minh-ha-noi-fullerton-health-1448) |
+| 7 | ITviec | **VNEXT SOFTWARE** | Đà Nẵng - AI Engineer (Python, R, Machine Learning) | 17 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/senior-leader-ai-engineer-da-nang-vnext-software-1258) |
+| 8 | ITviec | **LG CNS Việt Nam** | Fullstack Java Developer (Good At English) | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/fullstack-java-developer-good-at-english-lg-cns-viet-nam-2655) |
+| 9 | ITviec | **Datalogic Việt Nam** | Automation Testing Software Engineer | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automation-testing-software-engineer-datalogic-viet-nam-3435) |
+| 10 | ITviec | **MB Bank** | AI Software Engineer (Python/Go/C/C++ &amp; AI Agents) | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-3233) |
+| 11 | ITviec | **MB Bank** | MB Trainee - AI Engineer (Fresher, Intern) | 19 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-1914) |
 | 12 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445632185/) |
 | 13 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
 | 14 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Embedded Software Engineer (MCU, FreeRTOS) | 1 day ago | [ITviec Direct Link](https://itviec.com/it-jobs/embedded-software-engineer-mcu-freertos-lg-electronics-development-vietnam-lgedv-2221) |
