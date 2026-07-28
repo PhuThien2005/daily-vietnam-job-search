@@ -268,19 +268,20 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** NOTE - The Scent Lab** | [HCM] INTERN 6 months - MARKETING INTERN | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446342302/) |
-| 2 | ITviec | **TNEX** | Sr Java Fullstack Developer (VueJS, Angular) - 4B059 | 8 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/sr-java-fullstack-developer-vuejs-angular-4b059-tnex-1154) |
-| 3 | LinkedIn | ** NewEra Inc** | Back End Developer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445487423/) |
-| 4 | LinkedIn | ** XCapital Technology** | Software Engineer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445494101/) |
-| 5 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
-| 6 | LinkedIn | ** GRADION** | Software Engineering Intern (6-month contract) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445467972/) |
-| 7 | LinkedIn | ** WorldQuant** | Software Engineer (C/C++) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446190514/) |
-| 8 | LinkedIn | ** FPT Software Career** | Python Developer ($1k5-$2k5) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445430677/) |
-| 9 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445403083/) |
+| 1 | LinkedIn | ** NOTE - The Scent Lab** | [HCM] INTERN 6 months - MARKETING INTERN | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446342302/) |
+| 2 | ITviec | **TNEX** | Sr Java Fullstack Developer (VueJS, Angular) - 4B059 | 10 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/sr-java-fullstack-developer-vuejs-angular-4b059-tnex-1154) |
+| 3 | LinkedIn | ** NewEra Inc** | Back End Developer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445487423/) |
+| 4 | LinkedIn | ** XCapital Technology** | Software Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445494101/) |
+| 5 | ITviec | **LG Electronics Development Vietnam (LGEDV)** | Automotive Software Engineer (C++, OOP, Middleware) | 12 hours ago | [ITviec Direct Link](https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-5231) |
+| 6 | LinkedIn | ** GRADION** | Software Engineering Intern (6-month contract) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445467972/) |
+| 7 | LinkedIn | ** WorldQuant** | Software Engineer (C/C++) | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446190514/) |
+| 8 | LinkedIn | ** FPT Software Career** | Python Developer ($1k5-$2k5) | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445430677/) |
+| 9 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445403083/) |
 | 10 | LinkedIn | ** FORVIA HELLA** | Embedded Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443477530/) |
 | 11 | LinkedIn | ** LARION** | Python Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 12 | LinkedIn | ** FUJIFILM Business Innovation Vietnam** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4435404460/) |
