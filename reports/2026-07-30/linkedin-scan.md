@@ -7,12 +7,12 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer** | Bradford Jacobs | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4431934432/) |
-| 2 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4444118125/) |
-| 3 | **Java Software Engineer** | Yum! Digital &amp; Technology Vietnam | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4400717668/) |
-| 4 | **Java Developer (onsite HCM)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4446009226/) |
-| 5 | **Software Engineer (Java 8+)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4446000987/) |
-| 6 | **Back End Developer (Golang)** | Buymed | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4443663148/) |
+| 1 | **Software Engineer** | Bradford Jacobs | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4431934432/) |
+| 2 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4444118125/) |
+| 3 | **Java Software Engineer** | Yum! Digital &amp; Technology Vietnam | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4400717668/) |
+| 4 | **Java Developer (onsite HCM)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4446009226/) |
+| 5 | **Software Engineer (Java 8+)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4446000987/) |
+| 6 | **Back End Developer (Golang)** | Buymed | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4443663148/) |
 | 7 | **Java Developer** | User Experience Researchers Pte Ltd (Singapore) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445498117/) |
 | 8 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |
 | 9 | **Software Engineer (C/C++)** | WorldQuant | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4446190514/) |
