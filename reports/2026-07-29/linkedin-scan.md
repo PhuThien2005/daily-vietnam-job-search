@@ -7,20 +7,20 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Java Software Engineer** | Yum! Digital &amp; Technology Vietnam | Ho Chi Minh City, Vietnam | 4 hours ago | [Link](https://www.linkedin.com/jobs/view/4400717668/) |
-| 2 | **Java Developer (onsite HCM)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4446009226/) |
-| 3 | **Back End Developer (Golang)** | Buymed | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4443663148/) |
-| 4 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |
+| 1 | **Java Software Engineer** | Yum! Digital &amp; Technology Vietnam | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4400717668/) |
+| 2 | **Java Developer (onsite HCM)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4446009226/) |
+| 3 | **Back End Developer (Golang)** | Buymed | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4443663148/) |
+| 4 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |
 | 5 | **Software Engineer, Java, Financial Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4443207436/) |
 | 6 | **Java Developer** | User Experience Researchers Pte Ltd (Singapore) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445498117/) |
-| 7 | **Java developer** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4444886852/) |
-| 8 | **Software Engineer (C/C++)** | WorldQuant | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4446190514/) |
-| 9 | **Back End Developer** | NewEra Inc | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445487423/) |
-| 10 | **Python Developer ($1k5-$2k5)** | FPT Software Career | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445430677/) |
-| 11 | **Full-Time Developer Intern** | GMO-Z.com RUNSYSTEM JSC. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445403083/) |
-| 12 | **Embedded Software Engineer Intern** | FORVIA HELLA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4443477530/) |
-| 13 | **Software Engineering Intern (6-month contract)** | GRADION | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445467972/) |
-| 14 | **Software Engineer (Java)** | EPAM Systems | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4431099323/) |
+| 7 | **Software Engineer (C/C++)** | WorldQuant | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4446190514/) |
+| 8 | **Back End Developer** | NewEra Inc | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445487423/) |
+| 9 | **Python Developer ($1k5-$2k5)** | FPT Software Career | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445430677/) |
+| 10 | **Full-Time Developer Intern** | GMO-Z.com RUNSYSTEM JSC. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445403083/) |
+| 11 | **Embedded Software Engineer Intern** | FORVIA HELLA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4443477530/) |
+| 12 | **Software Engineering Intern (6-month contract)** | GRADION | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445467972/) |
+| 13 | **Software Engineer (Java)** | EPAM Systems | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4431099323/) |
+| 14 | **Java developer** | DXC Technology | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4444886852/) |
 | 15 | **Java Developer (Banking Domain)** | Diksha Solutions | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4444871923/) |
 | 16 | **Python Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4399823450/) |
 | 17 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
