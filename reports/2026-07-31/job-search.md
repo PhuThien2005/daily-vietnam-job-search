@@ -315,28 +315,32 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447277855/) |
-| 2 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445078166/) |
-| 3 | LinkedIn | ** UNIT Technology Corporation** | Java Developer (3y+, Spring boot) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446965589/) |
-| 4 | Ybox | **Công Ty FPT** | [HN] Công Ty FPT IS Tuyển Dụng Thực Tập Sinh .Net Backend Developer Full-time 2026 | 9 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a6c1c17868f940e189dd94a) |
-| 5 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm (Software/Hr Tech) Quốc Tế DataOn Tuyển Dụng Thực Tập Sinh Thiết Kế Đồ Họa 2026 | 23 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a6b4d767211d37b2dd1be96) |
-| 6 | LinkedIn | ** Intel** | Test Process and Equipment Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446713919/) |
-| 7 | LinkedIn | ** DXC Technology** | Junior Java Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
-| 8 | LinkedIn | ** Yum! Digital &amp; Technology Vietnam** | Java Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4400717668/) |
-| 9 | LinkedIn | ** HD SAISON Finance Co., Ltd** | Java Developer (onsite HCM) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446009226/) |
-| 10 | LinkedIn | ** HD SAISON Finance Co., Ltd** | Software Engineer (Java 8+) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446000987/) |
-| 11 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 12 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445403083/) |
+| 1 | LinkedIn | ** DHL Global Forwarding** | Intern at Industrial Projects Department (6-month - Ho Chi Minh City) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447277813/) |
+| 2 | LinkedIn | ** PwC** | Deals Internship Programme (HCMC) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445072721/) |
+| 3 | LinkedIn | ** Motorola Solutions** | Backend Software Engineer | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4373563038/) |
+| 4 | LinkedIn | ** Gene Solutions** | Data Engineer Intern (allowance 5mil) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4444536491/) |
+| 5 | LinkedIn | ** DHL Global Forwarding** | IT Helpdesk Intern (Ho Chi Minh City) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446741204/) |
+| 6 | LinkedIn | ** En Viet Group** | Fresher Junior Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447012006/) |
+| 7 | LinkedIn | ** Intel** | Test Process and Equipment Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446713919/) |
+| 8 | LinkedIn | ** NOTE - The Scent Lab** | [HCM] INTERN 6 months - MARKETING INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446342301/) |
+| 9 | LinkedIn | ** Savills Vietnam** | Research Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446088090/) |
+| 10 | LinkedIn | ** Buymed** | Back End Developer (Golang) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443663148/) |
+| 11 | LinkedIn | ** Bradford Jacobs** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4431934432/) |
+| 12 | LinkedIn | ** Yum! Digital &amp; Technology Vietnam** | Java Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4400717668/) |
 | 13 | LinkedIn | ** GRADION** | Software Engineering Intern (6-month contract) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445467972/) |
-| 14 | LinkedIn | ** FORVIA HELLA** | Embedded Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443477530/) |
-| 15 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445336507/) |
-| 16 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
-| 17 | LinkedIn | ** NAB Innovation Centre Vietnam** | Java Engineer - Everyday Banking | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4428641132/) |
-| 18 | LinkedIn | ** GeoComply** | Security Software Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4444978193/) |
+| 14 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445403083/) |
+| 15 | LinkedIn | ** WorldQuant** | Software Engineer (C/C++) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446190514/) |
+| 16 | LinkedIn | ** FORVIA HELLA** | Embedded Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4443477530/) |
+| 17 | LinkedIn | ** LARION** | Python Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 18 | LinkedIn | ** FUJIFILM Business Innovation Vietnam** | Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4435404460/) |
+| 19 | LinkedIn | ** WorldQuant** | Python Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
+| 20 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
+| 21 | LinkedIn | ** Manulife** | Back End Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
