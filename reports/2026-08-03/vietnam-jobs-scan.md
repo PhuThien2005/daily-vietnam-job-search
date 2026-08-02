@@ -6,8 +6,8 @@ Tìm thấy **21** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447668017/) |
-| 2 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 1 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447668017/) |
+| 2 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
 | 3 | LinkedIn | ** Accenture** | Java Backend Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 4 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 5 | LinkedIn | ** Hubble.Build** | Software Engineer (Back-End) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447468850/) |
