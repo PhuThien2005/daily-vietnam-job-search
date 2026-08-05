@@ -302,6 +302,7 @@
 ---
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
@@ -312,7 +313,7 @@
 | 4 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
 | 5 | LinkedIn | ** Galaxy Technology Services** | Java Engineer (Payment &amp; Cloud AWS) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448279489/) |
 | 6 | LinkedIn | ** Antom** | Java Software Engineer | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448285163/) |
-| 7 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Middle) | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448845168/) |
+| 7 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Middle) | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448845168/) |
 | 8 | LinkedIn | ** LARION** | Python Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 9 | LinkedIn | ** MyStorage** | Product Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447682607/) |
 | 10 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
@@ -321,7 +322,7 @@
 | 13 | LinkedIn | ** Accenture** | Java Backend Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 14 | LinkedIn | ** Accenture** | Software Engineer (Python) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 15 | LinkedIn | ** Hubble.Build** | Software Engineer (Back-End) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447468850/) |
-| 16 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445078166/) |
+| 16 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445078166/) |
 | 17 | LinkedIn | ** UNIT Technology Corporation** | Java Developer (3y+, Spring boot) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446965589/) |
 | 18 | LinkedIn | ** Intel** | Test Process and Equipment Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446713919/) |
 | 19 | LinkedIn | ** Bradford Jacobs** | Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4431934432/) |
