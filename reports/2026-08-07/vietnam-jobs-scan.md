@@ -6,12 +6,12 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Endava** | Junior C/C++ Software Engineer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450058210/) |
-| 2 | LinkedIn | ** Axon** | Backend Software Engineer | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 3 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
-| 4 | LinkedIn | ** DXC Technology** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
-| 5 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
-| 6 | LinkedIn | ** Amaris Consulting** | Java Developer (Insurance domain) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449655888/) |
+| 1 | LinkedIn | ** WorldQuant** | Software Engineer | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 2 | LinkedIn | ** Axon** | Backend Software Engineer | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 3 | LinkedIn | ** DXC Technology** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
+| 4 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 5 | LinkedIn | ** Amaris Consulting** | Java Developer (Insurance domain) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449655888/) |
+| 6 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
 | 7 | LinkedIn | ** DXC Technology** | Software Engineering | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449135069/) |
 | 8 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Tuyển Dụng Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7431b120eee04be89ae47b) |
 | 9 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449443977/) |
@@ -26,8 +26,8 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 | 18 | LinkedIn | ** LARION** | Python Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 19 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447668017/) |
 | 20 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
-| 21 | LinkedIn | ** Accenture** | Java Backend Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
-| 22 | LinkedIn | ** Accenture** | Software Engineer (Python) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
-| 23 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 21 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 22 | LinkedIn | ** Accenture** | Java Backend Developer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 23 | LinkedIn | ** Accenture** | Software Engineer (Python) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 24 | LinkedIn | ** Hubble.Build** | Software Engineer (Back-End) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447468850/) |
 | 25 | LinkedIn | ** NVIDIA** | System Software Engineer, AI Data Platform | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437929232/) |
