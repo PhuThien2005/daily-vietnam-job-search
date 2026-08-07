@@ -329,12 +329,13 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
-| 2 | LinkedIn | ** WorldQuant** | Software Engineer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 1 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
+| 2 | LinkedIn | ** WorldQuant** | Software Engineer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
 | 3 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 4 | LinkedIn | ** Axon** | Backend Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
 | 5 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
@@ -348,9 +349,9 @@
 | 13 | LinkedIn | ** Antom** | Java Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448285163/) |
 | 14 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
 | 15 | LinkedIn | ** Galaxy Technology Services** | Java Engineer (Payment &amp; Cloud AWS) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448279489/) |
-| 16 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
-| 17 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
-| 18 | LinkedIn | ** LARION** | Python Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 16 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
+| 17 | LinkedIn | ** LARION** | Python Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 18 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
 | 19 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
 | 20 | LinkedIn | ** FireGroup Technology** | Backend Engineer (Golang) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448100433/) |
 | 21 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447668017/) |
