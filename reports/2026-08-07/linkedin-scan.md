@@ -7,10 +7,10 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
-| 2 | **Junior C/C++ Software Engineer** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4450058210/) |
+| 1 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
+| 2 | **Junior C/C++ Software Engineer** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4450058210/) |
 | 3 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 4 | **SaaS Backend Engineer** | TechX Corp. | District 3, Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4449751307/) |
+| 4 | **SaaS Backend Engineer** | TechX Corp. | District 3, Ho Chi Minh City, Vietnam | 22 hours ago | [Link](https://www.linkedin.com/jobs/view/4449751307/) |
 | 5 | **Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4449134097/) |
 | 6 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 7 | **Java Developer (Insurance domain)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4449655888/) |
