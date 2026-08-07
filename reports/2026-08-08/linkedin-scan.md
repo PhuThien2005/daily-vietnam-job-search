@@ -7,10 +7,10 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **AI-Native Software Engineer (Junior/Middle)** | OPSWAT | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
-| 2 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
-| 3 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
-| 4 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
+| 1 | **AI-Native Software Engineer (Junior/Middle)** | OPSWAT | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
+| 2 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
+| 3 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 4 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
 | 5 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 6 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
 | 7 | **SaaS Backend Engineer** | TechX Corp. | District 3, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4449751307/) |
