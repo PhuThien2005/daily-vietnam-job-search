@@ -7,7 +7,7 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
 | 1 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
-| 2 | LinkedIn | ** WorldQuant** | Software Engineer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 2 | LinkedIn | ** WorldQuant** | Software Engineer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
 | 3 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 4 | LinkedIn | ** Axon** | Backend Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
 | 5 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
