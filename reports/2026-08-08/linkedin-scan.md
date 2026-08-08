@@ -7,11 +7,11 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **AI-Native Software Engineer (Junior/Middle)** | OPSWAT | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
-| 2 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
-| 3 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
-| 4 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
-| 5 | **Junior C/C++ Software Engineer** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4450058210/) |
+| 1 | **AI-Native Software Engineer (Junior/Middle)** | OPSWAT | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
+| 2 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 3 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
+| 4 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
+| 5 | **Junior C/C++ Software Engineer** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4450058210/) |
 | 6 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 7 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
 | 8 | **SaaS Backend Engineer** | TechX Corp. | District 3, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4449751307/) |
