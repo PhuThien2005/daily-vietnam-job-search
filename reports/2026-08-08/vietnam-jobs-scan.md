@@ -6,10 +6,10 @@ Tìm thấy **24** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
-| 2 | LinkedIn | ** Axon** | Backend Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 3 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
-| 4 | LinkedIn | ** WorldQuant** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 1 | LinkedIn | ** Axon** | Backend Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 2 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
+| 3 | LinkedIn | ** WorldQuant** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 4 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
 | 5 | LinkedIn | ** Endava** | Junior C/C++ Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450058210/) |
 | 6 | LinkedIn | ** Axon** | Software Engineer I | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
 | 7 | LinkedIn | ** DXC Technology** | Java Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
