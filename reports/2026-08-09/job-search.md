@@ -356,11 +356,12 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 1 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 2 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
 | 3 | LinkedIn | ** WorldQuant** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
 | 4 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
