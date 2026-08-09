@@ -1,7 +1,7 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-08-10
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 23
+- **Total unique relevant jobs found**: 22
 - 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 ## 📋 Job Listings
@@ -24,9 +24,8 @@
 | 15 | **Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4348881760/) |
 | 16 | **Java Engineer (Payment &amp; Cloud AWS)** | Galaxy Technology Services | Nhà Bè, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4448279489/) |
 | 17 | **Java Developer (Middle)** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4448845168/) |
-| 18 | **Software Development Intern** | ARIS Vietnam Co., LTD | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4448379624/) |
-| 19 | **Software Engineer, Metropolis Vision AI** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4439479473/) |
-| 20 | **Software Engineer, Security product** | VinSOC | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4448697878/) |
-| 21 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 18 | **Software Engineer, Metropolis Vision AI** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4439479473/) |
+| 19 | **Software Engineer, Security product** | VinSOC | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4448697878/) |
+| 20 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 21 | **Software Development Intern** | ARIS Vietnam Co., LTD | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4448379624/) |
 | 22 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4447912278/) |
-| 23 | **Backend Engineer (Golang)** | FireGroup Technology | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 week ago | [Link](https://www.linkedin.com/jobs/view/4448100433/) |
