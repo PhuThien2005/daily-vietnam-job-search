@@ -369,6 +369,7 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
@@ -393,9 +394,9 @@
 | 18 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
 | 19 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
 | 20 | LinkedIn | ** VinSOC** | Software Engineer, Security product | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448697878/) |
-| 21 | LinkedIn | ** FireGroup Technology** | Backend Engineer (Golang) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448100433/) |
-| 22 | LinkedIn | ** LARION** | Python Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 23 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
+| 21 | LinkedIn | ** LARION** | Python Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 22 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
+| 23 | LinkedIn | ** FireGroup Technology** | Backend Engineer (Golang) | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448100433/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
