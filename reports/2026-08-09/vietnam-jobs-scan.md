@@ -6,7 +6,7 @@ Tìm thấy **24** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 1 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 2 | LinkedIn | ** WorldQuant** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
 | 3 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
 | 4 | LinkedIn | ** Axon** | Backend Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
@@ -26,7 +26,7 @@ Tìm thấy **24** vị trí thực tập/fresher phù hợp.
 | 18 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448845168/) |
 | 19 | LinkedIn | ** LARION** | Python Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 20 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
-| 21 | LinkedIn | ** FireGroup Technology** | Backend Engineer (Golang) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448100433/) |
-| 22 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447668017/) |
-| 23 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
-| 24 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 21 | LinkedIn | ** VinSOC** | Software Engineer, Security product | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448697878/) |
+| 22 | LinkedIn | ** FireGroup Technology** | Backend Engineer (Golang) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448100433/) |
+| 23 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447668017/) |
+| 24 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |

@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 1 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 2 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
 | 3 | **AI-Native Software Engineer (Junior/Middle)** | OPSWAT | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
 | 4 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
