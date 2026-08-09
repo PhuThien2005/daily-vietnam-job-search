@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer (AI)** | HV HOLDINGS | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4450942354/) |
+| 1 | **Software Engineer (AI)** | HV HOLDINGS | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4450942354/) |
 | 2 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 3 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
 | 4 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |

@@ -375,11 +375,12 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** HV HOLDINGS** | Software Engineer (AI) | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450942354/) |
+| 1 | LinkedIn | ** HV HOLDINGS** | Software Engineer (AI) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450942354/) |
 | 2 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 3 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
 | 4 | LinkedIn | ** WorldQuant** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
