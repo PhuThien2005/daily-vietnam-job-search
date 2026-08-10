@@ -376,32 +376,35 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** HV HOLDINGS** | Software Engineer (AI) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450942354/) |
-| 2 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
-| 3 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
-| 4 | LinkedIn | ** WorldQuant** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
-| 5 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
-| 6 | LinkedIn | ** Endava** | Junior C/C++ Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450058210/) |
-| 7 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
-| 8 | LinkedIn | ** Axon** | Backend Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 9 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
-| 10 | LinkedIn | ** Axon** | Software Engineer I | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
-| 11 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449443977/) |
-| 12 | LinkedIn | ** Yum! Digital &amp; Technology Vietnam** | Java Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4400717668/) |
-| 13 | LinkedIn | ** DXC Technology** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
-| 14 | LinkedIn | ** DXC Technology** | Software Engineering | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449135069/) |
-| 15 | LinkedIn | ** Antom** | Java Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448285163/) |
-| 16 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
-| 17 | LinkedIn | ** Galaxy Technology Services** | Java Engineer (Payment &amp; Cloud AWS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448279489/) |
-| 18 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448845168/) |
-| 19 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
-| 20 | LinkedIn | ** VinSOC** | Software Engineer, Security product | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448697878/) |
-| 21 | LinkedIn | ** LARION** | Python Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 22 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
+| 1 | Ybox | **Công Ty Công** | [HN] Công Ty Công Nghệ Thông Tin SmartOSC Tuyển Dụng Thực Tập Sinh Đào Tạo (L&D) Full-time 2026 (Hỗ Trợ Thực Tập: Lên Đến 6.000.000 VNĐ/ Tháng) | 3 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a79084580ebf435b5415969) |
+| 2 | Ybox | **Công Ty Cung** | [HCM] Công Ty Cung Cấp Phần Mềm Vela Software Tuyển Dụng Thực Tập Sinh Kế Toán Part-time/ Full-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7881576f90d21fd526ef9f) |
+| 3 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 4 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
+| 5 | LinkedIn | ** WorldQuant** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 6 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
+| 7 | LinkedIn | ** Endava** | Junior C/C++ Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450058210/) |
+| 8 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 9 | LinkedIn | ** Axon** | Backend Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 10 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
+| 11 | LinkedIn | ** Axon** | Software Engineer I | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 12 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449443977/) |
+| 13 | LinkedIn | ** Yum! Digital &amp; Technology Vietnam** | Java Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4400717668/) |
+| 14 | LinkedIn | ** DXC Technology** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
+| 15 | LinkedIn | ** DXC Technology** | Software Engineering | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449135069/) |
+| 16 | LinkedIn | ** Antom** | Java Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448285163/) |
+| 17 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
+| 18 | LinkedIn | ** Galaxy Technology Services** | Java Engineer (Payment &amp; Cloud AWS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448279489/) |
+| 19 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448845168/) |
+| 20 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
+| 21 | LinkedIn | ** VinSOC** | Software Engineer, Security product | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448697878/) |
+| 22 | LinkedIn | ** LARION** | Python Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 23 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
+| 24 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447912278/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
