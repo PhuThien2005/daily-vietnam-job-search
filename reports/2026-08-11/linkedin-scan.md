@@ -7,12 +7,12 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 2 | **Java Software Engineer (3+ years, AWS, Spring Boot)** | KMS Technology, Inc. | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4451145102/) |
-| 3 | **Software Developer Intern (5G)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4442037061/) |
-| 4 | **Java Software Engineer** | NewEra Inc | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4451123113/) |
+| 1 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 2 | **Software Developer Intern (5G)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4442037061/) |
+| 3 | **Java Software Engineer (3+ years, AWS, Spring Boot)** | KMS Technology, Inc. | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4451145102/) |
+| 4 | **Java Software Engineer** | NewEra Inc | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4451123113/) |
 | 5 | **Junior Software Developer** | Akselos | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4449550128/) |
-| 6 | **Backend Engineer - FinCrime (Python/Java, AWS)** | GoTymeX | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 6 | **Backend Engineer - FinCrime (Python/Java, AWS)** | GoTymeX | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4451386991/) |
 | 7 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 8 | **[HCM-Hybrid] Backend Developer (Kotlin/Java)** | VMO | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4448748926/) |
 | 9 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
