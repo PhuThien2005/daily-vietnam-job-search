@@ -388,16 +388,17 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 2 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
-| 3 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
-| 4 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451123113/) |
-| 5 | LinkedIn | ** Akselos** | Junior Software Developer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
-| 6 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 1 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 2 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
+| 3 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
+| 4 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451123113/) |
+| 5 | LinkedIn | ** Akselos** | Junior Software Developer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
+| 6 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
 | 7 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 8 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
 | 9 | LinkedIn | ** WorldQuant** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
