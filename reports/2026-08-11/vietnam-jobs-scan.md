@@ -6,12 +6,12 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 2 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
-| 3 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
+| 1 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 2 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
+| 3 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
 | 4 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451123113/) |
-| 5 | LinkedIn | ** Akselos** | Junior Software Developer | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
-| 6 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 5 | LinkedIn | ** Akselos** | Junior Software Developer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
+| 6 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
 | 7 | Ybox | **Công Ty Cung** | [HCM] Công Ty Cung Cấp Phần Mềm Vela Software Tuyển Dụng Thực Tập Sinh Kế Toán Part-time/ Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7881576f90d21fd526ef9f) |
 | 8 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 9 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
@@ -28,6 +28,6 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 | 20 | LinkedIn | ** Antom** | Java Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448285163/) |
 | 21 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
 | 22 | LinkedIn | ** Galaxy Technology Services** | Java Engineer (Payment &amp; Cloud AWS) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448279489/) |
-| 23 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
-| 24 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
-| 25 | LinkedIn | ** VinSOC** | Software Engineer, Security product | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448697878/) |
+| 23 | LinkedIn | ** NVIDIA** | Software Engineer, Metropolis Vision AI | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439479473/) |
+| 24 | LinkedIn | ** VinSOC** | Software Engineer, Security product | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448697878/) |
+| 25 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 1 week ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448379624/) |
