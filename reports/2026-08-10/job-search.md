@@ -383,25 +383,26 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
-| 2 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
-| 3 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451123113/) |
-| 4 | LinkedIn | ** Akselos** | Junior Software Developer | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
-| 5 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 1 | LinkedIn | ** Endava** | Software Developer Intern (5G) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442037061/) |
+| 2 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
+| 3 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451123113/) |
+| 4 | LinkedIn | ** Akselos** | Junior Software Developer | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
+| 5 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
 | 6 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
 | 7 | LinkedIn | ** OPSWAT** | AI-Native Software Engineer (Junior/Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441955009/) |
 | 8 | LinkedIn | ** Axon** | Backend Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 9 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
-| 10 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
-| 11 | LinkedIn | ** WorldQuant** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
-| 12 | LinkedIn | ** Endava** | Junior C/C++ Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450058210/) |
-| 13 | LinkedIn | ** Axon** | Software Engineer I | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
-| 14 | LinkedIn | ** DXC Technology** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
-| 15 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 9 | LinkedIn | ** VMO** | [HCM-Hybrid] Backend Developer (Kotlin/Java) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448748926/) |
+| 10 | LinkedIn | ** WorldQuant** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4432810388/) |
+| 11 | LinkedIn | ** Endava** | Junior C/C++ Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4450058210/) |
+| 12 | LinkedIn | ** Axon** | Software Engineer I | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 13 | LinkedIn | ** DXC Technology** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449134097/) |
+| 14 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 15 | LinkedIn | ** TechX Corp.** | SaaS Backend Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449751307/) |
 | 16 | LinkedIn | ** DXC Technology** | Software Engineering | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449135069/) |
 | 17 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449443977/) |
 | 18 | LinkedIn | ** Yum! Digital &amp; Technology Vietnam** | Java Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4400717668/) |
