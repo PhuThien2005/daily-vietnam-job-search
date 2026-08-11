@@ -403,22 +403,23 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** DXC Technology** | Software Engineer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442608583/) |
-| 2 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452422934/) |
-| 3 | LinkedIn | ** Inspius** | Back End Developer (Go) — Crypto Trading Systems | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451653812/) |
-| 4 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Nhân Sự Full-time 2026 | 8 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7aeda55d28db09003b5fd8) |
-| 5 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452418162/) |
-| 6 | LinkedIn | ** Unity Sport** | Back End Developer ( Golang) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451651217/) |
-| 7 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452196875/) |
-| 8 | LinkedIn | ** FPT Software** | 🔥 [HCM] JAVA BACKEND DEVELOPER (2–3 YOE | SPRING BOOT | GOOD ENG) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451639178/) |
-| 9 | LinkedIn | ** Anfin (YC W22)** | Backend Enigneer (Go) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451640105/) |
-| 10 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Phân Tích Nghiệp Vụ Full-time 2026 | 11 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7abfe2538d8d01906ded07) |
-| 11 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Thiết Kế Full-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7aa9f20abfbb6f02e90cca) |
-| 12 | LinkedIn | ** Links International** | Software Engineer (Back-end, Typescript &amp; NodeJS) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451602598/) |
+| 1 | LinkedIn | ** DXC Technology** | Software Engineer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442608583/) |
+| 2 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452422934/) |
+| 3 | LinkedIn | ** Inspius** | Back End Developer (Go) — Crypto Trading Systems | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451653812/) |
+| 4 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Nhân Sự Full-time 2026 | 9 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7aeda55d28db09003b5fd8) |
+| 5 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452418162/) |
+| 6 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452196875/) |
+| 7 | LinkedIn | ** FPT Software** | 🔥 [HCM] JAVA BACKEND DEVELOPER (2–3 YOE | SPRING BOOT | GOOD ENG) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451639178/) |
+| 8 | LinkedIn | ** Anfin (YC W22)** | Backend Enigneer (Go) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451640105/) |
+| 9 | LinkedIn | ** Unity Sport** | Back End Developer ( Golang) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451651217/) |
+| 10 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Phân Tích Nghiệp Vụ Full-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7abfe2538d8d01906ded07) |
+| 11 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Thiết Kế Full-time 2026 | 14 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7aa9f20abfbb6f02e90cca) |
+| 12 | LinkedIn | ** Links International** | Software Engineer (Back-end, Typescript &amp; NodeJS) | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451602598/) |
 | 13 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
 | 14 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
 | 15 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
