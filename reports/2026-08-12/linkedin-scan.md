@@ -7,15 +7,15 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer** | DXC Technology | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4442608583/) |
-| 2 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4452422934/) |
-| 3 | **Back End Developer (Go) — Crypto Trading Systems** | Inspius | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4451653812/) |
-| 4 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4452418162/) |
-| 5 | **Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4452196875/) |
-| 6 | **🔥 [HCM] JAVA BACKEND DEVELOPER (2–3 YOE / SPRING BOOT / GOOD ENG)** | FPT Software | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4451639178/) |
-| 7 | **Backend Enigneer (Go)** | Anfin (YC W22) | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4451640105/) |
-| 8 | **Back End Developer ( Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4451651217/) |
-| 9 | **Software Engineer (Back-end, Typescript &amp; NodeJS)** | Links International | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4451602598/) |
+| 1 | **Software Engineer** | DXC Technology | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4442608583/) |
+| 2 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4452422934/) |
+| 3 | **Back End Developer (Go) — Crypto Trading Systems** | Inspius | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4451653812/) |
+| 4 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4452418162/) |
+| 5 | **Back End Developer ( Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4451651217/) |
+| 6 | **Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4452196875/) |
+| 7 | **🔥 [HCM] JAVA BACKEND DEVELOPER (2–3 YOE / SPRING BOOT / GOOD ENG)** | FPT Software | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4451639178/) |
+| 8 | **Backend Enigneer (Go)** | Anfin (YC W22) | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4451640105/) |
+| 9 | **Software Engineer (Back-end, Typescript &amp; NodeJS)** | Links International | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4451602598/) |
 | 10 | **Java Software Engineer (3+ years, AWS, Spring Boot)** | KMS Technology, Inc. | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4451145102/) |
 | 11 | **Backend Engineer - FinCrime (Python/Java, AWS)** | GoTymeX | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4451386991/) |
 | 12 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4442585189/) |
@@ -25,12 +25,12 @@
 | 16 | **Software Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4432810388/) |
 | 17 | **AI-Native Software Engineer (Junior/Middle)** | OPSWAT | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4441955009/) |
 | 18 | **Junior C/C++ Software Engineer** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4450058210/) |
-| 19 | **Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4441445217/) |
-| 20 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
-| 21 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
-| 22 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 23 | **SaaS Backend Engineer** | TechX Corp. | District 3, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4449751307/) |
-| 24 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 19 | **Fullstack Java Developer (Junior/Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4441619470/) |
+| 20 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 21 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 22 | **SaaS Backend Engineer** | TechX Corp. | District 3, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4449751307/) |
+| 23 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 24 | **Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4441445217/) |
 | 25 | **Junior Engineering Developer** | Akselos | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4448083973/) |
 | 26 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4449443977/) |
 | 27 | **Java Software Engineer** | Yum! Digital &amp; Technology Vietnam | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4400717668/) |
