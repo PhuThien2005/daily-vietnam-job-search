@@ -420,16 +420,17 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Nexlab Technology** | Junior Backend Engineer (AI-FIRST) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453110373/) |
-| 2 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (C/C++, Linux) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453095613/) |
-| 3 | LinkedIn | ** KUKA** | Software Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
-| 4 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
-| 5 | LinkedIn | ** The Adecco Group** | Backend Engineer (12-month contract) | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452360217/) |
-| 6 | LinkedIn | ** LARION** | Python Engineer | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 1 | LinkedIn | ** Nexlab Technology** | Junior Backend Engineer (AI-FIRST) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453110373/) |
+| 2 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (C/C++, Linux) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453095613/) |
+| 3 | LinkedIn | ** KUKA** | Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
+| 4 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
+| 5 | LinkedIn | ** The Adecco Group** | Backend Engineer (12-month contract) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452360217/) |
+| 6 | LinkedIn | ** LARION** | Python Engineer | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 7 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452418162/) |
 | 8 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452422934/) |
 | 9 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452196875/) |
