@@ -7,14 +7,14 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer** | Kuka Systems GMBH Branch Office Paris | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 hours ago | [Link](https://www.linkedin.com/jobs/view/4450167059/) |
-| 2 | **Junior Backend Engineer (AI-FIRST)** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4453110373/) |
-| 3 | **Junior Software Engineer (C/C++, Linux)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4453095613/) |
-| 4 | **Software Engineer** | KUKA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4453085409/) |
-| 5 | **Software Specialist (Java)** | IMT Solutions | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4452374371/) |
-| 6 | **Backend Engineer (12-month contract)** | The Adecco Group | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4452360217/) |
-| 7 | **Backend Engineer** | Aepsy | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4452362043/) |
-| 8 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 1 | **Software Engineer** | Kuka Systems GMBH Branch Office Paris | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4450167059/) |
+| 2 | **Junior Backend Engineer (AI-FIRST)** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4453110373/) |
+| 3 | **Junior Software Engineer (C/C++, Linux)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4453095613/) |
+| 4 | **Software Engineer** | KUKA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4453085409/) |
+| 5 | **Software Specialist (Java)** | IMT Solutions | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4452374371/) |
+| 6 | **Backend Engineer (12-month contract)** | The Adecco Group | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4452360217/) |
+| 7 | **Backend Engineer** | Aepsy | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4452362043/) |
+| 8 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 9 | **Java Software Engineer (Spring, AWS)** | KMS Technology, Inc. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4452418162/) |
 | 10 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4452422934/) |
 | 11 | **Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4452196875/) |
