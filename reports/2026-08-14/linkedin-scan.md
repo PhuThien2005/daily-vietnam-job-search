@@ -7,9 +7,9 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Backend Developer (Python/FastAPI) – Global Customer Service Middleware** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4452927324/) |
-| 2 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 3 | **Back End Developer (Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4452779688/) |
+| 1 | **Backend Developer (Python/FastAPI) – Global Customer Service Middleware** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4452927324/) |
+| 2 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |
+| 3 | **Back End Developer (Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4452779688/) |
 | 4 | **Software Engineer** | Kuka Systems GMBH Branch Office Paris | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4450167059/) |
 | 5 | **Software Specialist (Java)** | IMT Solutions | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4452374371/) |
 | 6 | **Software Engineer** | KUKA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4453085409/) |
