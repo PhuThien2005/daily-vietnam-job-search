@@ -1,15 +1,15 @@
 # Báo cáo tuyển dụng Java/Backend/Software Intern (2026-08-15)
 
-Tìm thấy **25** vị trí thực tập/fresher phù hợp.
+Tìm thấy **24** vị trí thực tập/fresher phù hợp.
 
 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** WorldQuant** | Quantitative Developer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
-| 2 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
-| 3 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
-| 4 | LinkedIn | ** Accenture** | Java Backend Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 1 | LinkedIn | ** WorldQuant** | Quantitative Developer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 2 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 3 | LinkedIn | ** Accenture** | Java Backend Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 4 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 5 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
 | 6 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
 | 7 | LinkedIn | ** KUKA** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
@@ -26,8 +26,7 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 | 18 | LinkedIn | ** DXC Technology** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442608583/) |
 | 19 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
 | 20 | LinkedIn | ** DXC Technology** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451420155/) |
-| 21 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer (Mandarin skill) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4427683715/) |
-| 22 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
-| 23 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 24 | LinkedIn | ** Akselos** | Junior Software Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
-| 25 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 21 | LinkedIn | ** GoTymeX** | Backend Engineer - FinCrime (Python/Java, AWS) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 22 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 23 | LinkedIn | ** Akselos** | Junior Software Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
+| 24 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
