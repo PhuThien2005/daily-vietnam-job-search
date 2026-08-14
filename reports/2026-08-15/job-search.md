@@ -453,15 +453,16 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** WorldQuant** | Quantitative Developer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
-| 2 | LinkedIn | ** HCLTech Vietnam** | Junior/Fresher/Engineer Embedded Software Integration | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453514548/) |
-| 3 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
-| 4 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 5 | Ybox | **Công Ty Panasonic** | [HN] Công Ty Panasonic R&D Center Việt Nam Tuyển Dụng Thực Tập Sinh Embedded, Nhân Viên Software Developer (C/C++) Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a7d680841943a7b296b2a72) |
+| 1 | LinkedIn | ** WorldQuant** | Quantitative Developer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 2 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 3 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
+| 4 | LinkedIn | ** Accenture** | Java Backend Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 5 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
 | 6 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
 | 7 | LinkedIn | ** KUKA** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
 | 8 | LinkedIn | ** Nexlab Technology** | Junior Backend Engineer (AI-FIRST) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453110373/) |
