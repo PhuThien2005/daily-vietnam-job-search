@@ -7,9 +7,9 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Quantitative Developer** | WorldQuant | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4454547662/) |
-| 2 | **Junior/Fresher/Engineer Embedded Software Integration** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4453514548/) |
-| 3 | **Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 1 | **Quantitative Developer** | WorldQuant | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 2 | **Junior/Fresher/Engineer Embedded Software Integration** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4453514548/) |
+| 3 | **Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4453290957/) |
 | 4 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |
 | 5 | **Software Specialist (Java)** | IMT Solutions | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4452374371/) |
 | 6 | **Software Engineer** | KUKA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4453085409/) |
