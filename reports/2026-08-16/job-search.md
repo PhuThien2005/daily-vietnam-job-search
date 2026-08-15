@@ -475,15 +475,16 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Symbotic** | Software Engineer | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
-| 2 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 3 | LinkedIn | ** Accenture** | Java Backend Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
-| 4 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
-| 5 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 1 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
+| 2 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 3 | LinkedIn | ** WorldQuant** | Quantitative Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 4 | LinkedIn | ** Accenture** | Java Backend Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 5 | LinkedIn | ** Accenture** | Software Engineer (Python) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 6 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
 | 7 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
 | 8 | LinkedIn | ** KUKA** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
