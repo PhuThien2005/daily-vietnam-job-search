@@ -7,8 +7,8 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Quantitative Developer** | WorldQuant | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4454547662/) |
-| 2 | **Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 1 | **Quantitative Developer** | WorldQuant | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 2 | **Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4453290957/) |
 | 3 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 4 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 5 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |

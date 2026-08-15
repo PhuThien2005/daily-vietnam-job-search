@@ -455,12 +455,13 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** WorldQuant** | Quantitative Developer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
-| 2 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 1 | LinkedIn | ** WorldQuant** | Quantitative Developer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 2 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
 | 3 | LinkedIn | ** Accenture** | Java Backend Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 4 | LinkedIn | ** Accenture** | Software Engineer (Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 5 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
