@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Quantitative Developer** | WorldQuant | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 1 | **Quantitative Developer** | WorldQuant | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4454547662/) |
 | 2 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 3 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 4 | **Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration** | CJ OliveNetworks Vina | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4453290957/) |
@@ -28,7 +28,7 @@
 | 19 | **Software Engineer (Back-end, Typescript &amp; NodeJS)** | Links International | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4451602598/) |
 | 20 | **Golang Engineer** | FireGroup Technology | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4451632376/) |
 | 21 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 22 | **Junior Software Developer** | Akselos | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4449550128/) |
-| 23 | **Backend Engineer - FinCrime (Python/Java, AWS)** | GoTymeX | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 22 | **Backend Engineer - FinCrime (Python/Java, AWS)** | GoTymeX | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4451386991/) |
+| 23 | **Junior Software Developer** | Akselos | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4449550128/) |
 | 24 | **Junior Java Developer (Mandarin skill)** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4427683715/) |
 | 25 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
