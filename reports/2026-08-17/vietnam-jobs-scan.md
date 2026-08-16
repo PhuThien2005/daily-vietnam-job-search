@@ -6,11 +6,11 @@ Tìm thấy **26** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Manulife** | Back End Software Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
+| 1 | LinkedIn | ** Manulife** | Back End Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
 | 2 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 3 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
-| 4 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
-| 5 | LinkedIn | ** WorldQuant** | Quantitative Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 3 | LinkedIn | ** Symbotic** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 4 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
+| 5 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 6 | LinkedIn | ** Accenture** | Java Backend Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 7 | LinkedIn | ** Accenture** | Software Engineer (Python) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 8 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
