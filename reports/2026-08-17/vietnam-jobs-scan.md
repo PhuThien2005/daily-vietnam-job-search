@@ -6,7 +6,7 @@ Tìm thấy **26** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Manulife** | Back End Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
+| 1 | LinkedIn | ** Manulife** | Back End Software Engineer | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
 | 2 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
 | 3 | LinkedIn | ** Symbotic** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
 | 4 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
