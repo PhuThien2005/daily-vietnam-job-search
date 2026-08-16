@@ -490,13 +490,14 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Manulife** | Back End Software Engineer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
+| 1 | LinkedIn | ** Manulife** | Back End Software Engineer | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
 | 2 | LinkedIn | ** Symbotic** | Software Engineer | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
-| 3 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
+| 3 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
 | 4 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 5 | LinkedIn | ** Accenture** | Java Backend Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 6 | LinkedIn | ** Accenture** | Software Engineer (Python) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |

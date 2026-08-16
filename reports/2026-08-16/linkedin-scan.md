@@ -7,9 +7,9 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Back End Software Engineer** | Manulife | Binh Thuan, Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4386837978/) |
+| 1 | **Back End Software Engineer** | Manulife | Binh Thuan, Ho Chi Minh City, Vietnam | 4 hours ago | [Link](https://www.linkedin.com/jobs/view/4386837978/) |
 | 2 | **Software Engineer** | Symbotic | Ho Chi Minh City Metropolitan Area | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4417441937/) |
-| 3 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4453921223/) |
+| 3 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4453921223/) |
 | 4 | **Agentic AI Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 5 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 6 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4370240395/) |
