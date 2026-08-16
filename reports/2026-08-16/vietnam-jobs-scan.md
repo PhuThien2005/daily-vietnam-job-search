@@ -6,27 +6,27 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 2 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
-| 3 | LinkedIn | ** WorldQuant** | Quantitative Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454547662/) |
+| 1 | LinkedIn | ** Symbotic** | Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 2 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
+| 3 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 4 | LinkedIn | ** Accenture** | Java Backend Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 5 | LinkedIn | ** Accenture** | Software Engineer (Python) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
 | 6 | LinkedIn | ** CJ OliveNetworks Vina** | Backend Developer (Python/FastAPI) – Korean Enterprise Middleware Integration | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453290957/) |
-| 7 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
-| 8 | LinkedIn | ** KUKA** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
-| 9 | LinkedIn | ** Nexlab Technology** | Junior Backend Engineer (AI-FIRST) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453110373/) |
-| 10 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 11 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (C/C++, Linux) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453095613/) |
-| 12 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452418162/) |
-| 13 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452422934/) |
-| 14 | LinkedIn | ** LARION** | Python Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 15 | LinkedIn | ** FireGroup Technology** | Golang Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451632376/) |
-| 16 | LinkedIn | ** DXC Technology** | Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442608583/) |
-| 17 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
-| 18 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452196875/) |
-| 19 | LinkedIn | ** DXC Technology** | Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451420155/) |
-| 20 | LinkedIn | ** HD SAISON Finance Co., Ltd** | HCM - Java Backend Developer (4+YOE) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4444316903/) |
-| 21 | LinkedIn | ** Links International** | Software Engineer (Back-end, Typescript &amp; NodeJS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451602598/) |
+| 7 | LinkedIn | ** KUKA** | Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453085409/) |
+| 8 | LinkedIn | ** Nexlab Technology** | Junior Backend Engineer (AI-FIRST) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453110373/) |
+| 9 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
+| 10 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (C/C++, Linux) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453095613/) |
+| 11 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452422934/) |
+| 12 | LinkedIn | ** IMT Solutions** | Software Specialist (Java) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452374371/) |
+| 13 | LinkedIn | ** LARION** | Python Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 14 | LinkedIn | ** DXC Technology** | Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442608583/) |
+| 15 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (3+ years, AWS, Spring Boot) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451145102/) |
+| 16 | LinkedIn | ** KMS Technology, Inc.** | Java Software Engineer (Spring, AWS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452418162/) |
+| 17 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452196875/) |
+| 18 | LinkedIn | ** DXC Technology** | Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451420155/) |
+| 19 | LinkedIn | ** HD SAISON Finance Co., Ltd** | HCM - Java Backend Developer (4+YOE) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4444316903/) |
+| 20 | LinkedIn | ** Links International** | Software Engineer (Back-end, Typescript &amp; NodeJS) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451602598/) |
+| 21 | LinkedIn | ** FireGroup Technology** | Golang Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451632376/) |
 | 22 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
 | 23 | LinkedIn | ** Akselos** | Junior Software Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449550128/) |
 | 24 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer (Mandarin skill) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4427683715/) |
