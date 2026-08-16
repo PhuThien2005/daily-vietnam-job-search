@@ -488,12 +488,13 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Symbotic** | Software Engineer | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
-| 2 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
+| 1 | LinkedIn | ** Symbotic** | Software Engineer | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 2 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
 | 3 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 4 | LinkedIn | ** Accenture** | Java Backend Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 5 | LinkedIn | ** Accenture** | Software Engineer (Python) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
