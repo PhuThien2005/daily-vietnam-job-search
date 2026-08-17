@@ -1,19 +1,19 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-08-17
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 23
+- **Total unique relevant jobs found**: 24
 - 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Python Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4399823450/) |
-| 2 | **Python Developer ($1k2-$3k) + Signing Bonus** | FPT Software Career | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4454238658/) |
-| 3 | **Middle Backend Developer (NestJS)** | SkyDev | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4454240155/) |
-| 4 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4455232232/) |
+| 1 | **Python Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4399823450/) |
+| 2 | **Python Developer ($1k2-$3k) + Signing Bonus** | FPT Software Career | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4454238658/) |
+| 3 | **Middle Backend Developer (NestJS)** | SkyDev | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4454240155/) |
+| 4 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4455232232/) |
 | 5 | **Back End Software Engineer** | Manulife | Binh Thuan, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4386837978/) |
-| 6 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 7 | **Software Engineer** | Symbotic | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 6 | **Software Engineer** | Symbotic | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 7 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4453921223/) |
 | 8 | **Agentic AI Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 9 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 10 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4370240395/) |
@@ -27,6 +27,7 @@
 | 18 | **Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4452196875/) |
 | 19 | **Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4451420155/) |
 | 20 | **HCM - Java Backend Developer (4+YOE)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4444316903/) |
-| 21 | **Software Engineer (Back-end, Typescript &amp; NodeJS)** | Links International | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4451602598/) |
-| 22 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 23 | **Software Engineer** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4442608583/) |
+| 21 | **Java Developer (Japanese Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4451415230/) |
+| 22 | **Software Engineer (Back-end, Typescript &amp; NodeJS)** | Links International | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4451602598/) |
+| 23 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 24 | **Software Engineer** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4442608583/) |

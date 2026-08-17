@@ -512,17 +512,18 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** WorldQuant** | Python Engineer | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
-| 2 | LinkedIn | ** FPT Software Career** | Python Developer ($1k2-$3k) + Signing Bonus | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454238658/) |
-| 3 | LinkedIn | ** SkyDev** | Middle Backend Developer (NestJS) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454240155/) |
-| 4 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455232232/) |
+| 1 | LinkedIn | ** WorldQuant** | Python Engineer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
+| 2 | LinkedIn | ** FPT Software Career** | Python Developer ($1k2-$3k) + Signing Bonus | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454238658/) |
+| 3 | LinkedIn | ** SkyDev** | Middle Backend Developer (NestJS) | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454240155/) |
+| 4 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455232232/) |
 | 5 | LinkedIn | ** Manulife** | Back End Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
-| 6 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 7 | LinkedIn | ** Symbotic** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 6 | LinkedIn | ** Symbotic** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4417441937/) |
+| 7 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
 | 8 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
 | 9 | LinkedIn | ** Accenture** | Java Backend Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
 | 10 | LinkedIn | ** Accenture** | Software Engineer (Python) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
