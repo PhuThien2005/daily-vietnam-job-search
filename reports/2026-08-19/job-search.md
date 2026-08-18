@@ -542,19 +542,20 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** DXC Technology** | Middle Java Developer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436544183/) |
-| 2 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 3 | LinkedIn | ** WorldQuant** | Software Engineer (C/C++) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446190514/) |
-| 4 | LinkedIn | ** MoMo (M_Service)** | Software Engineer II | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452572852/) |
-| 5 | LinkedIn | ** DXC Technology Vietnam** | Middle Java Software Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455583781/) |
-| 6 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454481912/) |
-| 7 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455595045/) |
-| 8 | LinkedIn | ** LARION** | Python Engineer | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 9 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 1 | LinkedIn | ** DXC Technology** | Middle Java Developer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436544183/) |
+| 2 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
+| 3 | LinkedIn | ** WorldQuant** | Software Engineer (C/C++) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4446190514/) |
+| 4 | LinkedIn | ** MoMo (M_Service)** | Software Engineer II | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452572852/) |
+| 5 | LinkedIn | ** DXC Technology Vietnam** | Middle Java Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455583781/) |
+| 6 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454481912/) |
+| 7 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455595045/) |
+| 8 | LinkedIn | ** LARION** | Python Engineer | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 9 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 10 | LinkedIn | ** SkyDev** | Middle Backend Developer (NestJS) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454240155/) |
 | 11 | LinkedIn | ** WorldQuant** | Python Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
 | 12 | LinkedIn | ** Manulife** | Back End Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
