@@ -1,30 +1,28 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-08-18
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 21
+- **Total unique relevant jobs found**: 19
 - 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Python Engineer** | WorldQuant | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4399823450/) |
-| 2 | **Python Developer ($1k2-$3k) + Signing Bonus** | FPT Software Career | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4454238658/) |
-| 3 | **Middle Backend Developer (NestJS)** | SkyDev | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4454240155/) |
-| 4 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4455232232/) |
-| 5 | **Back End Software Engineer** | Manulife | Binh Thuan, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4386837978/) |
-| 6 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 7 | **Software Engineer** | Symbotic | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4417441937/) |
-| 8 | **Agentic AI Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4436340599/) |
-| 9 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4393874728/) |
-| 10 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4370240395/) |
-| 11 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 12 | **Software Specialist (Java)** | IMT Solutions | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4452374371/) |
-| 13 | **Software Engineer** | KUKA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453085409/) |
-| 14 | **Junior Backend Engineer (AI-FIRST)** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453110373/) |
-| 15 | **Junior Software Engineer (C/C++, Linux)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453095613/) |
-| 16 | **Software Engineer (C++)** | OPSWAT | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453067923/) |
+| 1 | **Junior Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 11 minutes ago | [Link](https://www.linkedin.com/jobs/view/4455595045/) |
+| 2 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 47 minutes ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
+| 3 | **AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City)** | DHL Global Forwarding | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4455248969/) |
+| 4 | **JAD / Fullstack .NET Engineer** | CBTW APAC | Ho Chi Minh City Metropolitan Area | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4454252301/) |
+| 5 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4455232232/) |
+| 6 | **PhD Internship- AI Research** | Qualcomm | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4386871977/) |
+| 7 | **Agentic AI Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4436340599/) |
+| 8 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 9 | **Mobile Engineer (Intern Level) - GSaaS** | NAVER VIETNAM | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4453576566/) |
+| 10 | **Software Specialist (Java)** | IMT Solutions | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4452374371/) |
+| 11 | **Software Engineer** | KUKA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453085409/) |
+| 12 | **Junior Backend Engineer (AI-FIRST)** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453110373/) |
+| 13 | **Software Implementation Intern** | Ricoh Vietnam | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4452383150/) |
+| 14 | **Energy Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4434333451/) |
+| 15 | **Junior Mobile Engineer (AI-First)** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453103461/) |
+| 16 | **Junior Software Engineer (C/C++, Linux)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4453095613/) |
 | 17 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4452422934/) |
 | 18 | **Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4452196875/) |
-| 19 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 20 | **Golang Engineer** | FireGroup Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4451632376/) |
-| 21 | **Software Engineer** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4442608583/) |
+| 19 | **Internship: Exploring Static vs. Dynamic Mooring Analysis (Open to Maritime / Coastal Engineering students)** | Haskoning | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4433696832/) |
