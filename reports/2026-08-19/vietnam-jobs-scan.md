@@ -6,14 +6,14 @@ Tìm thấy **21** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** DXC Technology** | Junior Java Developer | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
-| 2 | LinkedIn | ** HCLTech Vietnam** | Fresher Backend Engineer (HCLTech x ANZ Bank) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454987738/) |
-| 3 | LinkedIn | ** BioTuring Careers** | Software Engineer (Python, Typescript) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454969822/) |
-| 4 | LinkedIn | ** HCLTech Vietnam** | Junior Embedded Software Engineer | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454978370/) |
-| 5 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 6 | LinkedIn | ** Vinova** | Fullstack Developer (Backend-focused) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454967076/) |
-| 7 | LinkedIn | ** Checker Software Systems** | Fullstack Engineer (Java &amp; .NET) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454721070/) |
-| 8 | LinkedIn | ** Unity Sport** | (Junior/Mid)Back End Developer ( Golang) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452892491/) |
+| 1 | LinkedIn | ** DXC Technology** | Junior Java Developer | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
+| 2 | LinkedIn | ** HCLTech Vietnam** | Fresher Backend Engineer (HCLTech x ANZ Bank) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454987738/) |
+| 3 | LinkedIn | ** BioTuring Careers** | Software Engineer (Python, Typescript) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454969822/) |
+| 4 | LinkedIn | ** HCLTech Vietnam** | Junior Embedded Software Engineer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454978370/) |
+| 5 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
+| 6 | LinkedIn | ** Vinova** | Fullstack Developer (Backend-focused) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454967076/) |
+| 7 | LinkedIn | ** Checker Software Systems** | Fullstack Engineer (Java &amp; .NET) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454721070/) |
+| 8 | LinkedIn | ** Unity Sport** | (Junior/Mid)Back End Developer ( Golang) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452892491/) |
 | 9 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 10 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455595045/) |
 | 11 | LinkedIn | ** DXC Technology Vietnam** | Middle Java Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455583781/) |
@@ -24,6 +24,6 @@ Tìm thấy **21** vị trí thực tập/fresher phù hợp.
 | 16 | LinkedIn | ** WorldQuant** | Python Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
 | 17 | LinkedIn | ** Manulife** | Back End Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
 | 18 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453921223/) |
-| 19 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
-| 20 | LinkedIn | ** Accenture** | Java Backend Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
-| 21 | LinkedIn | ** Accenture** | Software Engineer (Python) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
+| 19 | LinkedIn | ** Accenture** | Java Backend Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4393874728/) |
+| 20 | LinkedIn | ** Accenture** | Software Engineer (Python) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4370240395/) |
+| 21 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
