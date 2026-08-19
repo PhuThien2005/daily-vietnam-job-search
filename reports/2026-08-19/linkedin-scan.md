@@ -7,14 +7,14 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Fullstack Engineer (Java &amp; .NET)** | Checker Software Systems | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4454721070/) |
-| 2 | **(Junior/Mid)Back End Developer ( Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4452892491/) |
-| 3 | **Back End Developer** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4452867634/) |
-| 4 | **Middle Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4436544183/) |
-| 5 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 6 | **Software Engineer (C/C++)** | WorldQuant | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4446190514/) |
-| 7 | **Middle Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4455583781/) |
-| 8 | **Junior C++ Software Developer (Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 22 hours ago | [Link](https://www.linkedin.com/jobs/view/4454481912/) |
+| 1 | **(Junior/Mid)Back End Developer ( Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4452892491/) |
+| 2 | **Fullstack Engineer (Java &amp; .NET)** | Checker Software Systems | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4454721070/) |
+| 3 | **Back End Developer** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4452867634/) |
+| 4 | **Middle Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4436544183/) |
+| 5 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
+| 6 | **Software Engineer (C/C++)** | WorldQuant | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4446190514/) |
+| 7 | **Middle Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 22 hours ago | [Link](https://www.linkedin.com/jobs/view/4455583781/) |
+| 8 | **Junior C++ Software Developer (Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4454481912/) |
 | 9 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 10 | **Junior Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4455595045/) |
 | 11 | **Middle Backend Developer (NestJS)** | SkyDev | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4454240155/) |
