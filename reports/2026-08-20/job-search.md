@@ -565,18 +565,19 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456349873/) |
-| 2 | LinkedIn | ** DXC Technology** | Junior Java Developer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
-| 3 | LinkedIn | ** HCLTech Vietnam** | Fresher Backend Engineer (HCLTech x ANZ Bank) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454987738/) |
-| 4 | LinkedIn | ** BioTuring Careers** | Software Engineer (Python, Typescript) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454969822/) |
-| 5 | LinkedIn | ** HCLTech Vietnam** | Junior Embedded Software Engineer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454978370/) |
-| 6 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 7 | LinkedIn | ** Vinova** | Fullstack Developer (Backend-focused) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454967076/) |
-| 8 | LinkedIn | ** Unity Sport** | (Junior/Mid)Back End Developer ( Golang) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452892491/) |
+| 1 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456349873/) |
+| 2 | LinkedIn | ** DXC Technology** | Junior Java Developer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
+| 3 | LinkedIn | ** HCLTech Vietnam** | Fresher Backend Engineer (HCLTech x ANZ Bank) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454987738/) |
+| 4 | LinkedIn | ** BioTuring Careers** | Software Engineer (Python, Typescript) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454969822/) |
+| 5 | LinkedIn | ** HCLTech Vietnam** | Junior Embedded Software Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454978370/) |
+| 6 | LinkedIn | ** Grasshopper** | Junior Software Engineer, C++ (Vietnam) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452906021/) |
+| 7 | LinkedIn | ** Vinova** | Fullstack Developer (Backend-focused) | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454967076/) |
+| 8 | LinkedIn | ** Unity Sport** | (Junior/Mid)Back End Developer ( Golang) | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4452892491/) |
 | 9 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 10 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455595045/) |
 | 11 | LinkedIn | ** DXC Technology Vietnam** | Middle Java Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455583781/) |

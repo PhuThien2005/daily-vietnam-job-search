@@ -7,14 +7,14 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Development Intern** | ARIS Vietnam Co., LTD | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4456349873/) |
-| 2 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |
-| 3 | **Fresher Backend Engineer (HCLTech x ANZ Bank)** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4454987738/) |
-| 4 | **Software Engineer (Python, Typescript)** | BioTuring Careers | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4454969822/) |
-| 5 | **Junior Embedded Software Engineer** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4454978370/) |
-| 6 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |
-| 7 | **Fullstack Developer (Backend-focused)** | Vinova | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4454967076/) |
-| 8 | **(Junior/Mid)Back End Developer ( Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4452892491/) |
+| 1 | **Software Development Intern** | ARIS Vietnam Co., LTD | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4456349873/) |
+| 2 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |
+| 3 | **Fresher Backend Engineer (HCLTech x ANZ Bank)** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4454987738/) |
+| 4 | **Software Engineer (Python, Typescript)** | BioTuring Careers | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4454969822/) |
+| 5 | **Junior Embedded Software Engineer** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4454978370/) |
+| 6 | **Junior Software Engineer, C++ (Vietnam)** | Grasshopper | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4452906021/) |
+| 7 | **Fullstack Developer (Backend-focused)** | Vinova | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4454967076/) |
+| 8 | **(Junior/Mid)Back End Developer ( Golang)** | Unity Sport | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4452892491/) |
 | 9 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4445865328/) |
 | 10 | **Junior Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4455595045/) |
 | 11 | **Middle Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4455583781/) |
