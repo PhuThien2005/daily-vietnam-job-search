@@ -7,12 +7,12 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4456712288/) |
-| 2 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4456712289/) |
-| 3 | **Back End Developer** | AB InBev Southeast Asia | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4455696420/) |
+| 1 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4456712288/) |
+| 2 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4456712289/) |
+| 3 | **Back End Developer** | AB InBev Southeast Asia | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4455696420/) |
 | 4 | **[HCM] - Thực Tập Sinh Tư Vấn Triển Khai ERP** | SSG | Ho Chi Minh City, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4455634294/) |
 | 5 | **HCM - Java Backend Developer (5+YOE)** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4455600749/) |
-| 6 | **Software Development Intern** | ARIS Vietnam Co., LTD | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4456349873/) |
+| 6 | **Software Development Intern** | ARIS Vietnam Co., LTD | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4456349873/) |
 | 7 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |
 | 8 | **[HCLTech x ANZ Bank] Fresher Backend Engineer (at least Graduated in 2025)** | HCLTech Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4454987738/) |
 | 9 | **Fullstack Developer (Backend-focused)** | Vinova | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4454967076/) |
