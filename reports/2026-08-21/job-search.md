@@ -592,27 +592,25 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Accenture** | Java Backend Developer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456712288/) |
-| 2 | LinkedIn | ** Nexlab Technology** | Junior Fullstack Engineer (AI-First) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456718146/) |
-| 3 | LinkedIn | ** HD SAISON Finance Co., Ltd** | HCM - Java Backend Developer (5+YOE) | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455600749/) |
-| 4 | LinkedIn | ** WEBIE VIETNAM | GLOBAL** | Web Development Intern | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455477838/) |
-| 5 | LinkedIn | ** DXC Technology** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
-| 6 | LinkedIn | ** aiqon** | AI / Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453457044/) |
+| 1 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456761812/) |
+| 2 | LinkedIn | ** Nexlab Technology** | Junior Fullstack Engineer (AI-First) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456718146/) |
+| 3 | LinkedIn | ** ARIS Vietnam Co., LTD** | Software Development Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456349873/) |
+| 4 | LinkedIn | ** aiqon** | AI / Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453457044/) |
+| 5 | LinkedIn | ** Hitachi Digital Services** | Embedded Internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455437274/) |
+| 6 | LinkedIn | ** DXC Technology** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
 | 7 | LinkedIn | ** HCLTech Vietnam** | [HCLTech x ANZ Bank] Fresher Backend Engineer (at least Graduated in 2025) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454987738/) |
-| 8 | LinkedIn | ** Hitachi Digital Services** | Embedded Internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455437274/) |
-| 9 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455595045/) |
-| 10 | LinkedIn | ** DXC Technology Vietnam** | Middle Java Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455583781/) |
-| 11 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 12 | LinkedIn | ** Sky Mavis** | Security Operations Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454784325/) |
-| 13 | LinkedIn | ** CBTW APAC** | JAD | Fullstack .NET Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454252301/) |
-| 14 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
-| 15 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
-| 16 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
-| 17 | LinkedIn | ** NAVER VIETNAM** | Mobile Engineer (Intern Level) - GSaaS | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453576566/) |
+| 8 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
+| 9 | LinkedIn | ** Sky Mavis** | Security Operations Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454784325/) |
+| 10 | LinkedIn | ** Jura Global Consulting** | Associate Forward Deployed Engineer - (English Required) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454491185/) |
+| 11 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
+| 12 | LinkedIn | ** CBTW APAC** | JAD | Fullstack .NET Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454252301/) |
+| 13 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
+| 14 | LinkedIn | ** OPSWAT** | Agentic AI Software Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436340599/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
