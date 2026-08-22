@@ -7,8 +7,8 @@ Tìm thấy **23** vị trí thực tập/fresher phù hợp.
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
 | 1 | LinkedIn | ** NVIDIA** | System Software Engineer, AI Data Platform | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437929232/) |
-| 2 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 3 | LinkedIn | ** PI ASSOCIATES** | Software Engineer | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456626822/) |
+| 2 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 3 | LinkedIn | ** PI ASSOCIATES** | Software Engineer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456626822/) |
 | 4 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
 | 5 | LinkedIn | ** CODE LEAP** | DevOps Engineer Intern - 6-month internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454647181/) |
 | 6 | LinkedIn | ** Nexlab Technology** | Junior Fullstack Engineer (AI-First) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456718146/) |
