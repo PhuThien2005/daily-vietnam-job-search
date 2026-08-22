@@ -7,10 +7,10 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Full Stack Engineer (Java, Oracle, MongoDB)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4456636563/) |
-| 2 | **Software Engineer** | PI ASSOCIATES | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4456626822/) |
-| 3 | **Fullstack Java Developer (3YoE+, Oracle)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4456625913/) |
-| 4 | **Java Developer** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4439843491/) |
+| 1 | **Full Stack Engineer (Java, Oracle, MongoDB)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4456636563/) |
+| 2 | **Software Engineer** | PI ASSOCIATES | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4456626822/) |
+| 3 | **Fullstack Java Developer (3YoE+, Oracle)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4456625913/) |
+| 4 | **Java Developer** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4439843491/) |
 | 5 | **Java Developer 3 YoE+** | Tinhvan Software JSC. | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456212196/) |
 | 6 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
 | 7 | **DevOps Engineer Intern - 6-month internship** | CODE LEAP | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4454647181/) |
