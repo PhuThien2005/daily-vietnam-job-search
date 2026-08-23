@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 1 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
 | 2 | **Java Developer** | HD SAISON Finance Co., Ltd | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4439843491/) |
 | 3 | **Fullstack Java Developer (3YoE+, Oracle)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456625913/) |
 | 4 | **Software Engineer** | PI ASSOCIATES | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456626822/) |
