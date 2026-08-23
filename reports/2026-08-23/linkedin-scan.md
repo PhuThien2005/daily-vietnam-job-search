@@ -8,9 +8,9 @@
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
 | 1 | **System Software Engineer, AI Data Platform** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4437929232/) |
-| 2 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 3 | **Full Stack Engineer (Java, Oracle, MongoDB)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 22 hours ago | [Link](https://www.linkedin.com/jobs/view/4456636563/) |
-| 4 | **Software Engineer** | PI ASSOCIATES | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4456626822/) |
+| 2 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 3 | **Full Stack Engineer (Java, Oracle, MongoDB)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4456636563/) |
+| 4 | **Software Engineer** | PI ASSOCIATES | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456626822/) |
 | 5 | **Fullstack Java Developer (3YoE+, Oracle)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456625913/) |
 | 6 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
 | 7 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4456712289/) |
