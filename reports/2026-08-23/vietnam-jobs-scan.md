@@ -6,8 +6,8 @@ Tìm thấy **23** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 47 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 2 | LinkedIn | ** NVIDIA** | System Software Engineer, AI Data Platform | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437929232/) |
+| 1 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 2 | LinkedIn | ** NVIDIA** | System Software Engineer, AI Data Platform | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437929232/) |
 | 3 | LinkedIn | ** HD SAISON Finance Co., Ltd** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439843491/) |
 | 4 | LinkedIn | ** Tinhvan Software JSC.** | Fullstack Java Developer (3YoE+, Oracle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456625913/) |
 | 5 | LinkedIn | ** PI ASSOCIATES** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456626822/) |
@@ -26,6 +26,6 @@ Tìm thấy **23** vị trí thực tập/fresher phù hợp.
 | 18 | LinkedIn | ** HCLTech Vietnam** | Junior Embedded Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454978370/) |
 | 19 | LinkedIn | ** DXC Technology Vietnam** | Junior Java Developer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455595045/) |
 | 20 | LinkedIn | ** DXC Technology Vietnam** | Middle Java Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455583781/) |
-| 21 | LinkedIn | ** WorldQuant** | Python Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
-| 22 | LinkedIn | ** LARION** | Python Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 23 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454481912/) |
+| 21 | LinkedIn | ** LARION** | Python Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 22 | LinkedIn | ** Endava** | Junior C++ Software Developer (Linux) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454481912/) |
+| 23 | LinkedIn | ** WorldQuant** | Python Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
