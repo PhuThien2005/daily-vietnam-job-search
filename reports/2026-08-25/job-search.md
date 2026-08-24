@@ -676,18 +676,19 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Amanotes** | Intern QA Engineer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456515001/) |
-| 2 | LinkedIn | ** Hitachi Digital Services** | (HCM &amp; HN) Talented AI Engineer Internship Program | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457104698/) |
-| 3 | LinkedIn | ** Intel** | AI Engineer Intern | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447902237/) |
-| 4 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456883302/) |
-| 5 | LinkedIn | ** LARION** | Python Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
-| 6 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
-| 7 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4458181231/) |
-| 8 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456839607/) |
+| 1 | LinkedIn | ** Amanotes** | Intern QA Engineer | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456515001/) |
+| 2 | LinkedIn | ** Hitachi Digital Services** | (HCM &amp; HN) Talented AI Engineer Internship Program | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457104698/) |
+| 3 | LinkedIn | ** Intel** | AI Engineer Intern | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4447902237/) |
+| 4 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456883302/) |
+| 5 | LinkedIn | ** LARION** | Python Engineer | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 6 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
+| 7 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4458181231/) |
+| 8 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456839607/) |
 | 9 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
 | 10 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
 | 11 | LinkedIn | ** PI ASSOCIATES** | Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456626822/) |
