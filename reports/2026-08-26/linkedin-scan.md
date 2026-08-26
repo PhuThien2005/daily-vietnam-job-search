@@ -1,30 +1,33 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-08-26
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 21
+- **Total unique relevant jobs found**: 24
 - 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer - Bank Solutions (Java)** | Zalopay | Ho Chi Minh City Metropolitan Area | 43 minutes ago | [Link](https://www.linkedin.com/jobs/view/4459187093/) |
-| 2 | **Software Engineer (Backend Intern)** | BioTuring Careers | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4457916367/) |
-| 3 | **Java Software Engineer** | iKonnect Viet Nam | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4457909193/) |
-| 4 | **[TIGER TRIBE] - DATA ANALYST INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4457670792/) |
-| 5 | **Java Developer (Chinese Madarin speaking) All level** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4449468091/) |
-| 6 | **Java Developer** | KUP Co. Ltd., | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4457687356/) |
-| 7 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 8 | **Việc làm TP Biên Hoà =&gt; Tuyển dụng Thực tập sinh Big Data lương cao** | Human Resources Club | Dong Nai, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4459027831/) |
-| 9 | **Việc làm TP Biên Hoà =&gt; Tuyển dụng Game Development Intern lương cao** | Human Resources Club | Dong Nai, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4459031830/) |
-| 10 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA AI | Ho Chi Minh City Metropolitan Area | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4456950316/) |
-| 11 | **AI Engineer Intern** | Intel | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4447902237/) |
-| 12 | **(HCM &amp; HN) Talented AI Engineer Internship Program** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4457104698/) |
-| 13 | **Full-Time Developer Intern** | GMO-Z.com RUNSYSTEM JSC. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4456883302/) |
-| 14 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4413914953/) |
-| 15 | **Java Developer** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4458174305/) |
+| 1 | **AI/Software Engineering Intern** | Celesnity | Ho Chi Minh City, Vietnam | 30 minutes ago | [Link](https://www.linkedin.com/jobs/view/4457913762/) |
+| 2 | **Software Engineer (Backend Intern)** | BioTuring Careers | Ho Chi Minh City, Vietnam | 2 hours ago | [Link](https://www.linkedin.com/jobs/view/4457916367/) |
+| 3 | **Software Engineer** | Bradford Jacobs | Ho Chi Minh City, Vietnam | 4 hours ago | [Link](https://www.linkedin.com/jobs/view/4431934432/) |
+| 4 | **Java Developer (Chinese Madarin speaking) All level** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4449468091/) |
+| 5 | **Go + AWS Backend Engineer** | FireGroup Technology | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4457677576/) |
+| 6 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 7 | **Việc làm TP Biên Hoà =&gt; Tuyển dụng Thực tập sinh Big Data lương cao** | Human Resources Club | Dong Nai, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4459027831/) |
+| 8 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA AI | Ho Chi Minh City Metropolitan Area | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4456950316/) |
+| 9 | **Software Engineer, Metropolis Vision AI** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4439479473/) |
+| 10 | **Backend Engineer** | IT Software Development | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4456082870/) |
+| 11 | **Junior Software Engineer (C/C++, Linux)** | Endava | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4457420347/) |
+| 12 | **Full-Time Developer Intern** | GMO-Z.com RUNSYSTEM JSC. | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4456883302/) |
+| 13 | **Java Software Engineer** | DXC Technology Vietnam | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4413914953/) |
+| 14 | **AI Engineer Intern** | Intel | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4447902237/) |
+| 15 | **Python Engineer** | LARION | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4440203745/) |
 | 16 | **Software Engineer, Java, Finanical Services** | MoMo (M_Service) | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4455863885/) |
 | 17 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 18 | **DevOps Engineer Intern - 6-month internship** | CODE LEAP | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4454647181/) |
+| 18 | **System Software Engineer, AI Data Platform** | NVIDIA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4437929232/) |
 | 19 | **Software Engineer** | PI ASSOCIATES | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4456626822/) |
 | 20 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 21 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4456712288/) |
+| 21 | **Software Engineer (Python)** | Accenture | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4456712289/) |
+| 22 | **Back End Developer** | AB InBev Southeast Asia | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4455696420/) |
+| 23 | **Java Backend Developer** | Accenture | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4456712288/) |
+| 24 | **Diploma Student / Intern - SAP Sustainability Ecosystems Engineering** | SAP | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4456221149/) |
