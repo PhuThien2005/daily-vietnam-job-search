@@ -717,34 +717,34 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Netcompany** | Software Developers | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682590/) |
-| 2 | LinkedIn | ** Intel** | Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448959717/) |
-| 3 | LinkedIn | ** Zalopay** | Software Engineer - Bank Solutions (Java) | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4459187093/) |
-| 4 | LinkedIn | ** iKonnect Viet Nam** | Java Software Engineer | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457909193/) |
-| 5 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [TIGER TRIBE] - DATA ANALYST INTERN | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457670792/) |
-| 6 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449443977/) |
-| 7 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 8 | LinkedIn | ** Human Resources Club** | Việc làm TP Biên Hoà =&gt; Tuyển dụng Thực tập sinh Big Data lương cao | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4459027831/) |
-| 9 | LinkedIn | ** Human Resources Club** | Việc làm TP Biên Hoà =&gt; Tuyển dụng Game Development Intern lương cao | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4459031830/) |
-| 10 | LinkedIn | ** NVIDIA AI** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456950316/) |
-| 11 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455863885/) |
-| 12 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
-| 13 | LinkedIn | ** Tinhvan Software JSC.** | Backend Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456863082/) |
-| 14 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456883302/) |
-| 15 | LinkedIn | ** Hitachi Digital Services** | (HCM &amp; HN) Talented AI Engineer Internship Program | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457104698/) |
-| 16 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456839607/) |
-| 17 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 18 | LinkedIn | ** HD SAISON Finance Co., Ltd** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4439843491/) |
-| 19 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 20 | LinkedIn | ** PI ASSOCIATES** | Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456626822/) |
-| 21 | LinkedIn | ** CODE LEAP** | DevOps Engineer Intern - 6-month internship | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454647181/) |
-| 22 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 23 | LinkedIn | ** Accenture** | Java Backend Developer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456712288/) |
-| 24 | LinkedIn | ** HD SAISON Finance Co., Ltd** | HCM - Java Backend Developer (5+YOE) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455600749/) |
+| 1 | LinkedIn | ** Unique Technology Software Company Limited** | Intern Game Developer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4459671045/) |
+| 2 | LinkedIn | ** Intel** | Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4448959717/) |
+| 3 | LinkedIn | ** Links International** | Software Engineer (Back-end, Typescript &amp; NodeJS) | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451602598/) |
+| 4 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 5 | LinkedIn | ** NVIDIA AI** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456950316/) |
+| 6 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Chinese Madarin speaking) All level | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449468091/) |
+| 7 | LinkedIn | ** Bradford Jacobs** | Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4431934432/) |
+| 8 | LinkedIn | ** Endava** | Junior Cloud Native Application Developer (C++, Linux) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457679271/) |
+| 9 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4449443977/) |
+| 10 | LinkedIn | ** GMO-Z.com RUNSYSTEM JSC.** | Full-Time Developer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456883302/) |
+| 11 | LinkedIn | ** Hitachi Digital Services** | (HCM &amp; HN) Talented AI Engineer Internship Program | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457104698/) |
+| 12 | LinkedIn | ** MoMo (M_Service)** | Software Engineer, Java, Finanical Services | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455863885/) |
+| 13 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
+| 14 | LinkedIn | ** LARION** | Python Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4440203745/) |
+| 15 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456839607/) |
+| 16 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 17 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 18 | LinkedIn | ** Motorola Solutions** | Backend Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4373563038/) |
+| 19 | LinkedIn | ** CODE LEAP** | DevOps Engineer Intern - 6-month internship | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4454647181/) |
+| 20 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 21 | LinkedIn | ** Accenture** | Software Engineer (Python) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456712289/) |
+| 22 | LinkedIn | ** Accenture** | Java Backend Developer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456712288/) |
+| 23 | LinkedIn | ** AB InBev Southeast Asia** | Back End Developer (Low code &amp; Integration) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455696420/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
