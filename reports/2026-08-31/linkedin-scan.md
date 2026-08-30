@@ -7,8 +7,8 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
-| 2 | **Quantitative Research Intern (LLMs &amp; AI Agents)** | WorldQuant | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4132261540/) |
+| 1 | **Java Developer (Middle)** | Amaris Consulting | Ho Chi Minh City Metropolitan Area | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 2 | **Quantitative Research Intern (LLMs &amp; AI Agents)** | WorldQuant | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4132261540/) |
 | 3 | **Java Developer (3YoE+, Oracle)** | Tinhvan Software JSC. | Quận 7, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4458941938/) |
 | 4 | **Junior Java Developer (Mandarin skill)** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4427683715/) |
 | 5 | **Java Software Engineer** | IT Software Technology | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4458321786/) |
