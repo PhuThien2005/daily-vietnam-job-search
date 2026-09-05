@@ -6,11 +6,11 @@ Tìm thấy **25** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Edtronaut AI** | PO / IT BA Intern - AI Startup, Tech background, HCMC Onsite only | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462627137/) |
-| 2 | LinkedIn | ** LARION** | Python Engineer | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365991/) |
-| 3 | LinkedIn | ** LARION** | Back End Developer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365977/) |
-| 4 | LinkedIn | ** ITR VN** | Embedded Intern | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462357520/) |
-| 5 | LinkedIn | ** Du học Nhật Bản Thanh Giang** | TUYỂN DỤNG THỰC TẬP SINH KỸ THUẬT IT PHẦN CỨNG | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463676657/) |
+| 1 | LinkedIn | ** Edtronaut AI** | PO / IT BA Intern - AI Startup, Tech background, HCMC Onsite only | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462627137/) |
+| 2 | LinkedIn | ** LARION** | Python Engineer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365991/) |
+| 3 | LinkedIn | ** LARION** | Back End Developer | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365977/) |
+| 4 | LinkedIn | ** ITR VN** | Embedded Intern | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462357520/) |
+| 5 | LinkedIn | ** Du học Nhật Bản Thanh Giang** | TUYỂN DỤNG THỰC TẬP SINH KỸ THUẬT IT PHẦN CỨNG | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463676657/) |
 | 6 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461966371/) |
 | 7 | LinkedIn | ** Career Today** | Java Dev | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463321810/) |
 | 8 | LinkedIn | ** IT Software Development** | Java/Golang Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463188827/) |
