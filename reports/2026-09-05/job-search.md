@@ -761,29 +761,36 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Du học Nhật Bản Thanh Giang** | TUYỂN DỤNG THỰC TẬP SINH KỸ THUẬT IT PHẦN CỨNG | 7 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463676657/) |
-| 2 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461966371/) |
-| 3 | Ybox | **Công Ty Công** | [HN] Công Ty Công Nghệ SAPO Tuyển Dụng Thực Tập Sinh IT Part-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a9aa6342ecd7807597ce745) |
-| 4 | LinkedIn | **Pacificinformatics** | Back-End Web Developer | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461940993/) |
-| 5 | LinkedIn | ** Bosch Global Software Technologies Vietnam** | Software Test Engineer Internship (6-month Internship) | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461134602/) |
-| 6 | LinkedIn | ** LF Global Tech Pte Ltd** | Backend NodeJS Developer | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463316414/) |
-| 7 | LinkedIn | ** ISB Vietnam Company (IVC)** | Intern Fulltack Developer (Japanese at least N4) | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461116917/) |
-| 8 | LinkedIn | ** EON TECH** | Platform Development and Maintenance Engineer | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461121261/) |
-| 9 | LinkedIn | ** Career Today** | Back End Developer | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463304736/) |
-| 10 | LinkedIn | ** CoSigma.io** | INDUSTRIAL DIGITALIZATION INTERN (EV PROJECT) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463303341/) |
-| 11 | LinkedIn | ** IT Software Development** | Java/Golang Developer | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463188827/) |
-| 12 | LinkedIn | ** Amaris Consulting** | Python Developer (Middle level) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461614284/) |
-| 13 | LinkedIn | ** DZOGAME COMPANY LIMITED** | Platform Developer – BACKEND &amp; SYSTEM CORE (SDK/Payment/Data Source) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460461503/) |
-| 14 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
+| 1 | LinkedIn | ** ITR VN** | Embedded Intern | 1 hour ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462357520/) |
+| 2 | LinkedIn | ** Du học Nhật Bản Thanh Giang** | TUYỂN DỤNG THỰC TẬP SINH KỸ THUẬT IT PHẦN CỨNG | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463676657/) |
+| 3 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461966371/) |
+| 4 | LinkedIn | **Pacificinformatics** | Back-End Web Developer | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461940993/) |
+| 5 | Ybox | **Công Ty Công** | [HN] Công Ty Công Nghệ SAPO Tuyển Dụng Thực Tập Sinh IT Part-time 2026 | 18 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a9aa6342ecd7807597ce745) |
+| 6 | LinkedIn | ** Career Today** | Java Dev | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463321810/) |
+| 7 | LinkedIn | ** Bosch Global Software Technologies Vietnam** | Software Test Engineer Internship (6-month Internship) | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461134602/) |
+| 8 | LinkedIn | ** LF Global Tech Pte Ltd** | Backend NodeJS Developer | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463316414/) |
+| 9 | LinkedIn | ** Career Today** | Back End Developer | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463304736/) |
+| 10 | LinkedIn | ** ISB Vietnam Company (IVC)** | Intern Fulltack Developer (Japanese at least N4) | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461116917/) |
+| 11 | LinkedIn | ** EON TECH** | Platform Development and Maintenance Engineer | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461121261/) |
+| 12 | LinkedIn | ** CoSigma.io** | INDUSTRIAL DIGITALIZATION INTERN (EV PROJECT) | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463303341/) |
+| 13 | LinkedIn | ** IT Software Development** | Java/Golang Developer | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463188827/) |
+| 14 | LinkedIn | ** Tinhvan Software JSC.** | Java Developer (3 YoE+) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460466637/) |
 | 15 | LinkedIn | ** EPAM Systems** | Java Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461908701/) |
-| 16 | LinkedIn | ** Hitachi Digital Services** | Energy Internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434333451/) |
-| 17 | LinkedIn | ** SSG** | [HCM] - Thực Tập Sinh Tư Vấn Triển Khai ERP | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455616130/) |
-| 18 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 19 | LinkedIn | ** WorldQuant** | Quantitative Research Intern (LLMs &amp; AI Agents) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4132261540/) |
+| 16 | LinkedIn | ** Rakuten Fintech Vietnam Co., Ltd.** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455617595/) |
+| 17 | LinkedIn | ** Amaris Consulting** | Python Developer (Middle level) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461614284/) |
+| 18 | LinkedIn | ** DZOGAME COMPANY LIMITED** | Platform Developer – BACKEND &amp; SYSTEM CORE (SDK/Payment/Data Source) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460461503/) |
+| 19 | LinkedIn | ** Hitachi Digital Services** | Energy Internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434333451/) |
+| 20 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
+| 21 | LinkedIn | ** DXC Technology** | Java Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451420155/) |
+| 22 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 23 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
+| 24 | LinkedIn | ** WorldQuant** | Quantitative Research Intern (LLMs &amp; AI Agents) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4132261540/) |
+| 25 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Java EE) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460825335/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
