@@ -764,33 +764,29 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** LARION** | Python Engineer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365991/) |
-| 2 | LinkedIn | ** LARION** | Back End Developer | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365977/) |
-| 3 | LinkedIn | ** EON TECH** | Software Infrastructure Intern | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462367843/) |
-| 4 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461966371/) |
-| 5 | LinkedIn | ** EPAM Systems** | Java Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461908701/) |
-| 6 | LinkedIn | ** Career Today** | Java Dev | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463321810/) |
-| 7 | LinkedIn | ** Rakuten Fintech Vietnam Co., Ltd.** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455617595/) |
-| 8 | LinkedIn | ** IT Software Development** | Java/Golang Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463188827/) |
-| 9 | LinkedIn | **Pacificinformatics** | Back-End Web Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461940993/) |
-| 10 | LinkedIn | ** LF Global Tech Pte Ltd** | Backend NodeJS Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463316414/) |
-| 11 | LinkedIn | ** DXC Technology** | Analyst I Software Engineering | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461668751/) |
-| 12 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
-| 13 | LinkedIn | ** Tinhvan Software JSC.** | Java Developer (3 YoE+) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460466637/) |
-| 14 | LinkedIn | ** Amaris Consulting** | Python Developer (Middle level) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461614284/) |
-| 15 | LinkedIn | ** DZOGAME COMPANY LIMITED** | Platform Developer – BACKEND &amp; SYSTEM CORE (SDK/Payment/Data Source) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460461503/) |
-| 16 | LinkedIn | ** Amaris Consulting** | Python Developer (Middle level) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460484896/) |
-| 17 | LinkedIn | ** OPSWAT** | Software Engineer (C++) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4453067923/) |
-| 18 | LinkedIn | ** DXC Technology** | Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4451420155/) |
-| 19 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
-| 20 | LinkedIn | ** DXC Technology** | Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442608583/) |
-| 21 | LinkedIn | ** PostCo** | Software Engineer, Junior | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460229264/) |
-| 22 | LinkedIn | ** Amaris Consulting** | Java Developer (Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4433342968/) |
-| 23 | LinkedIn | ** DXC Technology Vietnam** | Java Developer (Java EE) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460825335/) |
+| 1 | LinkedIn | ** LARION** | Python Engineer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365991/) |
+| 2 | LinkedIn | ** LARION** | Back End Developer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365977/) |
+| 3 | LinkedIn | ** EON TECH** | Software Infrastructure Intern | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462367843/) |
+| 4 | LinkedIn | ** ITR VN** | Embedded Intern | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462357520/) |
+| 5 | LinkedIn | ** Du học Nhật Bản Thanh Giang** | TUYỂN DỤNG THỰC TẬP SINH KỸ THUẬT IT PHẦN CỨNG | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463676657/) |
+| 6 | LinkedIn | ** ISB Vietnam Company (IVC)** | Intern Fulltack Developer (Japanese at least N4) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461116917/) |
+| 7 | LinkedIn | ** CoSigma.io** | INDUSTRIAL DIGITALIZATION INTERN (EV PROJECT) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463303341/) |
+| 8 | LinkedIn | **Pacificinformatics** | Back-End Web Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461940993/) |
+| 9 | LinkedIn | ** LF Global Tech Pte Ltd** | Backend NodeJS Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463316414/) |
+| 10 | LinkedIn | ** NewEra Inc** | Java Software Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461966371/) |
+| 11 | LinkedIn | ** ACCA Careers** | [BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463720969/) |
+| 12 | Ybox | **Công Ty Công** | [HN] Công Ty Công Nghệ SAPO Tuyển Dụng Thực Tập Sinh IT Part-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a9aa6342ecd7807597ce745) |
+| 13 | LinkedIn | ** Amaris Consulting** | Python Developer (Middle level) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461614284/) |
+| 14 | LinkedIn | ** DZOGAME COMPANY LIMITED** | Platform Developer – BACKEND &amp; SYSTEM CORE (SDK/Payment/Data Source) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4460461503/) |
+| 15 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
+| 16 | LinkedIn | ** Hitachi Digital Services** | Energy Internship | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434333451/) |
+| 17 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4442585189/) |
+| 18 | LinkedIn | ** WorldQuant** | Quantitative Research Intern (LLMs &amp; AI Agents) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4132261540/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
