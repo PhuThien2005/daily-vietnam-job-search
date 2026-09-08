@@ -783,24 +783,39 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Endava** | Junior Software Engineer (C/C++, Linux) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463224185/) |
-| 2 | LinkedIn | ** BW Industrial Development JSC** | Intern - Finance AI &amp; Automation | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463230038/) |
-| 3 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462979520/) |
-| 4 | LinkedIn | ** Anvris** | Graduate Software Engineer | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464360226/) |
-| 5 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 21 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
-| 6 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
-| 7 | LinkedIn | ** DXC Technology** | Java Software Engineering | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462940419/) |
-| 8 | LinkedIn | ** DXC Technology** | Software Engineering | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462926533/) |
-| 9 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer (Mandarin Speaking) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464080790/) |
-| 10 | LinkedIn | ** SynergieGlobal** | Associate Forward Deployed Engineer – English Required | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464094079/) |
-| 11 | Ybox | **N/A** | [HCM] Tập Đoàn Sản Xuất Điện Tử Đa Quốc Gia JABIL Việt Nam Tuyển Dụng  Nhân Viên  Engineering & Project/Supply Chain/Human Resources Full-time  2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6a9e8894c1c4840753b223e9) |
-| 12 | LinkedIn | ** ISB Vietnam Company (IVC)** | Intern Fulltack Developer (Japanese at least N4) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461116917/) |
-| 13 | LinkedIn | ** CoSigma.io** | INDUSTRIAL DIGITALIZATION INTERN (EV PROJECT) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463303341/) |
-| 14 | LinkedIn | ** Hitachi Digital Services** | Energy Internship | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434333451/) |
+| 1 | LinkedIn | ** DXC Technology** | Middle Java Developer | 54 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436544183/) |
+| 2 | LinkedIn | ** Reeracoen Jobs** | Software Dev (28867) | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463269221/) |
+| 3 | LinkedIn | ** Moonbase** | Backend Engineer (Go, Rust, C++,..) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463266168/) |
+| 4 | LinkedIn | ** NewEra Inc** | Python Developer | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463265252/) |
+| 5 | LinkedIn | ** FPT Software** | Python Developer | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463270119/) |
+| 6 | LinkedIn | ** Diksha Technologies** | Java Software Engineer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462268853/) |
+| 7 | LinkedIn | ** HCLTech Vietnam** | Backend Developer (Java + AI Tools) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463229163/) |
+| 8 | LinkedIn | ** BW Industrial Development JSC** | Intern - Finance AI &amp; Automation | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463230038/) |
+| 9 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462979520/) |
+| 10 | LinkedIn | ** Anvris** | Graduate Software Engineer | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464360226/) |
+| 11 | LinkedIn | ** DXC Technology Vietnam** | Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464073835/) |
+| 12 | LinkedIn | ** DXC Technology** | Java Software Engineering | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462940419/) |
+| 13 | LinkedIn | ** HD SAISON Finance Co., Ltd** | Backend Developer (Java) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462923551/) |
+| 14 | LinkedIn | ** Argyll Scott** | API Engineer (AWS-EKS) - Contract- 12 months- 2k$- Insurance | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464313215/) |
+| 15 | LinkedIn | ** WorldQuant** | Python Engineer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4399823450/) |
+| 16 | LinkedIn | ** GFT Technologies** | Backend Developer (Java, Python) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461885790/) |
+| 17 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
+| 18 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
+| 19 | LinkedIn | ** DXC Technology** | Software Engineering | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462926533/) |
+| 20 | LinkedIn | ** Manulife** | Back End Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386837978/) |
+| 21 | LinkedIn | ** LARION** | Python Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4462365991/) |
+| 22 | LinkedIn | ** EPAM Systems** | Java Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461908701/) |
+| 23 | LinkedIn | ** Career Today** | Java Dev | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463321810/) |
+| 24 | LinkedIn | **Pacificinformatics** | Back-End Web Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461940993/) |
+| 25 | LinkedIn | ** ISB Vietnam Company (IVC)** | Intern Fulltack Developer (Japanese at least N4) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4461116917/) |
+| 26 | LinkedIn | ** CoSigma.io** | INDUSTRIAL DIGITALIZATION INTERN (EV PROJECT) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463303341/) |
+| 27 | LinkedIn | ** Amaris Consulting** | Java Developer (Junior/Middle) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4348881760/) |
+| 28 | LinkedIn | ** Hitachi Digital Services** | Energy Internship | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4434333451/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
