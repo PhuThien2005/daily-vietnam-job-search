@@ -7,8 +7,8 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 2 | **Junior Software Engineer (Linux/C, Cloud)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4466022310/) |
+| 1 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 2 | **Junior Software Engineer (Linux/C, Cloud)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4466022310/) |
 | 3 | **Software Developer - Intern** | Bouygues Construction IT Vietnam | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4465825194/) |
 | 4 | **SW Test Engineer Intern** | FORVIA HELLA | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4463438998/) |
 | 5 | **Undergraduate Research Intern in Artificial Intelligence** | Fulbright University Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4463437307/) |

@@ -6,11 +6,11 @@ Tìm thấy **18** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 2 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Kỹ Sư Cơ Khí CAD/CAE Full-time 2026 | 10 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aa3b90a1a38f01a7cfd83cb) |
-| 3 | Ybox | **Công Ty MOR** | [HN] Công Ty MOR Software Tuyển Dụng Thực Tập Sinh Marketing Part-time 2026 | 12 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aa3a07124c7135c91a0465e) |
-| 4 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (Linux/C, Cloud) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466022310/) |
-| 5 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Admin Full-time 2026 | 16 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aa365211a38f01a7cfd7378) |
+| 1 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 2 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Kỹ Sư Cơ Khí CAD/CAE Full-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aa3b90a1a38f01a7cfd83cb) |
+| 3 | Ybox | **Công Ty MOR** | [HN] Công Ty MOR Software Tuyển Dụng Thực Tập Sinh Marketing Part-time 2026 | 15 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aa3a07124c7135c91a0465e) |
+| 4 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (Linux/C, Cloud) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466022310/) |
+| 5 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Admin Full-time 2026 | 19 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aa365211a38f01a7cfd7378) |
 | 6 | LinkedIn | ** Bouygues Construction IT Vietnam** | Software Developer - Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465825194/) |
 | 7 | LinkedIn | ** FORVIA HELLA** | SW Test Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463438998/) |
 | 8 | LinkedIn | ** Fulbright University Vietnam** | Undergraduate Research Intern in Artificial Intelligence | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463437307/) |
