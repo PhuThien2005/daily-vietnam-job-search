@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 1 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
 | 2 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
 | 3 | **Junior Software Engineer (Linux/C, Cloud)** | Endava Vietnam | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4466022310/) |
 | 4 | **Software Developer - Intern** | Bouygues Construction IT Vietnam | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4465825194/) |
