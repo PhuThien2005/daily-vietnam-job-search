@@ -818,11 +818,12 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** MyStorage** | Product Engineering Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
+| 1 | LinkedIn | ** MyStorage** | Product Engineering Intern | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
 | 2 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
 | 3 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
 | 4 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (Linux/C, Cloud) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466022310/) |
