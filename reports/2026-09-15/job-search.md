@@ -824,24 +824,25 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Cloud/ DevOps Intern | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466130698/) |
-| 2 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
-| 3 | LinkedIn | ** Garena** | [HCM, Regional Craftland] Game Developer Intern | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467085299/) |
-| 4 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 5 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
-| 6 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
-| 7 | LinkedIn | ** MyStorage** | Product Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
-| 8 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 9 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 10 | LinkedIn | ** Bouygues Construction IT Vietnam** | Software Developer - Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465825194/) |
-| 11 | LinkedIn | ** Fulbright University Vietnam** | Undergraduate Research Intern in Artificial Intelligence | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463437307/) |
+| 1 | LinkedIn | ** DXC Technology Vietnam** | ServiceNow Fresher (proficient in Javascript) | 17 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464993535/) |
+| 2 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Cloud/ DevOps Intern | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466130698/) |
+| 3 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
+| 4 | LinkedIn | ** Garena** | [HCM, Regional Craftland] Game Developer Intern | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467085299/) |
+| 5 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 6 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
+| 7 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
+| 8 | LinkedIn | ** MyStorage** | Product Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
+| 9 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 10 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 11 | LinkedIn | ** Bouygues Construction IT Vietnam** | Software Developer - Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465825194/) |
 | 12 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 13 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
-| 14 | LinkedIn | ** DXC Technology Vietnam** | ServiceNow Fresher (proficient in Javascript) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464993535/) |
+| 13 | LinkedIn | ** Fulbright University Vietnam** | Undergraduate Research Intern in Artificial Intelligence | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4463437307/) |
+| 14 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
