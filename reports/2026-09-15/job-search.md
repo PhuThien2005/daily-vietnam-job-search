@@ -823,16 +823,17 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Cloud/ DevOps Intern | 36 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466130698/) |
-| 2 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
-| 3 | LinkedIn | ** Garena** | [HCM, Regional Craftland] Game Developer Intern | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467085299/) |
-| 4 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 5 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
-| 6 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
+| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Cloud/ DevOps Intern | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466130698/) |
+| 2 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
+| 3 | LinkedIn | ** Garena** | [HCM, Regional Craftland] Game Developer Intern | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467085299/) |
+| 4 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 5 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
+| 6 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
 | 7 | LinkedIn | ** MyStorage** | Product Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
 | 8 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
 | 9 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
