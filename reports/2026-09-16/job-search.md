@@ -830,24 +830,25 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** EON TECH** | Platform Development and Maintenance Engineer | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466833282/) |
-| 2 | LinkedIn | ** Anduin Transactions** | Software Engineer Intern | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466188567/) |
-| 3 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 1 | LinkedIn | ** EON TECH** | Platform Development and Maintenance Engineer | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466833282/) |
+| 2 | LinkedIn | ** Anduin Transactions** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466188567/) |
+| 3 | LinkedIn | ** NashTech** | Software Engineer - Java | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467712017/) |
 | 4 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
 | 5 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Cloud/ DevOps Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466130698/) |
 | 6 | LinkedIn | ** Garena** | [HCM, Regional Craftland] Game Developer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467085299/) |
 | 7 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
 | 8 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
-| 9 | LinkedIn | ** MyStorage** | Product Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
-| 10 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 11 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 9 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 10 | LinkedIn | ** MyStorage** | Product Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
+| 11 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
 | 12 | LinkedIn | ** Bouygues Construction IT Vietnam** | Software Developer - Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465825194/) |
-| 13 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 14 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4413914953/) |
+| 13 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 14 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
