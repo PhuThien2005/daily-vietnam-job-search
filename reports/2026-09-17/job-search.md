@@ -833,20 +833,21 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 2 | LinkedIn | ** EON TECH** | Platform Development and Maintenance Engineer | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466833282/) |
-| 3 | Ybox | **Công Ty Daewoo** | [HN] Công Ty Daewoo Engineering & Construction Vietnam Tuyển Dụng Nhân Viên Hành Chính (Thời Vụ 2 Tháng) Full-time 2026 | 16 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aaa11d2388114708c93997d) |
-| 4 | LinkedIn | ** Anduin Transactions** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466188567/) |
-| 5 | LinkedIn | ** NashTech** | Software Engineer - Java | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467712017/) |
-| 6 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
-| 7 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Cloud/ DevOps Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466130698/) |
-| 8 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
-| 9 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
-| 10 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 1 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 34 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467123230/) |
+| 2 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 3 | LinkedIn | ** EON TECH** | Platform Development and Maintenance Engineer | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466833282/) |
+| 4 | Ybox | **Công Ty Daewoo** | [HN] Công Ty Daewoo Engineering & Construction Vietnam Tuyển Dụng Nhân Viên Hành Chính (Thời Vụ 2 Tháng) Full-time 2026 | 19 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6aaa11d2388114708c93997d) |
+| 5 | LinkedIn | ** Anduin Transactions** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4466188567/) |
+| 6 | LinkedIn | ** NashTech** | Software Engineer - Java | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467712017/) |
+| 7 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4464767386/) |
+| 8 | LinkedIn | ** TTC AgriS** | Oracle Technical Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465484768/) |
+| 9 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 10 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465250503/) |
 | 11 | LinkedIn | ** Garena** | [HCM, Regional Craftland] Game Developer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4467085299/) |
 | 12 | LinkedIn | ** MyStorage** | Product Engineering Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465703052/) |
 | 13 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
