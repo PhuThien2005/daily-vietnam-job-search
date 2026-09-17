@@ -7,11 +7,11 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 34 minutes ago | [Link](https://www.linkedin.com/jobs/view/4467123230/) |
-| 2 | **Diploma Student / Intern - SAP Sustainability Ecosystems Engineering** | SAP | Ho Chi Minh City Metropolitan Area | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4456221149/) |
-| 3 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 4 | **Software Developers** | Netcompany | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4437682590/) |
-| 5 | **Platform Development and Maintenance Engineer** | EON TECH | Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4466833282/) |
+| 1 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4467123230/) |
+| 2 | **Diploma Student / Intern - SAP Sustainability Ecosystems Engineering** | SAP | Ho Chi Minh City Metropolitan Area | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4456221149/) |
+| 3 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 4 | **Software Developers** | Netcompany | Ho Chi Minh City, Vietnam | 10 hours ago | [Link](https://www.linkedin.com/jobs/view/4437682590/) |
+| 5 | **Platform Development and Maintenance Engineer** | EON TECH | Ho Chi Minh City, Vietnam | 21 hours ago | [Link](https://www.linkedin.com/jobs/view/4466833282/) |
 | 6 | **Software Engineer Intern** | Anduin Transactions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4466188567/) |
 | 7 | **Software Engineer - Java** | NashTech | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4467712017/) |
 | 8 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4464767386/) |
