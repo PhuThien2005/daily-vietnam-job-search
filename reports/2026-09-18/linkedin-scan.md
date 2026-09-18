@@ -7,11 +7,11 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4467163585/) |
-| 2 | **Junior Full Stack Developer (Java Angular)** | Amaris Consulting | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4467198122/) |
-| 3 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 23 hours ago | [Link](https://www.linkedin.com/jobs/view/4467123230/) |
-| 4 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 5 | **Platform Development and Maintenance Engineer** | EON TECH | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4466833282/) |
+| 1 | **Software Engineer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4467163585/) |
+| 2 | **Junior Full Stack Developer (Java Angular)** | Amaris Consulting | Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4467198122/) |
+| 3 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 4 | **Platform Development and Maintenance Engineer** | EON TECH | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4466833282/) |
+| 5 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4467123230/) |
 | 6 | **Diploma Student / Intern - SAP Sustainability Ecosystems Engineering** | SAP | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4456221149/) |
 | 7 | **Software Developers** | Netcompany | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4437682590/) |
 | 8 | **Software Engineer Intern** | Anduin Transactions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4466188567/) |
