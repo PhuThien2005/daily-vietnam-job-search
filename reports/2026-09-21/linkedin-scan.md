@@ -7,9 +7,9 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Front End Developer (Intern)** | VILIHA PTE. LTD. | Quận 7, Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4468458820/) |
-| 2 | **INTERN SYSTEMS SOFTWARE DEVELOPMENT ENGINEER** | As PowerUp | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4469535502/) |
-| 3 | **Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441445217/) |
+| 1 | **Quantitative Research Intern (LLMs &amp; AI Agents)** | WorldQuant | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4132261540/) |
+| 2 | **Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441445217/) |
+| 3 | **INTERN SYSTEMS SOFTWARE DEVELOPMENT ENGINEER** | As PowerUp | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4469535502/) |
 | 4 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4469119049/) |
 | 5 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441449065/) |
 | 6 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4469108731/) |
