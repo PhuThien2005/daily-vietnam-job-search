@@ -889,6 +889,7 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
@@ -898,9 +899,9 @@
 | 3 | LinkedIn | ** Amaris Consulting | Part of Mantu** | Embedded Android Engineer (Junior level) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472048456/) |
 | 4 | LinkedIn | ** EON TECH** | System Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471401252/) |
 | 5 | LinkedIn | ** Hitachi Digital Services** | Embedded Engineering Software Internship | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469691923/) |
-| 6 | LinkedIn | ** Sucafina** | Junior Fullstack Developer (.NET / ROR) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470622762/) |
-| 7 | LinkedIn | ** Schneider Electric** | Digital Transformation Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470252495/) |
-| 8 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ APAC D&amp;A HUB] - INSIGHTS &amp; INTELLIGENCE INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470253093/) |
+| 6 | LinkedIn | ** Schneider Electric** | Digital Transformation Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470252495/) |
+| 7 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ APAC D&amp;A HUB] - INSIGHTS &amp; INTELLIGENCE INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470253093/) |
+| 8 | LinkedIn | ** Sucafina** | Junior Fullstack Developer (.NET / ROR) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470622762/) |
 | 9 | LinkedIn | ** Endava** | Junior .NET Developer (C#, WinForms) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4470298509/) |
 | 10 | LinkedIn | ** HSBC** | Internship, IT | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469811468/) |
 
