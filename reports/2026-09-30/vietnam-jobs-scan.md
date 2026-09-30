@@ -6,12 +6,12 @@ Tìm thấy **14** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
-| 2 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
-| 3 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (Linux/C, Cloud) | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4473232039/) |
-| 4 | LinkedIn | ** ShopBack** | Software Engineer Intern - Backend | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471268591/) |
-| 5 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471554628/) |
-| 6 | LinkedIn | ** ShopBack** | Software Engineer Intern - Mobile | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471209291/) |
+| 1 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
+| 2 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
+| 3 | LinkedIn | ** Endava Vietnam** | Junior Software Engineer (Linux/C, Cloud) | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4473232039/) |
+| 4 | LinkedIn | ** ShopBack** | Software Engineer Intern - Backend | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471268591/) |
+| 5 | LinkedIn | ** ShopBack** | Software Engineer Intern - Mobile | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471209291/) |
+| 6 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471554628/) |
 | 7 | LinkedIn | ** Norrin** | Azure Data &amp; Integration Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471388216/) |
 | 8 | LinkedIn | ** Endava** | Junior Software Engineer (C/Python, Cloud) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465732321/) |
 | 9 | LinkedIn | ** Endava** | Junior Cloud Native Application Developer (C++, Linux) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457679271/) |
