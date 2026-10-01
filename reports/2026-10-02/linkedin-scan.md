@@ -7,10 +7,10 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **DevOps Intern** | EON TECH | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4472542373/) |
-| 2 | **Software Engineer - Python** | NashTech | Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4474145923/) |
-| 3 | **Software Engineering** | DXC Technology | Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4472530613/) |
-| 4 | **AI Engineer Intern (LLM)** | Gameloft Saigon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4474107688/) |
+| 1 | **Software Engineer - Python** | NashTech | Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4474145923/) |
+| 2 | **DevOps Intern** | EON TECH | Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4472542373/) |
+| 3 | **Software Engineering** | DXC Technology | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4472530613/) |
+| 4 | **AI Engineer Intern (LLM)** | Gameloft Saigon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 19 hours ago | [Link](https://www.linkedin.com/jobs/view/4474107688/) |
 | 5 | **Java Developer (Spring Boot, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4472115545/) |
 | 6 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
 | 7 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4436543252/) |

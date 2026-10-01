@@ -6,12 +6,12 @@ Tìm thấy **17** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** EON TECH** | DevOps Intern | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472542373/) |
-| 2 | LinkedIn | ** NashTech** | Software Engineer - Python | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474145923/) |
-| 3 | LinkedIn | ** DXC Technology** | Software Engineering | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472530613/) |
-| 4 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Kế Toán Full-time 2026 | 10 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6abe27a3fd3b6e3a8d75f199) |
-| 5 | Ybox | **N/A** | [HCM] Trung Tâm Giáo Dục BRIGHTCHAMPS Tuyển Dụng Thực Tập Sinh Math Curriculum Developer Full-time 2026 | 11 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6abe0eebcdd7ff3a98f52a65) |
-| 6 | LinkedIn | ** Gameloft Saigon** | AI Engineer Intern (LLM) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474107688/) |
+| 1 | LinkedIn | ** NashTech** | Software Engineer - Python | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474145923/) |
+| 2 | LinkedIn | ** EON TECH** | DevOps Intern | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472542373/) |
+| 3 | LinkedIn | ** DXC Technology** | Software Engineering | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472530613/) |
+| 4 | Ybox | **Công Ty Phần** | [HCM] Công Ty Phần Mềm FPT Software Tuyển Dụng Thực Tập Sinh Kế Toán Full-time 2026 | 14 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6abe27a3fd3b6e3a8d75f199) |
+| 5 | Ybox | **N/A** | [HCM] Trung Tâm Giáo Dục BRIGHTCHAMPS Tuyển Dụng Thực Tập Sinh Math Curriculum Developer Full-time 2026 | 16 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6abe0eebcdd7ff3a98f52a65) |
+| 6 | LinkedIn | ** Gameloft Saigon** | AI Engineer Intern (LLM) | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474107688/) |
 | 7 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472115545/) |
 | 8 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
 | 9 | LinkedIn | ** DXC Technology** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436543252/) |
