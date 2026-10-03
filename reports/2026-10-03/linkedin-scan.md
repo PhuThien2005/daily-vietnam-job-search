@@ -7,9 +7,9 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
-| 2 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 3 | **Graduate Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4474707617/) |
+| 1 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 2 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 3 | **Graduate Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4474707617/) |
 | 4 | **AI Engineer Intern (LLM)** | Gameloft Saigon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4474107688/) |
 | 5 | **Software Engineer - Python** | NashTech | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4474145923/) |
 | 6 | **Software Engineering** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4472530613/) |
