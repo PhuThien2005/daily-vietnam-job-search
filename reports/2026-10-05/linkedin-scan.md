@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 1 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 7 hours ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
 | 2 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
 | 3 | **Intern Systems Software Development Engineer** | Intel | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4456203041/) |
 | 4 | **AI Engineer Intern (LLM)** | Gameloft Saigon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4474107688/) |
@@ -17,8 +17,8 @@
 | 8 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
 | 9 | **AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | Ho Chi Minh City Metropolitan Area | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4473754034/) |
 | 10 | **Software Engineer Intern - Backend** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4471268591/) |
-| 11 | **Software Engineer Intern - Mobile** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4471209291/) |
-| 12 | **PhD Internship- AI Research** | Qualcomm | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4386871977/) |
-| 13 | **AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City)** | DHL Global Forwarding | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4455248969/) |
+| 11 | **PhD Internship- AI Research** | Qualcomm | Ho Chi Minh City Metropolitan Area | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4386871977/) |
+| 12 | **AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City)** | DHL Global Forwarding | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4455248969/) |
+| 13 | **Software Engineer Intern - Mobile** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4471209291/) |
 | 14 | **Azure Data &amp; Integration Engineer Intern** | Norrin | Củ Chi, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4471388216/) |
 | 15 | **Junior Software Engineer (C/Python, Cloud)** | Endava | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4465732321/) |
