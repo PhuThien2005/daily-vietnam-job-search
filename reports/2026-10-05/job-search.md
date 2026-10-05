@@ -927,26 +927,26 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** conarum Vietnam Company Ltd.** | N2/N1 JLPT SAP Consultant-Intern/Fresher/Re-Skill (Vietnam, Japan, Remote) | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475504917/) |
-| 2 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 3 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
-| 4 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
-| 5 | LinkedIn | ** Axon** | Graduate Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474707617/) |
-| 6 | LinkedIn | ** Gameloft Saigon** | AI Engineer Intern (LLM) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474107688/) |
+| 1 | LinkedIn | ** DXC Technology** | Software Engineering | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474239306/) |
+| 2 | LinkedIn | ** conarum Vietnam Company Ltd.** | N2/N1 JLPT SAP Consultant-Intern/Fresher/Re-Skill (Vietnam, Japan, Remote) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475504917/) |
+| 3 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 4 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 5 | LinkedIn | ** Intel** | Intern Systems Software Development Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4456203041/) |
+| 6 | LinkedIn | ** Axon** | Graduate Software Engineer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474707617/) |
 | 7 | LinkedIn | ** NashTech** | Software Engineer - Python | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474145923/) |
-| 8 | LinkedIn | ** DXC Technology** | Software Engineering | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472530613/) |
-| 9 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472115545/) |
-| 10 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
-| 11 | LinkedIn | ** ShopBack** | Software Engineer Intern - Backend | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471268591/) |
+| 8 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4436537443/) |
+| 9 | LinkedIn | ** Gameloft Saigon** | AI Engineer Intern (LLM) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474107688/) |
+| 10 | LinkedIn | ** ShopBack** | Software Engineer Intern - Backend | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471268591/) |
+| 11 | LinkedIn | ** CEVA Logistics** | Java Developer (Spring Boot, English) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4472115545/) |
 | 12 | LinkedIn | ** Qualcomm** | PhD Internship- AI Research | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4386871977/) |
 | 13 | LinkedIn | ** DHL Global Forwarding** | AI Testing Intern - iCAP AI v7 (6-month - Ho Chi Minh City) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4455248969/) |
 | 14 | LinkedIn | ** ShopBack** | Software Engineer Intern - Mobile | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471209291/) |
 | 15 | LinkedIn | ** Norrin** | Azure Data &amp; Integration Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4471388216/) |
-| 16 | LinkedIn | ** Endava** | Junior Software Engineer (C/Python, Cloud) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4465732321/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
