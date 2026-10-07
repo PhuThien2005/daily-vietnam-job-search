@@ -934,16 +934,17 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Seedcom Group** | AI TRANSFORMATION INTERN | 3 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474963087/) |
-| 2 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476339517/) |
-| 3 | LinkedIn | ** conarum Vietnam Company Ltd.** | N2/N1 JLPT SAP Consultant-Intern/Fresher/Re-Skill (Vietnam, Japan, Remote) | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476164694/) |
-| 4 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
-| 5 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
-| 6 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 1 | LinkedIn | ** Seedcom Group** | AI TRANSFORMATION INTERN | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474963087/) |
+| 2 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476339517/) |
+| 3 | LinkedIn | ** conarum Vietnam Company Ltd.** | N2/N1 JLPT SAP Consultant-Intern/Fresher/Re-Skill (Vietnam, Japan, Remote) | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476164694/) |
+| 4 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
+| 5 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 6 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
 | 7 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer (Mandarin Speaking) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475548182/) |
 | 8 | LinkedIn | ** EON TECH** | AI Architect Internship | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474264224/) |
 | 9 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
