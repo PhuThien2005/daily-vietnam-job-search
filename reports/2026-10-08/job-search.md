@@ -939,25 +939,23 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 2 | LinkedIn | ** DXC Technology** | Software Engineering | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475457395/) |
-| 3 | LinkedIn | ** LF Global Tech Pte Ltd** | Junior Back End Developer | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475173033/) |
-| 4 | Ybox | **Công Ty Trương** | [HCM] Công Ty Trương Đoàn Tuyển Dụng Nhân Viên IT Helpdesk (Fresher) Full-time 2026 | 21 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ac5cb118eed1f45f3f99871) |
-| 5 | LinkedIn | ** FPT IS** | Oracle Consultant (OHP) Intern | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474666362/) |
-| 6 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
-| 7 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476339517/) |
-| 8 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 9 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
-| 10 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer (Mandarin Speaking) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475548182/) |
-| 11 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 1 | LinkedIn | ** Anduin Transactions** | Software Engineer Intern | 8 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475773736/) |
+| 2 | LinkedIn | ** Bellhop** | AI Engineer Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475749129/) |
+| 3 | LinkedIn | ** ITC Group** | Software Engineer Intern | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475722751/) |
+| 4 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 5 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476339517/) |
+| 6 | LinkedIn | ** LF Global Tech Pte Ltd** | Junior Back End Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475173033/) |
+| 7 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 8 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
+| 9 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
+| 10 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 11 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer (Mandarin Speaking) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475548182/) |
 | 12 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
-| 13 | LinkedIn | ** Axon** | Graduate Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474707617/) |
-| 14 | LinkedIn | ** Gameloft Saigon** | AI Engineer Intern (LLM) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474107688/) |
-| 15 | LinkedIn | ** NashTech** | Software Engineer - Python | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474145923/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
