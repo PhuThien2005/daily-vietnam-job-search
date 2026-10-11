@@ -952,26 +952,27 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Axon** | Backend Software Engineer | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 2 | LinkedIn | ** bTaskee** | AI Engineer Intern | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478060934/) |
+| 1 | LinkedIn | ** Axon** | Backend Software Engineer | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 2 | LinkedIn | ** bTaskee** | AI Engineer Intern | 15 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478060934/) |
 | 3 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469119049/) |
 | 4 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469108731/) |
-| 5 | LinkedIn | ** Datalogic** | Internship Program- Automation Test Engineering | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477606866/) |
-| 6 | LinkedIn | ** Datalogic** | Internship Program - Embedded Software Engineering | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477614556/) |
-| 7 | LinkedIn | ** Axon** | Software Engineer I | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
-| 8 | LinkedIn | ** Motorola Solutions** | Test Automation Engineer Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477692994/) |
+| 5 | LinkedIn | ** Axon** | Software Engineer I | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 6 | LinkedIn | ** NETCO POST** | Thực tập | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476889243/) |
+| 7 | LinkedIn | ** Datalogic** | Internship Program- Automation Test Engineering | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477606866/) |
+| 8 | LinkedIn | ** Datalogic** | Internship Program - Embedded Software Engineering | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477614556/) |
 | 9 | LinkedIn | ** Netcompany** | Software Developers | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437682590/) |
 | 10 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
 | 11 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4476339517/) |
-| 12 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
-| 13 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 14 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
-| 15 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer (Mandarin Speaking) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475548182/) |
-| 16 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 12 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 13 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
+| 14 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
+| 15 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
+| 16 | LinkedIn | ** DXC Technology Vietnam** | Java Software Engineer (Mandarin Speaking) | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4475548182/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
