@@ -7,8 +7,8 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 hours ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 2 | **AI Engineer Intern** | bTaskee | Thu Đuc, Vietnam | 5 hours ago | [Link](https://www.linkedin.com/jobs/view/4478060934/) |
+| 1 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 hours ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 2 | **AI Engineer Intern** | bTaskee | Thu Đuc, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4478060934/) |
 | 3 | **Software Development Engineer in Test Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4469119049/) |
 | 4 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4469108731/) |
 | 5 | **Internship Program- Automation Test Engineering** | Datalogic | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4477606866/) |
