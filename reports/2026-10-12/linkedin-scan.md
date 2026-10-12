@@ -1,27 +1,25 @@
 # 🔍 LinkedIn Auto-Scan Report - 2026-10-12
 
 ## 📊 Summary
-- **Total unique relevant jobs found**: 18
+- **Total unique relevant jobs found**: 16
 - 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **DevOps Engineer Intern** | EON TECH | Ho Chi Minh City Metropolitan Area | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4477286629/) |
-| 2 | **🚀 WE ARE HIRING: Strategic &amp; AI-Driven Interns (Part-Time) / VGlobal Partners** | VGlobal Partners | Ho Chi Minh City, Vietnam | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4477294331/) |
-| 3 | **Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4441445217/) |
+| 1 | **AI Resident (Engineering)** | Qualcomm | Ho Chi Minh City Metropolitan Area | 1 hour ago | [Link](https://www.linkedin.com/jobs/view/4477570866/) |
+| 2 | **DevOps Engineer Intern** | EON TECH | Ho Chi Minh City Metropolitan Area | 11 hours ago | [Link](https://www.linkedin.com/jobs/view/4477286629/) |
+| 3 | **Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 20 hours ago | [Link](https://www.linkedin.com/jobs/view/4441445217/) |
 | 4 | **AI Engineer Intern** | bTaskee | Thu Đuc, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4478060934/) |
 | 5 | **Backend Software Engineer** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 6 | **Software Development Engineer in Test Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4469119049/) |
-| 7 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4469108731/) |
-| 8 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441449065/) |
-| 9 | **Test Automation Engineer Intern** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4477692994/) |
-| 10 | **Internship Program- Automation Test Engineering** | Datalogic | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4477606866/) |
-| 11 | **Internship Program - Embedded Software Engineering** | Datalogic | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4477614556/) |
-| 12 | **Software Developers** | Netcompany | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4437682590/) |
-| 13 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 6 | **Software Engineer I** | Axon | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 7 | **Software Development Engineer in Test Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4469119049/) |
+| 8 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4469108731/) |
+| 9 | **Internship Program- Automation Test Engineering** | Datalogic | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4477606866/) |
+| 10 | **Internship Program - Embedded Software Engineering** | Datalogic | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4477614556/) |
+| 11 | **Test Automation Engineer Intern** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4477692994/) |
+| 12 | **AI Research Intern, TAO Multi-Modal Model Development - 2026** | NVIDIA | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 13 | **Software Developers** | Netcompany | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4437682590/) |
 | 14 | **Thực Tập Sinh .Net Developer ( ASP.NET , C#)** | Fusion Marketing | District 3, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4476339517/) |
-| 15 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 16 | **Embedded Software Engineer Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4474632579/) |
-| 17 | **Java Software Engineer (Mandarin Speaking)** | DXC Technology Vietnam | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4475548182/) |
-| 18 | **Fullstack Engineer Intern** | Chợ Tốt | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4474018848/) |
+| 15 | **Embedded Software Engineer Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4474632579/) |
+| 16 | **Fullstack Engineer Intern** | Chợ Tốt | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4474018848/) |
