@@ -972,24 +972,29 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
-| 2 | LinkedIn | ** KNOREX** | Junior Software Engineer (RTB) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479271172/) |
-| 3 | LinkedIn | ** DXC Technology** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |
+| 1 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 11 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
+| 2 | LinkedIn | ** DXC Technology** | Junior Java Developer | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |
+| 3 | LinkedIn | ** KNOREX** | Junior Software Engineer (RTB) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479271172/) |
 | 4 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479278711/) |
-| 5 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - BACKEND DEVELOPER INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477961968/) |
-| 6 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477981065/) |
-| 7 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477983512/) |
-| 8 | LinkedIn | ** Qualcomm** | AI Resident (Engineering) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477570866/) |
-| 9 | LinkedIn | ** bTaskee** | AI Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478060934/) |
-| 10 | LinkedIn | ** Axon** | Backend Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 11 | LinkedIn | ** Datalogic** | Internship Program - Embedded Software Engineering | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477614556/) |
-| 12 | LinkedIn | ** Datalogic** | Internship Program- Automation Test Engineering | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477606866/) |
-| 13 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469108731/) |
-| 14 | LinkedIn | ** Motorola Solutions** | Test Automation Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477692994/) |
+| 5 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477983512/) |
+| 6 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - BACKEND DEVELOPER INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477961968/) |
+| 7 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - QA TESTER INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477982097/) |
+| 8 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477981065/) |
+| 9 | LinkedIn | ** Qualcomm** | AI Resident (Engineering) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477570866/) |
+| 10 | LinkedIn | ** Axon** | Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445217/) |
+| 11 | LinkedIn | ** Axon** | Backend Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
+| 12 | LinkedIn | ** bTaskee** | AI Engineer Intern | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478060934/) |
+| 13 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469119049/) |
+| 14 | LinkedIn | ** Datalogic** | Internship Program- Automation Test Engineering | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477606866/) |
+| 15 | LinkedIn | ** Datalogic** | Internship Program - Embedded Software Engineering | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477614556/) |
+| 16 | LinkedIn | ** Axon** | Software Engineer I | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441449065/) |
+| 17 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469108731/) |
+| 18 | LinkedIn | ** Motorola Solutions** | Test Automation Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477692994/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
