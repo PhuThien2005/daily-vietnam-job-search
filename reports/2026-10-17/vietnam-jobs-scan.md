@@ -6,11 +6,11 @@ Tìm thấy **18** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
-| 2 | LinkedIn | ** ABB** | Technical Internship – Expression of Interest | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480339976/) |
-| 3 | Ybox | **Công Ty SEO** | [Online] Công Ty SEO Navigator Tuyển Dụng Nhân Viên QA Developer Part-time 2026 | 11 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad1f6347961514307223174) |
-| 4 | Ybox | **N/A** | [HN/HCM] Tập Đoàn Y Tế Đa Quốc Gia B. Braun Vietnam Tuyển Dụng Nhân Viên Production Engineer/Operational Excellence/R&D Engineer/IT/Supply Chain/Planning/Legal & Compliance/Accounting & Finance/Sales & Marketing/Technical Services Full-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad1d5c05637854308e6bd4b) |
-| 5 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 1 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
+| 2 | LinkedIn | ** ABB** | Technical Internship – Expression of Interest | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480339976/) |
+| 3 | Ybox | **Công Ty SEO** | [Online] Công Ty SEO Navigator Tuyển Dụng Nhân Viên QA Developer Part-time 2026 | 13 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad1f6347961514307223174) |
+| 4 | Ybox | **N/A** | [HN/HCM] Tập Đoàn Y Tế Đa Quốc Gia B. Braun Vietnam Tuyển Dụng Nhân Viên Production Engineer/Operational Excellence/R&D Engineer/IT/Supply Chain/Planning/Legal & Compliance/Accounting & Finance/Sales & Marketing/Technical Services Full-time 2026 | 15 hours ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad1d5c05637854308e6bd4b) |
+| 5 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 20 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
 | 6 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
 | 7 | LinkedIn | ** Bosch Vietnam** | [Bosch HcP – Internship] Manufacturing Digitalization Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478847074/) |
 | 8 | LinkedIn | ** DXC Technology** | Junior Java Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |
