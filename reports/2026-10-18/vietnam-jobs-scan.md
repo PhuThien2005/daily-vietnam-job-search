@@ -1,16 +1,16 @@
 # Báo cáo tuyển dụng Java/Backend/Software Intern (2026-10-18)
 
-Tìm thấy **18** vị trí thực tập/fresher phù hợp.
+Tìm thấy **16** vị trí thực tập/fresher phù hợp.
 
 📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
-| 2 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
+| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
+| 2 | LinkedIn | ** Hitachi Digital Services** | AI-assisted HARC Intern | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479632636/) |
 | 3 | LinkedIn | ** ABB** | Technical Internship – Expression of Interest | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480339976/) |
-| 4 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
-| 5 | Ybox | **N/A** | [HN/HCM] Tập Đoàn Y Tế Đa Quốc Gia B. Braun Vietnam Tuyển Dụng Nhân Viên Production Engineer/Operational Excellence/R&D Engineer/IT/Supply Chain/Planning/Legal & Compliance/Accounting & Finance/Sales & Marketing/Technical Services Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad1d5c05637854308e6bd4b) |
+| 4 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
+| 5 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
 | 6 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
 | 7 | LinkedIn | ** Bosch Vietnam** | [Bosch HcP – Internship] Manufacturing Digitalization Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478847074/) |
 | 8 | LinkedIn | ** DXC Technology** | Junior Java Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |
@@ -21,6 +21,4 @@ Tìm thấy **18** vị trí thực tập/fresher phù hợp.
 | 13 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - QA TESTER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477982097/) |
 | 14 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477981065/) |
 | 15 | LinkedIn | ** Qualcomm** | AI Resident (Engineering) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477570866/) |
-| 16 | LinkedIn | ** Axon** | Software Engineer | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445217/) |
-| 17 | LinkedIn | ** Axon** | Backend Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445211/) |
-| 18 | LinkedIn | ** bTaskee** | AI Engineer Intern | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478060934/) |
+| 16 | LinkedIn | ** Axon** | Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445217/) |
