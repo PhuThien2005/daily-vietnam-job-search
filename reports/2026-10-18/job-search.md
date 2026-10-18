@@ -987,6 +987,7 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
@@ -994,17 +995,17 @@
 | 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
 | 2 | LinkedIn | ** ABB** | Technical Internship – Expression of Interest | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480339976/) |
 | 3 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
-| 4 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
-| 5 | LinkedIn | ** Hitachi Digital Services** | AI-assisted HARC Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479632636/) |
-| 6 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
-| 7 | LinkedIn | ** Bosch Vietnam** | [Bosch HcP – Internship] Manufacturing Digitalization Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478847074/) |
-| 8 | LinkedIn | ** DXC Technology** | Junior Java Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |
-| 9 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479278711/) |
-| 10 | LinkedIn | ** KNOREX** | Junior Software Engineer (RTB) | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479271172/) |
-| 11 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477983512/) |
-| 12 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - BACKEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477961968/) |
-| 13 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - QA TESTER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477982097/) |
-| 14 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477981065/) |
+| 4 | LinkedIn | ** Hitachi Digital Services** | AI-assisted HARC Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479632636/) |
+| 5 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
+| 6 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 7 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479278711/) |
+| 8 | LinkedIn | ** Bosch Vietnam** | [Bosch HcP – Internship] Manufacturing Digitalization Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478847074/) |
+| 9 | LinkedIn | ** DXC Technology** | Junior Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |
+| 10 | LinkedIn | ** DXC Technology** | Junior Java Developer (Mandarin) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477983512/) |
+| 11 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - BACKEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477961968/) |
+| 12 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - QA TESTER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477982097/) |
+| 13 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477981065/) |
+| 14 | LinkedIn | ** KNOREX** | Junior Software Engineer (RTB) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479271172/) |
 | 15 | LinkedIn | ** Qualcomm** | AI Resident (Engineering) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477570866/) |
 | 16 | LinkedIn | ** Axon** | Software Engineer | 6 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4441445217/) |
 
