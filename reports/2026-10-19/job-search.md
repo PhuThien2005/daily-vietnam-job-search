@@ -993,15 +993,16 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
-| 2 | LinkedIn | ** Hitachi Digital Services** | AI-assisted HARC Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479632636/) |
-| 3 | LinkedIn | ** ABB** | Technical Internship – Expression of Interest | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480339976/) |
-| 4 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
-| 5 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 1 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
+| 2 | LinkedIn | ** ABB** | Technical Internship – Expression of Interest | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480339976/) |
+| 3 | LinkedIn | ** Fusion Marketing** | Thực tập sinh kiểm thử phần mềm | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4480531299/) |
+| 4 | LinkedIn | ** Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 5 | LinkedIn | ** Hitachi Digital Services** | AI-assisted HARC Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479632636/) |
 | 6 | LinkedIn | ** Bosch Vietnam** | [Bosch HcP – Internship] Manufacturing Digitalization Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4478847074/) |
 | 7 | LinkedIn | ** Qode Solutions** | Full Stack Engineering Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479814484/) |
 | 8 | LinkedIn | ** DXC Technology** | Junior Java Developer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479273021/) |

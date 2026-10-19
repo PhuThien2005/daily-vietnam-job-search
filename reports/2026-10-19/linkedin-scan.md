@@ -7,11 +7,11 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **AI-Driven Full Stack Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4479627848/) |
-| 2 | **AI-assisted HARC Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4479632636/) |
-| 3 | **Technical Internship – Expression of Interest** | ABB | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480339976/) |
-| 4 | **Thực tập sinh kiểm thử phần mềm** | Fusion Marketing | District 3, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480531299/) |
-| 5 | **AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 1 | **AI-Driven Full Stack Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479627848/) |
+| 2 | **Technical Internship – Expression of Interest** | ABB | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480339976/) |
+| 3 | **Thực tập sinh kiểm thử phần mềm** | Fusion Marketing | District 3, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480531299/) |
+| 4 | **AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 5 | **AI-assisted HARC Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479632636/) |
 | 6 | **[Bosch HcP – Internship] Manufacturing Digitalization Intern** | Bosch Vietnam | Long Thành, Dong Nai, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4478847074/) |
 | 7 | **Full Stack Engineering Intern** | Qode Solutions | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4479814484/) |
 | 8 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4479273021/) |
