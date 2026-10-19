@@ -7,18 +7,18 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **FPT Telecom Internship 2026 – Tuyển dụng Thực tập sinh đa ngành** | FPT Telecom | Ho Chi Minh City Metropolitan Area | 6 minutes ago | [Link](https://www.linkedin.com/jobs/view/4479980114/) |
-| 2 | **AI-Driven Full Stack Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479627848/) |
-| 3 | **Technical Internship – Expression of Interest** | ABB | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480339976/) |
-| 4 | **Thực tập sinh kiểm thử phần mềm** | Fusion Marketing | District 3, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480531299/) |
-| 5 | **Full Stack Engineering Intern** | Qode Solutions | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4479814484/) |
-| 6 | **AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4479301808/) |
-| 7 | **Test Automation Intern** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4479278711/) |
-| 8 | **[Bosch HcP – Internship] Manufacturing Digitalization Intern** | Bosch Vietnam | Long Thành, Dong Nai, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4478847074/) |
+| 1 | **AI-Driven Full Stack Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479627848/) |
+| 2 | **Thực tập sinh kiểm thử phần mềm** | Fusion Marketing | District 3, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4480531299/) |
+| 3 | **AI-assisted HARC Intern** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4479632636/) |
+| 4 | **Technical Internship – Expression of Interest** | ABB | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4480339976/) |
+| 5 | **AI Workflow Intern tại Cúc Cu Australia - PR Pathway, Học Bổng tại Úc** | Cúc Cu Australia - PR Pathway, Học Bổng tại Úc | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4479301808/) |
+| 6 | **Energy Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4434333451/) |
+| 7 | **[Bosch HcP – Internship] Manufacturing Digitalization Intern** | Bosch Vietnam | Long Thành, Dong Nai, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4478847074/) |
+| 8 | **Full Stack Engineering Intern** | Qode Solutions | Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4479814484/) |
 | 9 | **Junior Java Developer** | DXC Technology | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4479273021/) |
-| 10 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4477983512/) |
+| 10 | **Test Automation Intern** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4479278711/) |
 | 11 | **Junior Software Engineer (RTB)** | KNOREX | Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4479271172/) |
-| 12 | **[ TIGER TRIBE ] - BACKEND DEVELOPER INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477961968/) |
-| 13 | **[ TIGER TRIBE ] - QA TESTER INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477982097/) |
-| 14 | **AI Resident (Engineering)** | Qualcomm | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477570866/) |
+| 12 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477983512/) |
+| 13 | **[ TIGER TRIBE ] - BACKEND DEVELOPER INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477961968/) |
+| 14 | **[ TIGER TRIBE ] - QA TESTER INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477982097/) |
 | 15 | **[ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4477981065/) |
