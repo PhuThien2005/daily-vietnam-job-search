@@ -6,9 +6,9 @@ Tìm thấy **16** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481976239/) |
-| 2 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
-| 3 | LinkedIn | ** ANDROS Vietnam** | Information System Technical Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481309682/) |
+| 1 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 2 | LinkedIn | ** ANDROS Vietnam** | Information System Technical Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481309682/) |
+| 3 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481976239/) |
 | 4 | LinkedIn | ** SCC Vietnam** | Javascript Developer Intern (ServiceNow Platform) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4482811727/) |
 | 5 | LinkedIn | ** LF Global Tech Pte Ltd** | Junior Back End Developer | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481180595/) |
 | 6 | Ybox | **N/A** | [HCM/Đồng Nai] Tập Đoàn Cung Cấp Công Nghệ Và Dịch Vụ Bosch Tuyển Dụng Thực Tập Sinh Nhiều Lĩnh Vực (Employer Branding/ Kế Toán/ Mua Hàng/ IT/ Logistics/...) Full-time 2026 | 2 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad9eee8e8f22d1bac4e53c7) |
