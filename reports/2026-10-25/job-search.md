@@ -1023,11 +1023,12 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 19 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481976239/) |
+| 1 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481976239/) |
 | 2 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
 | 3 | LinkedIn | ** ANDROS Vietnam** | Information System Technical Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481309682/) |
 | 4 | LinkedIn | ** SCC Vietnam** | Javascript Developer Intern (ServiceNow Platform) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4482811727/) |
