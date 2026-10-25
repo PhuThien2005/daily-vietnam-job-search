@@ -1030,13 +1030,14 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481976239/) |
-| 2 | Ybox | **Công Ty Giáo** | [HCM] Công Ty Giáo Dục Số Edtronaut Tuyển Dụng Thực Tập Sinh Kỹ Sư AI (AI Engineer Intern) Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6adc68503ce3747d04d918a6) |
-| 3 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 1 | Ybox | **Công Ty Giáo** | [HCM] Công Ty Giáo Dục Số Edtronaut Tuyển Dụng Thực Tập Sinh Kỹ Sư AI (AI Engineer Intern) Full-time 2026 | 1 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6adc68503ce3747d04d918a6) |
+| 2 | LinkedIn | ** Schaeffler** | Software Engineering Intern | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 3 | LinkedIn | ** Vexere** | HCM / HN – Thực tập sinh Triển Khai Phần Mềm | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481976239/) |
 | 4 | LinkedIn | ** SCC Vietnam** | Javascript Developer Intern (ServiceNow Platform) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4482811727/) |
 | 5 | LinkedIn | ** LF Global Tech Pte Ltd** | Junior Back End Developer | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4481180595/) |
 | 6 | Ybox | **N/A** | [HCM/Đồng Nai] Tập Đoàn Cung Cấp Công Nghệ Và Dịch Vụ Bosch Tuyển Dụng Thực Tập Sinh Nhiều Lĩnh Vực (Employer Branding/ Kế Toán/ Mua Hàng/ IT/ Logistics/...) Full-time 2026 | 3 days ago | [Ybox Direct Link](https://ybox.vn/tuyen-dung/job-6ad9eee8e8f22d1bac4e53c7) |

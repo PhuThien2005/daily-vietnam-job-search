@@ -7,8 +7,8 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4481976239/) |
-| 2 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 1 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 2 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4481976239/) |
 | 3 | **Javascript Developer Intern (ServiceNow Platform)** | SCC Vietnam | District 7, Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4482811727/) |
 | 4 | **Junior Back End Developer** | LF Global Tech Pte Ltd | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4481180595/) |
 | 5 | **JavaEE Developer (EJB, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4479493297/) |
