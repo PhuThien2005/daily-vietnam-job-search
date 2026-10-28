@@ -7,14 +7,14 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Fullstack Engineer Intern** | Chợ Tốt | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4474018848/) |
-| 2 | **Embedded Software Engineer Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4474632579/) |
-| 3 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4483611671/) |
-| 4 | **Solutions Architect Internship** | EON TECH | Ho Chi Minh City, Vietnam | 14 hours ago | [Link](https://www.linkedin.com/jobs/view/4483611413/) |
+| 1 | **Fullstack Engineer Intern** | Chợ Tốt | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4474018848/) |
+| 2 | **Embedded Software Engineer Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 15 hours ago | [Link](https://www.linkedin.com/jobs/view/4474632579/) |
+| 3 | **Software Engineer Intern** | OPSWAT | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4483611671/) |
+| 4 | **Solutions Architect Internship** | EON TECH | Ho Chi Minh City, Vietnam | 17 hours ago | [Link](https://www.linkedin.com/jobs/view/4483611413/) |
 | 5 | **Software Engineer Intern - QA** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4350676078/) |
 | 6 | **Java Developer (Mandarin Speaking)** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 7 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4481976239/) |
-| 8 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 7 | **Software Engineering Intern** | Schaeffler | Biên Hòa, Dong Nai, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4474742961/) |
+| 8 | **HCM / HN – Thực tập sinh Triển Khai Phần Mềm** | Vexere | Ho Chi Minh City Metropolitan Area | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4481976239/) |
 | 9 | **Javascript Developer Intern (ServiceNow Platform)** | SCC Vietnam | District 7, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4482811727/) |
 | 10 | **JavaEE Developer (EJB, English)** | CEVA Logistics | Tân Bình, Ho Chi Minh City, Vietnam | 5 days ago | [Link](https://www.linkedin.com/jobs/view/4479493297/) |
 | 11 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 6 days ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
