@@ -1055,26 +1055,28 @@
 
 
 
+
 ## 📋 Bảng tổng hợp vị trí đang mở & cần chú ý (Quét tự động)
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Artemis Digital** | Website Intern (Wordpress) | 2 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485132706/) |
-| 2 | LinkedIn | ** SkyDev** | Backend Developer Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485141232/) |
-| 3 | LinkedIn | ** TESO GLOBAL** | Tuyển thực tập sinh Mobile Developer (Flutter) / FE (ReactJS) | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484852587/) |
-| 4 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477692994/) |
-| 5 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 18 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469108731/) |
-| 6 | LinkedIn | ** aiqon** | AI / Software Engineering Intern | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483437168/) |
-| 7 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
-| 8 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ APAC D&amp;A HUB ] - DATA ENGINEER INTERN | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483858652/) |
-| 9 | LinkedIn | ** OPSWAT** | Software Engineering Intern - MetaDefender Cloud | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484799020/) |
-| 10 | LinkedIn | ** EON TECH** | DevOps Engineering Associate | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479975573/) |
-| 11 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
+| 1 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 26 minutes ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469119049/) |
+| 2 | LinkedIn | ** Artemis Digital** | Website Intern (Wordpress) | 8 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485132706/) |
+| 3 | LinkedIn | ** SkyDev** | Backend Developer Intern | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485143250/) |
+| 4 | LinkedIn | ** TESO GLOBAL** | Tuyển thực tập sinh Mobile Developer (Flutter) / FE (ReactJS) | 22 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484852587/) |
+| 5 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 23 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477692994/) |
+| 6 | LinkedIn | ** aiqon** | AI / Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483437168/) |
+| 7 | LinkedIn | ** NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4457662395/) |
+| 8 | LinkedIn | ** OPSWAT** | Software Engineering Intern - MetaDefender Cloud | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484776942/) |
+| 9 | LinkedIn | ** EON TECH** | DevOps Engineering Associate | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479975573/) |
+| 10 | LinkedIn | ** OPSWAT** | Software Engineering Intern - MetaDefender Cloud | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484799020/) |
+| 11 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ APAC D&amp;A HUB ] - DATA ENGINEER INTERN | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483858652/) |
 | 12 | LinkedIn | ** Motorola Solutions** | Software Engineer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484404743/) |
-| 13 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
-| 14 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
-| 15 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
-| 16 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483611671/) |
+| 13 | LinkedIn | ** Hitachi Digital Services** | Embedded Software Engineer Internship | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474632579/) |
+| 14 | LinkedIn | ** OPSWAT** | Software Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483611671/) |
+| 15 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4474018848/) |
+| 16 | LinkedIn | ** ShopBack** | Software Engineer Intern - QA | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4350676078/) |
+| 17 | LinkedIn | ** DXC Technology** | Java Developer (Mandarin Speaking) | 5 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4437963031/) |
 
 
 *Lưu ý: Bảng trên được cập nhật tự động bằng script quét. Để xem phân tích chuyên sâu cho từng vị trí, vui lòng đối chiếu với phần mô tả ở trên.*
