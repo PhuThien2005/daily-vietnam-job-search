@@ -6,8 +6,8 @@ Tìm thấy **15** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 4 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469119049/) |
-| 2 | LinkedIn | ** Artemis Digital** | Website Intern (Wordpress) | 12 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485132706/) |
+| 1 | LinkedIn | ** OPSWAT** | Software Development Engineer in Test Intern | 7 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4469119049/) |
+| 2 | LinkedIn | ** Artemis Digital** | Website Intern (Wordpress) | 16 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485132706/) |
 | 3 | LinkedIn | ** TESO GLOBAL** | Tuyển thực tập sinh Mobile Developer (Flutter) / FE (ReactJS) | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484852587/) |
 | 4 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4477692994/) |
 | 5 | LinkedIn | ** aiqon** | AI / Software Engineering Intern | 1 day ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4483437168/) |
