@@ -7,12 +7,12 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Test Automation Intern** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 hours ago | [Link](https://www.linkedin.com/jobs/view/4479278711/) |
-| 2 | **[ TIGER TRIBE ] - DEVOPS ENGINEER INTER** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 12 hours ago | [Link](https://www.linkedin.com/jobs/view/4486359444/) |
-| 3 | **Embedded Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 22 hours ago | [Link](https://www.linkedin.com/jobs/view/4486302823/) |
-| 4 | **Forward Deployed Engineer (FDE) Associate** | GenAI Fund | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4484655220/) |
-| 5 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4477983512/) |
-| 6 | **Intern AI Software Engineer** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4486867230/) |
+| 1 | **Test Automation Intern** | Motorola Solutions | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 8 hours ago | [Link](https://www.linkedin.com/jobs/view/4479278711/) |
+| 2 | **[ TIGER TRIBE ] - DEVOPS ENGINEER INTER** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 16 hours ago | [Link](https://www.linkedin.com/jobs/view/4486359444/) |
+| 3 | **Forward Deployed Engineer (FDE) Associate** | GenAI Fund | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4484655220/) |
+| 4 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4477983512/) |
+| 5 | **Intern AI Software Engineer** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4486867230/) |
+| 6 | **Embedded Internship** | Hitachi Digital Services | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4486302823/) |
 | 7 | **[ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN** | Tiger Tribe (A HEINEKEN Company) | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4486032171/) |
 | 8 | **Backend Engineer (Python, SQL, English)** | Restaff - House Of Norway | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4486878079/) |
 | 9 | **Intern Agentic Data Engineer** | Nexlab Technology | Ho Chi Minh City Metropolitan Area | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4486872060/) |
