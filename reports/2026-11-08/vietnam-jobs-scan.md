@@ -6,13 +6,13 @@ Tìm thấy **10** vị trí thực tập/fresher phù hợp.
 
 | # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |
 |---|-------|---------|--------------------|-----------|---------------|
-| 1 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 5 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4488737206/) |
-| 2 | LinkedIn | ** EngRadar** | Fullstack Engineer Intern | 6 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4488718969/) |
-| 3 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 10 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486649279/) |
-| 4 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 13 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
+| 1 | LinkedIn | ** EngRadar** | Fullstack Engineer Intern | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4488718969/) |
+| 2 | LinkedIn | ** Fusion Marketing** | Thực Tập Sinh .Net Developer ( ASP.NET , C#) | 9 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4488737206/) |
+| 3 | LinkedIn | ** Chợ Tốt** | Fullstack Engineer Intern | 14 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486649279/) |
+| 4 | LinkedIn | ** Hitachi Digital Services** | AI-Driven Full Stack Intern | 17 hours ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479627848/) |
 | 5 | LinkedIn | ** GONSA** | Intern - Robotic Process Automation Developer (RPA) | 2 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4485856805/) |
-| 6 | LinkedIn | ** Hitachi Digital Services** | Embedded Internship | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486302823/) |
-| 7 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479278711/) |
-| 8 | LinkedIn | ** Nexlab Technology** | Intern AI Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486867230/) |
-| 9 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486032171/) |
-| 10 | LinkedIn | ** GenAI Fund** | Forward Deployed Engineer (FDE) Associate | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484655220/) |
+| 6 | LinkedIn | ** Motorola Solutions** | Test Automation Intern | 3 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4479278711/) |
+| 7 | LinkedIn | ** Nexlab Technology** | Intern AI Software Engineer | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486867230/) |
+| 8 | LinkedIn | ** Tiger Tribe (A HEINEKEN Company)** | [ TIGER TRIBE ] - FRONTEND DEVELOPER INTERN | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486032171/) |
+| 9 | LinkedIn | ** GenAI Fund** | Forward Deployed Engineer (FDE) Associate | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4484655220/) |
+| 10 | LinkedIn | ** Hitachi Digital Services** | Embedded Internship | 4 days ago | [LinkedIn Direct Link](https://www.linkedin.com/jobs/view/4486302823/) |
