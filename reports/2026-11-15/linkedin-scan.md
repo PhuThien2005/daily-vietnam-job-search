@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **Technical Engineering Intern  - AI Research and Development Internship** | Synopsys Inc | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 9 hours ago | [Link](https://www.linkedin.com/jobs/view/4482860377/) |
+| 1 | **Technical Engineering Intern  - AI Research and Development Internship** | Synopsys Inc | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 13 hours ago | [Link](https://www.linkedin.com/jobs/view/4482860377/) |
 | 2 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 2 days ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
 | 3 | **Software Engineer Intern - Mobile** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4471209291/) |
 | 4 | **[LAZTAR] Product Engineering Experience Program 2026 (Quality Assurance)** | LAZTAR | Minh Thanh Ward, Binh Phuoc, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4489018994/) |
