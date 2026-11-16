@@ -7,7 +7,7 @@
 ## 📋 Job Listings
 | # | Job Title | Company | Location | Posted Date | Direct LinkedIn Link |
 |---|-----------|---------|----------|-------------|----------------------|
-| 1 | **AI Developer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 18 hours ago | [Link](https://www.linkedin.com/jobs/view/4490222214/) |
+| 1 | **AI Developer Intern** | EON TECH | Ho Chi Minh City, Vietnam | 22 hours ago | [Link](https://www.linkedin.com/jobs/view/4490222214/) |
 | 2 | **Technical Engineering Intern  - AI Research and Development Internship** | Synopsys Inc | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 1 day ago | [Link](https://www.linkedin.com/jobs/view/4482860377/) |
 | 3 | **Junior Java Developer (Mandarin)** | DXC Technology | Ho Chi Minh City, Vietnam | 3 days ago | [Link](https://www.linkedin.com/jobs/view/4436537443/) |
 | 4 | **Software Engineer Intern - Mobile** | ShopBack | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 4 days ago | [Link](https://www.linkedin.com/jobs/view/4471209291/) |
