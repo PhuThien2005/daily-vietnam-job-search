@@ -4,8 +4,11 @@ import urllib.parse
 import json
 import re
 import os
-import sys
+import time
 from datetime import datetime, timezone, timedelta
+
+from job_filters import PROJECT_DIR, clean_text, filter_jobs, get_platform, load_config, load_profile, md_cell
+from search_linkedin import CACHE_PATH, fetch_all
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -42,59 +45,18 @@ def extract_json_by_braces(s):
                     return s[start:i+1]
     return None
 
-def search_linkedin(queries):
-    jobs = []
+def search_linkedin(config, max_cache_age_seconds=1800):
+    """Reuse search_linkedin.py's fresh cache when available; otherwise query LinkedIn directly."""
+    try:
+        with open(CACHE_PATH, "r", encoding="utf-8") as f:
+            cache = json.load(f)
+        if time.time() - cache.get("fetched_at", 0) <= max_cache_age_seconds:
+            print("📡 LinkedIn: reusing cached results from search_linkedin.py")
+            return cache["jobs"]
+    except (OSError, ValueError, KeyError):
+        pass
     print("📡 Scanning LinkedIn Guest API...")
-    for q in queries:
-        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={urllib.parse.quote(q)}&location=Ho%20Chi%20Minh%20City&f_TPR=r604800"
-        try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req) as resp:
-                html = resp.read().decode('utf-8')
-                items = html.split('<li')
-                for item in items[1:]:
-                    title_match = re.search(r'class="base-search-card__title"[^>]*>\s*(.*?)\s*</', item, re.DOTALL)
-                    title = title_match.group(1).strip() if title_match else "N/A"
-                    title = re.sub(r'<[^>]*>', '', title)
-                    title = re.sub(r'\s+', ' ', title)
-                    
-                    company_match = re.search(r'class="base-search-card__subtitle"[^>]*>\s*(.*?)\s*</', item, re.DOTALL)
-                    if not company_match:
-                        company_match = re.search(r'data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle"[^>]*>\s*(.*?)\s*</', item, re.DOTALL)
-                    company = company_match.group(1).strip() if company_match else "N/A"
-                    company = re.sub(r'<[^>]*>', '', company)
-                    company = re.sub(r'\s+', ' ', company)
-                    
-                    location_match = re.search(r'class="job-search-card__location"[^>]*>\s*(.*?)\s*</', item, re.DOTALL)
-                    location = location_match.group(1).strip() if location_match else "N/A"
-                    location = re.sub(r'<[^>]*>', '', location)
-                    location = re.sub(r'\s+', ' ', location)
-                    
-                    time_match = re.search(r'class="job-search-card__listdate"[^>]*>\s*(.*?)\s*</', item, re.DOTALL)
-                    if not time_match:
-                        time_match = re.search(r'class="job-search-card__listdate--new"[^>]*>\s*(.*?)\s*</', item, re.DOTALL)
-                    time_str = time_match.group(1).strip() if time_match else "N/A"
-                    
-                    link_match = re.search(r'href="(https://[^"]+/jobs/view/[^"?]+)', item)
-                    link = link_match.group(1) if link_match else "N/A"
-                    
-                    job_id_match = re.search(r'(\d+)/?$', link)
-                    job_id = job_id_match.group(1) if job_id_match else "N/A"
-                    
-                    if title != "N/A" and link != "N/A" and job_id != "N/A":
-                        clean_link = f"https://www.linkedin.com/jobs/view/{job_id}/"
-                        jobs.append({
-                            "source": "LinkedIn",
-                            "title": title,
-                            "company": company,
-                            "location": location,
-                            "time": time_str,
-                            "link": clean_link,
-                            "id": job_id
-                        })
-        except Exception as e:
-            continue
-    return jobs
+    return fetch_all(config)
 
 def search_ybox():
     jobs = []
@@ -102,7 +64,7 @@ def search_ybox():
     url = "https://ybox.vn/tuyen-dung"
     try:
         req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as resp:
+        with urllib.request.urlopen(req, timeout=20) as resp:
             html = resp.read().decode('utf-8')
             state_start = html.find('window.__INITIAL_STATE__')
             if state_start != -1:
@@ -167,15 +129,19 @@ def search_ybox():
         print(f"  [Error] Ybox search failed: {e}")
     return jobs
 
-def search_itviec():
+def search_itviec(config):
     jobs = []
     print("📡 Scanning ITviec...")
-    queries = ["java-intern-ho-chi-minh", "software-engineer-intern-ho-chi-minh"]
-    for q in queries:
-        url = f"https://itviec.com/it-jobs/{q}"
+    platform = get_platform(config, "ITviec")
+    suffix = platform.get("scraper_slug_suffix", "-ho-chi-minh")
+    queries = platform.get("search_queries") or ["java-intern", "software-engineer-intern"]
+    for i, q in enumerate(queries):
+        if i:
+            time.sleep(1)
+        url = f"https://itviec.com/it-jobs/{q}{suffix}"
         try:
             req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req) as resp:
+            with urllib.request.urlopen(req, timeout=20) as resp:
                 html = resp.read().decode('utf-8')
                 cards = html.split("class='job-card ")
                 for card in cards[1:]:
@@ -186,13 +152,11 @@ def search_itviec():
                     
                     title_match = re.search(r"<h3[^>]*>\s*(.*?)\s*</h3>", card, re.DOTALL)
                     title = title_match.group(1).strip() if title_match else "N/A"
-                    title = re.sub(r'<[^>]*>', '', title)
-                    title = re.sub(r'\s+', ' ', title)
+                    title = clean_text(title)
                     
                     company_match = re.search(r'class="text-rich-grey"[^>]*>\s*(.*?)\s*</a>', card, re.DOTALL)
                     company = company_match.group(1).strip() if company_match else "N/A"
-                    company = re.sub(r'<[^>]*>', '', company)
-                    company = re.sub(r'\s+', ' ', company)
+                    company = clean_text(company)
                     
                     time_match = re.search(r"Posted\s*(.*?)\s*</span>", card, re.DOTALL)
                     time_str = time_match.group(1).strip() if time_match else "Recent"
@@ -211,127 +175,49 @@ def search_itviec():
                         "id": slug
                     })
         except Exception as e:
+            print(f"  [Error] ITviec '{q}' failed: {e}")
             continue
     return jobs
 
-def filter_jobs(jobs):
-    filtered = []
-    exclude_keywords = ["senior", "lead", "principal", "manager", "director", "head of", "expert", "test lead", "qa lead"]
-    include_keywords = ["intern", "fresher", "junior", "trainee", "student", "thực tập", "học việc", "developer", "engineer", "backend", "java", "software", "angular"]
-    
-    seen_ids = set()
-    
-    for job in jobs:
-        if job["id"] in seen_ids:
-            continue
-            
-        title_lower = job["title"].lower()
-        
-        # Check exclusion
-        is_excluded = any(ex in title_lower for ex in exclude_keywords)
-        # Check inclusion
-        is_included = any(inc in title_lower for inc in include_keywords)
-        
-        # Ybox title special check
-        if job["source"] == "Ybox":
-            has_it_word = any(re.search(rf'\b{w}\b', title_lower) for w in ["it", "cntt"])
-            has_other_keywords = any(k in title_lower for k in ["lập trình", "java", "backend", "software", "công nghệ thông tin", "developer", "engineer"])
-            if not (has_it_word or has_other_keywords):
-                continue
-                
-        # Check time limit (<= 7 days / 168 hours)
-        hours_old = parse_time_to_hours(job["time"])
-        if hours_old > 168:
-            continue
-            
-        if is_included and not is_excluded:
-            filtered.append(job)
-            seen_ids.add(job["id"])
-            
-    return filtered
-
-def parse_time_to_hours(time_str):
-    """Parse relative time strings into numeric hours for sorting.
-    
-    Handles formats like: 'Just now', '20 hours ago', '3 days ago', 
-    '1 week ago', '2 weeks ago', '1 month ago', 'Recent', etc.
-    Returns float hours. Lower = more recent.
-    """
-    time_str = time_str.strip().lower()
-    
-    if time_str in ("just now", "recent", "n/a"):
-        return 0
-    
-    match = re.match(r'(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago', time_str)
-    if match:
-        value = int(match.group(1))
-        unit = match.group(2)
-        multipliers = {
-            "second": 1/3600,
-            "minute": 1/60,
-            "hour": 1,
-            "day": 24,
-            "week": 24 * 7,
-            "month": 24 * 30,
-            "year": 24 * 365,
-        }
-        return value * multipliers.get(unit, 9999)
-    
-    # Fallback: unknown format gets pushed to bottom
-    return 99999
-
-
 def main():
     print("🚀 Running Vietnam Job Search Aggregator...")
-    
-    # Target queries
-    linkedin_queries = ["Java intern", "Backend intern", "Software engineer intern"]
-    
-    # Scrape all
+    config = load_config()
+    profile = load_profile(config)
+
     all_jobs = []
-    
-    linkedin_results = search_linkedin(linkedin_queries)
-    print(f"  [Found] {len(linkedin_results)} LinkedIn jobs.")
-    all_jobs.extend(linkedin_results)
-    
-    ybox_results = search_ybox()
-    print(f"  [Found] {len(ybox_results)} Ybox posts.")
-    all_jobs.extend(ybox_results)
-    
-    itviec_results = search_itviec()
-    print(f"  [Found] {len(itviec_results)} ITviec jobs.")
-    all_jobs.extend(itviec_results)
-    
-    # Deduplicate & Filter
-    filtered = filter_jobs(all_jobs)
-    print(f"✨ Deduplicated & filtered to {len(filtered)} positions.")
-    
-    # Sort by posting date: newest first (smallest hours ago = first)
-    filtered.sort(key=lambda job: parse_time_to_hours(job["time"]))
-    print("📅 Sorted by posting date (newest → oldest).")
-    
-    # Save Report
+    for name, results in (("LinkedIn", search_linkedin(config)), ("Ybox", search_ybox()), ("ITviec", search_itviec(config))):
+        print(f"  [Found] {len(results)} {name} jobs.")
+        all_jobs.extend(results)
+
+    filtered = filter_jobs(all_jobs, profile)
+    print(f"✨ Deduplicated & filtered to {len(filtered)} positions (newest first).")
+
     today_str = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
-    report_dir = os.path.join("reports", today_str)
+    report_dir = os.path.join(PROJECT_DIR, "reports", today_str)
     os.makedirs(report_dir, exist_ok=True)
     report_path = os.path.join(report_dir, "vietnam-jobs-scan.md")
-    
+
+    by_level = {}
+    for job in filtered:
+        by_level[job["level"]] = by_level.get(job["level"], 0) + 1
+    level_summary = ", ".join(f"{k}: {v}" for k, v in sorted(by_level.items(), key=lambda kv: -kv[1]))
+
     with open(report_path, "w", encoding="utf-8") as f:
-        f.write(f"# Báo cáo tuyển dụng Java/Backend/Software Intern ({today_str})\n\n")
-        f.write(f"Tìm thấy **{len(filtered)}** vị trí thực tập/fresher phù hợp.\n\n")
-        f.write(f"📅 *Sắp xếp theo thời gian đăng: mới nhất → cũ nhất*\n\n")
-        f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Ngày đăng | Link chi tiết |\n")
-        f.write("|---|-------|---------|--------------------|-----------|---------------|\n")
+        f.write(f"# Báo cáo tuyển dụng IT — Intern / Fresher / Junior ({today_str})\n\n")
+        f.write(f"Tìm thấy **{len(filtered)}** vị trí phù hợp ({level_summary or 'không có'}).\n\n")
+        f.write("🎯 *Role: Java/Spring, Backend, Fullstack, .NET/C#, AI/LLM Application, QA/Test Automation, Software Engineer — "
+                "cấu hình tại `tools/job-search/search-config.json` → `search_profile`*\n\n")
+        f.write("📅 *Sắp xếp: job ghi rõ Intern/Fresher/Junior/Entry lên trước, sau đó là job chưa rõ level; trong mỗi nhóm mới nhất → cũ nhất*\n\n")
+        f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Level | Nhóm role | Ngày đăng | Link chi tiết |\n")
+        f.write("|---|-------|---------|--------------------|-------|-----------|-----------|---------------|\n")
         for idx, job in enumerate(filtered, 1):
-            f.write(f"| {idx} | {job['source']} | **{job['company']}** | {job['title']} | {job['time']} | [{job['source']} Direct Link]({job['link']}) |\n")
-            
+            f.write(f"| {idx} | {job['source']} | **{md_cell(job['company'])}** | {md_cell(job['title'])} | {job['level']} "
+                    f"| {job['role']} | {job['time']} | [{job['source']} Direct Link]({job['link']}) |\n")
+
     print(f"\n💾 Report successfully saved to: {report_path}\n")
-    
-    # Print console preview
-    for idx, job in enumerate(filtered[:20], 1):
-        print(f"{idx}. [{job['source']}] {job['title']} at {job['company']}")
-        print(f"   Location: {job['location']} | Posted: {job['time']}")
-        print(f"   Link: {job['link']}\n")
+    for idx, job in enumerate(filtered[:30], 1):
+        print(f"{idx}. [{job['source']} · {job['level']} · {job['role']}] {job['title']} at {job['company']} — {job['time']}")
+
 
 if __name__ == "__main__":
     main()

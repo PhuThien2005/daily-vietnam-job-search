@@ -8,28 +8,76 @@
     "github": "github.com/PhuThien2005",
     "university": "UIT-VNUHCM",
     "major": "Software Engineering",
-    "gpa": "8.91/10",
-    "graduation": "2027 (Expected)",
+    "gpa": "8.92/10",
+    "graduation": "April 2027 (Expected)",
     "toeic": 940,
     "certifications": [
       "TOEIC 940 (IIG Vietnam, Mar 2026)",
       "Foundations of UX Design (Google, May 2026)"
     ],
     "skills": {
-      "languages": ["Java", "C++", "C#", "SQL"],
-      "frameworks": ["Spring Boot"],
-      "databases": ["PostgreSQL", "MySQL", "MSSQL Server"],
-      "tools": ["Git/GitHub", "Docker", "Postman", "Vercel", "Netlify", "Cloudinary", "Aiven", "Supabase"]
+      "languages": [
+        "Java",
+        "SQL",
+        "C++",
+        "C#",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Spring Boot",
+        "Spring MVC",
+        "Hibernate/JPA",
+        "React (basic)",
+        "LangChain4j"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MySQL",
+        "MS SQL Server"
+      ],
+      "testing": [
+        "JUnit",
+        "Mockito",
+        "MockMvc",
+        "JaCoCo"
+      ],
+      "tools": [
+        "Git (GitHub, Bitbucket)",
+        "Maven",
+        "Tomcat",
+        "IntelliJ IDEA",
+        "Docker (basic)",
+        "Postman",
+        "Jira",
+        "Vercel",
+        "Netlify",
+        "Cloudinary"
+      ]
     },
     "target_positions": [
-      "Java Backend Intern",
-      "Software Engineer Intern",
-      "Backend Developer Intern",
-      "Java Developer Intern",
-      "Spring Boot Developer Intern"
+      "Java Backend Developer (Intern/Fresher/Junior)",
+      "Backend Developer / Software Engineer (Intern/Fresher/Junior)",
+      "Spring Boot Developer",
+      "Fullstack Developer (Java + React)",
+      ".NET / C# Developer (Fresher/Junior)",
+      "AI Application Engineer (LLM integration, Fresher/Junior)",
+      "QA / Test Automation Engineer (Fresher/Junior)",
+      "Graduate / Fresher programs (Fresher Academy, Tech Fresher, Graduate Program)"
     ],
-    "target_locations": ["Ho Chi Minh City", "Remote"],
-    "availability": "Full-time"
+    "target_locations": [
+      "Ho Chi Minh City",
+      "Remote"
+    ],
+    "availability": "Full-time from Dec 2026",
+    "experience": [
+      "Software Engineering Intern (Java Backend), ELCA Vietnam — SecuTix ticketing platform, Aug 2026 – Nov 2026"
+    ],
+    "target_levels": [
+      "Intern",
+      "Fresher",
+      "Junior",
+      "Entry level / Graduate"
+    ]
   },
   "search_sources": {
     "job_platforms": [
@@ -40,8 +88,44 @@
           "Java intern",
           "Backend intern",
           "Software engineer intern",
-          "Spring Boot intern"
-        ]
+          "Fresher Java",
+          "Junior Java",
+          "Junior Backend",
+          "Fresher developer",
+          {
+            "keywords": "Java",
+            "entry_filter": true
+          },
+          {
+            "keywords": "Spring Boot",
+            "entry_filter": true
+          },
+          {
+            "keywords": "Backend Developer",
+            "entry_filter": true
+          },
+          {
+            "keywords": "Software Engineer",
+            "entry_filter": true
+          },
+          {
+            "keywords": "Fullstack Developer",
+            "entry_filter": true
+          },
+          {
+            "keywords": ".NET Developer",
+            "entry_filter": true
+          },
+          {
+            "keywords": "AI Engineer",
+            "entry_filter": true
+          },
+          {
+            "keywords": "Graduate program",
+            "entry_filter": true
+          }
+        ],
+        "note": "entry_filter=true thêm f_E=1,2 (Internship + Entry level) vào LinkedIn Guest API. search_linkedin.py chạy trước và cache kết quả cho search_vietnam_jobs.py."
       },
       {
         "name": "TopCV",
@@ -49,7 +133,11 @@
         "search_queries": [
           "thuc-tap-java",
           "thuc-tap-backend",
-          "intern-software"
+          "intern-software",
+          "fresher-java",
+          "junior-java",
+          "fresher-backend",
+          "lap-trinh-vien-fresher"
         ]
       },
       {
@@ -57,9 +145,19 @@
         "search_url_template": "https://itviec.com/it-jobs/{query}?city=ho-chi-minh",
         "search_queries": [
           "java-intern",
-          "backend-intern",
-          "fresher-java"
-        ]
+          "java-fresher",
+          "java-junior",
+          "backend-fresher",
+          "backend-junior",
+          "spring-boot-fresher",
+          "fullstack-fresher",
+          "net-fresher",
+          "software-engineer-intern",
+          "fresher",
+          "junior"
+        ],
+        "scraper_slug_suffix": "-ho-chi-minh",
+        "note": "ITviec search là fuzzy (trả về nhiều job Senior) — search_profile sẽ lọc lại theo level."
       },
       {
         "name": "Indeed",
@@ -67,7 +165,9 @@
         "search_queries": [
           "java intern",
           "software intern",
-          "backend intern"
+          "backend intern",
+          "fresher java",
+          "junior backend developer"
         ]
       },
       {
@@ -75,7 +175,9 @@
         "search_url_template": "https://www.vietnamworks.com/tim-viec-lam/{query}",
         "search_queries": [
           "java-intern",
-          "thuc-tap-backend"
+          "thuc-tap-backend",
+          "fresher-java",
+          "junior-backend"
         ]
       },
       {
@@ -84,7 +186,9 @@
         "search_queries": [
           "java+intern",
           "backend+developer+intern",
-          "software+engineer+intern"
+          "software+engineer+intern",
+          "java+fresher",
+          "junior+backend+developer"
         ],
         "note": "Glints blocks direct crawl (403). Use Jina Reader: prefix URL with https://r.jina.ai/"
       }
@@ -123,112 +227,184 @@
       {
         "name": "VNG Corporation",
         "career_url": "https://tuyendung.vng.com.vn/",
-        "search_keywords": ["intern", "thực tập", "fresher"]
+        "search_keywords": [
+          "intern",
+          "thực tập",
+          "fresher"
+        ]
       },
       {
         "name": "Bosch Vietnam",
         "career_url": "https://www.bosch.com.vn/careers/",
-        "search_keywords": ["intern", "software"]
+        "search_keywords": [
+          "intern",
+          "software"
+        ]
       },
       {
         "name": "FPT Software",
         "career_url": "https://fpt-software.com/career/",
-        "search_keywords": ["intern", "java"]
+        "search_keywords": [
+          "intern",
+          "java"
+        ]
       },
       {
         "name": "Shopee",
         "career_url": "https://careers.shopee.vn/",
-        "search_keywords": ["intern", "engineer"]
+        "search_keywords": [
+          "intern",
+          "engineer"
+        ]
       },
       {
         "name": "Grab",
         "career_url": "https://grab.careers/",
-        "search_keywords": ["intern", "vietnam", "engineer"]
+        "search_keywords": [
+          "intern",
+          "vietnam",
+          "engineer"
+        ]
       },
       {
         "name": "MoMo",
         "career_url": "https://careers.momo.vn/",
-        "search_keywords": ["intern", "developer"]
+        "search_keywords": [
+          "intern",
+          "developer"
+        ]
       },
       {
         "name": "Tiki",
         "career_url": "https://tuyendung.tiki.vn/",
-        "search_keywords": ["intern", "java"]
+        "search_keywords": [
+          "intern",
+          "java"
+        ]
       },
       {
         "name": "Samsung Vietnam",
         "career_url": "https://www.samsung.com/vn/about-us/careers/",
-        "search_keywords": ["intern", "software"]
+        "search_keywords": [
+          "intern",
+          "software"
+        ]
       },
       {
         "name": "Intel Vietnam",
         "career_url": "https://jobs.intel.com/",
-        "search_keywords": ["intern", "vietnam"]
+        "search_keywords": [
+          "intern",
+          "vietnam"
+        ]
       },
       {
         "name": "Cốc Cốc",
         "career_url": "https://coccoc.com/careers",
-        "search_keywords": ["intern", "developer"]
+        "search_keywords": [
+          "intern",
+          "developer"
+        ]
       },
       {
         "name": "VNPAY",
         "career_url": "https://tuyendung.vnpay.vn/",
-        "search_keywords": ["intern", "java"]
+        "search_keywords": [
+          "intern",
+          "java"
+        ]
       },
       {
         "name": "KMS Technology",
         "career_url": "https://kms-technology.com/careers",
-        "search_keywords": ["intern", "java"]
+        "search_keywords": [
+          "intern",
+          "java"
+        ]
       },
       {
         "name": "NashTech",
         "career_url": "https://nashtechglobal.com/careers/",
-        "search_keywords": ["intern", "vietnam"]
+        "search_keywords": [
+          "intern",
+          "vietnam"
+        ]
       },
       {
         "name": "TMA Solutions",
         "career_url": "https://www.tmasolutions.com/careers",
-        "search_keywords": ["intern"]
+        "search_keywords": [
+          "intern"
+        ]
       },
       {
         "name": "Axon Active",
         "career_url": "https://www.axonactive.com/career/",
-        "search_keywords": ["intern"]
+        "search_keywords": [
+          "intern"
+        ]
       },
       {
         "name": "Zalo (VNG)",
         "career_url": "https://tuyendung.vng.com.vn/",
-        "search_keywords": ["intern", "zalo"]
+        "search_keywords": [
+          "intern",
+          "zalo"
+        ]
       },
       {
         "name": "ELCA Vietnam",
         "career_url": "https://www.elca.vn/careers",
-        "search_keywords": ["intern", "java"]
+        "search_keywords": [
+          "intern",
+          "java"
+        ]
       },
       {
         "name": "OPSWAT",
         "career_url": "https://www.opswat.com/careers",
-        "search_keywords": ["intern", "vietnam", "software", "ai"]
+        "search_keywords": [
+          "intern",
+          "vietnam",
+          "software",
+          "ai"
+        ]
       },
       {
         "name": "GeoComply",
         "career_url": "https://www.geocomply.com/careers",
-        "search_keywords": ["intern", "software", "backend"]
+        "search_keywords": [
+          "intern",
+          "software",
+          "backend"
+        ]
       },
       {
         "name": "Bouygues Construction IT",
         "career_url": "https://www.linkedin.com/company/bouygues-construction-information-technologies-vietnam/jobs/",
-        "search_keywords": ["intern", "vietnam", "developer"]
+        "search_keywords": [
+          "intern",
+          "vietnam",
+          "developer"
+        ]
       },
       {
         "name": "Netcompany",
         "career_url": "https://www.netcompany.com/int/career/vacancies",
-        "search_keywords": ["vietnam", "fresher", "developer", "student"]
+        "search_keywords": [
+          "vietnam",
+          "fresher",
+          "developer",
+          "student"
+        ]
       },
       {
         "name": "Hitachi Digital Services",
         "career_url": "https://hitachids.com/careers/our-people/vietnam/",
-        "search_keywords": ["intern", "software"]
+        "search_keywords": [
+          "intern",
+          "software"
+        ]
       }
     ],
     "intern_programs": [
@@ -259,15 +435,212 @@
       {
         "name": "Google STEP Intern",
         "search_query": "Google STEP intern Vietnam 2026"
+      },
+      {
+        "name": "Zalo Tech Fresher",
+        "search_query": "Zalo Tech Fresher 2027"
+      },
+      {
+        "name": "KMS Fresher / Graduate",
+        "search_query": "KMS Technology fresher 2027"
+      },
+      {
+        "name": "NashTech Graduate Program",
+        "search_query": "NashTech graduate program 2027"
+      },
+      {
+        "name": "TMA Fresher",
+        "search_query": "TMA Solutions fresher 2027"
+      },
+      {
+        "name": "Bosch Fresher / Graduate",
+        "search_query": "Bosch Vietnam fresher software 2027"
       }
     ]
   },
   "search_settings": {
     "max_days_old": 7,
-    "locations": ["Ho Chi Minh City", "Thu Duc", "Remote"],
-    "position_types": ["Internship", "Fresher"],
-    "languages": ["Vietnamese", "English"],
+    "locations": [
+      "Ho Chi Minh City",
+      "Thu Duc",
+      "Remote"
+    ],
+    "position_types": [
+      "Internship",
+      "Fresher",
+      "Junior",
+      "Entry level",
+      "Graduate program"
+    ],
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
     "require_verification": true,
     "require_specific_link": true
+  },
+  "search_profile": {
+    "_note": "Dùng chung cho search_linkedin.py & search_vietnam_jobs.py. Thêm/bớt từ khóa ở đây để mở rộng hay thu hẹp phạm vi. Khớp theo nguyên từ (whole-word).",
+    "max_days_old": 7,
+    "levels": {
+      "Intern": [
+        "intern",
+        "interns",
+        "internship",
+        "thực tập",
+        "thực tập sinh",
+        "trainee",
+        "student",
+        "học việc"
+      ],
+      "Fresher": [
+        "fresher",
+        "freshers",
+        "fresh graduate",
+        "graduate",
+        "new grad",
+        "entry level",
+        "entry-level",
+        "mới tốt nghiệp",
+        "associate software engineer",
+        "associate engineer"
+      ],
+      "Junior": [
+        "junior",
+        "jr",
+        "jr."
+      ]
+    },
+    "exclude_levels": [
+      "senior",
+      "sr",
+      "sr.",
+      "lead",
+      "leader",
+      "principal",
+      "manager",
+      "director",
+      "head of",
+      "expert",
+      "architect",
+      "staff engineer",
+      "chief",
+      "vp"
+    ],
+    "soft_exclude_levels": [
+      "middle",
+      "mid",
+      "mid-level",
+      "intermediate",
+      "experienced",
+      "medior",
+      "founding",
+      "ii",
+      "iii",
+      "iv"
+    ],
+    "role_groups": {
+      "Java/Spring": [
+        "java",
+        "spring",
+        "spring boot",
+        "springboot",
+        "kotlin",
+        "j2ee"
+      ],
+      "Fullstack": [
+        "fullstack",
+        "full-stack",
+        "full stack"
+      ],
+      ".NET/C#": [
+        ".net",
+        "c#",
+        "dotnet"
+      ],
+      "AI/LLM Application": [
+        "ai engineer",
+        "ai developer",
+        "llm",
+        "genai",
+        "generative ai",
+        "ai application",
+        "machine learning engineer"
+      ],
+      "QA/Test Automation": [
+        "automation test",
+        "test automation",
+        "automation tester",
+        "sdet",
+        "qa automation",
+        "automation qa",
+        "software development engineer in test"
+      ],
+      "Backend": [
+        "backend",
+        "back-end",
+        "back end",
+        "api developer",
+        "golang",
+        "nodejs",
+        "node.js",
+        "python developer"
+      ],
+      "Graduate/Fresher Program": [
+        "graduate program",
+        "graduate programme",
+        "fresher program",
+        "fresher academy",
+        "tech fresher",
+        "technology program",
+        "talent program",
+        "star camp",
+        "digital talent"
+      ],
+      "Software Engineer": [
+        "software engineer",
+        "software developer",
+        "software engineering",
+        "application developer",
+        "lập trình viên",
+        "lập trình",
+        "programmer",
+        "developer",
+        "engineer"
+      ]
+    },
+    "exclude_roles": [
+      "product owner",
+      "project leader",
+      "project manager",
+      "brse",
+      "bridge",
+      "sales",
+      "marketing",
+      "recruiter",
+      "talent acquisition",
+      "accountant",
+      "designer",
+      "business analyst",
+      "data governance",
+      "hardware",
+      "mechanical",
+      "electrical",
+      "civil",
+      "embedded",
+      "android",
+      "ios",
+      "game",
+      "sap",
+      "salesforce",
+      "manual qa",
+      "manual test",
+      "security",
+      "pentest",
+      "penetration",
+      "soc analyst",
+      "firmware"
+    ],
+    "max_years_experience": 2
   }
 }

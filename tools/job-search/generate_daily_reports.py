@@ -5,6 +5,11 @@ import re
 import subprocess
 from datetime import datetime, date, timezone, timedelta
 
+REPORT_TITLE = "Báo Cáo Tìm Kiếm Việc Làm Intern / Fresher / Junior"
+TARGET_LINE = ("**Vị trí mục tiêu**: Intern / Fresher / Junior — Java Backend (Spring Boot) | Backend | Software Engineer | "
+               "Fullstack (Java + React) | .NET/C# | AI/LLM Application | QA/Test Automation | Graduate/Fresher programs  ")
+
+
 def run_script(script_name):
     script_path = os.path.join(os.path.dirname(__file__), script_name)
     print(f"Running {script_name}...")
@@ -131,7 +136,8 @@ def generate_job_search_report():
             content = f.read()
             
         # Update title and search date
-        content = re.sub(r'# 🔍 Báo Cáo Tìm Kiếm Việc Làm Intern — Cập nhật \d{2}/\d{2}/\d{4}', f'# 🔍 Báo Cáo Tìm Kiếm Việc Làm Intern — Cập nhật {today.strftime("%d/%m/%Y")}', content)
+        content = re.sub(r'# 🔍 Báo Cáo Tìm Kiếm Việc Làm [^\n]*?— Cập nhật \d{2}/\d{2}/\d{4}', f'# 🔍 {REPORT_TITLE} — Cập nhật {today.strftime("%d/%m/%Y")}', content)
+        content = re.sub(r'\*\*Vị trí mục tiêu\*\*: [^\n]*', TARGET_LINE, content, count=1)
         content = re.sub(r'\*\*Ngày tìm kiếm\*\*: \d{2}/\d{2}/\d{4}', f'**Ngày tìm kiếm**: {today.strftime("%d/%m/%Y")}', content)
         
         # Update deadlines countdowns
@@ -164,11 +170,11 @@ def generate_job_search_report():
     else:
         # Basic Fallback Template
         print("No template found. Creating basic fallback template...")
-        content = f"""# 🔍 Báo Cáo Tìm Kiếm Việc Làm Intern — Cập nhật {today.strftime("%d/%m/%Y")}
+        content = f"""# 🔍 {REPORT_TITLE} — Cập nhật {today.strftime("%d/%m/%Y")}
 
 **Ngày tìm kiếm**: {today.strftime("%d/%m/%Y")}
 **Ứng viên**: Đặng Phú Thiện
-**Vị trí mục tiêu**: Java Backend Intern | Software Engineer Intern
+{TARGET_LINE}
 
 ---
 
@@ -187,8 +193,9 @@ Vui lòng xem báo cáo quét thô `vietnam-jobs-scan.md` và `linkedin-scan.md`
 def main():
     print("🌅 Starting daily report generation workflow...")
     # Run scrapers
-    run_script("search_vietnam_jobs.py")
+    # LinkedIn first: it caches results that search_vietnam_jobs.py reuses (halves LinkedIn requests).
     run_script("search_linkedin.py")
+    run_script("search_vietnam_jobs.py")
     # Generate unified job-search report
     generate_job_search_report()
     print("✨ All reports generated successfully!")

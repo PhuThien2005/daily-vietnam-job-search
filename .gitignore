@@ -15,3 +15,6 @@ Thumbs.db
 
 # Credentials/Passwords
 /pw.md
+
+# Scraper cache (LinkedIn results shared between scripts)
+tools/job-search/.cache/

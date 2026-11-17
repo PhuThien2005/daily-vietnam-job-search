@@ -1,7 +1,8 @@
 ---
 name: job-search
 description: >
-  Tìm kiếm việc làm Java/Backend/Software Intern ở HCM City từ nhiều nguồn
+  Tìm kiếm việc làm IT level Intern / Fresher / Junior (Java Backend, Backend, Fullstack,
+  .NET, AI/LLM Application, QA Automation, Graduate program) ở HCM City từ nhiều nguồn
   (LinkedIn, TopCV, ITviec, Indeed, career pages đại học, trang tuyển dụng công ty).
   Tạo báo cáo .md chi tiết với link trực tiếp tới job posting.
   Sử dụng: Prompt "tìm job intern java hcm" hoặc "cập nhật danh sách job intern"
@@ -21,9 +22,23 @@ Trong lần chạy đầu tiên, subagent đã tạo ra báo cáo chứa **nhi�
 
 ---
 
+## 🎯 Phạm vi tìm kiếm (cập nhật 17/11/2026 theo CV mới)
+
+Ứng viên đã hoàn thành thực tập Java Backend tại ELCA Vietnam (08–11/2026), tốt nghiệp dự kiến 04/2027,
+sẵn sàng full-time từ 12/2026 → mở rộng từ "chỉ Intern" sang **Intern / Fresher / Junior / Entry level**.
+
+- **Level** và **nhóm role** được định nghĩa tập trung trong `search-config.json` → `search_profile`
+  (`levels`, `exclude_levels`, `soft_exclude_levels`, `role_groups`, `exclude_roles`). Module `job_filters.py`
+  dùng chung cho cả hai scraper; khớp theo nguyên từ (không khớp "intern" trong "International").
+- Thứ tự ưu tiên role: Java/Spring → Fullstack → .NET/C# → AI/LLM Application → QA/Test Automation → Backend khác
+  → Graduate/Fresher Program → Software Engineer chung.
+- Job có tiêu đề "Junior/Senior" được giữ; job chỉ ghi Senior/Lead/Middle bị loại. Job không ghi level được giữ với nhãn
+  `Chưa rõ — xem JD` và xếp sau các job có level rõ ràng — khi đưa vào báo cáo chuyên sâu, phải đọc JD để kiểm tra số năm kinh nghiệm.
+- LinkedIn query dạng `{"keywords": ..., "entry_filter": true}` thêm `f_E=1,2` (Internship + Entry level).
+
 ## Mục đích
-Skill này giúp tìm kiếm, lọc và tổng hợp các vị trí thực tập (intern)
-Java/Backend/Software Engineering ở HCM City từ nhiều nguồn khác nhau.
+Skill này giúp tìm kiếm, lọc và tổng hợp các vị trí Intern / Fresher / Junior
+(Java Backend, Backend, Fullstack, .NET, AI/LLM Application, QA Automation, Software Engineering) ở HCM City từ nhiều nguồn khác nhau.
 
 ## Workflow bắt buộc
 

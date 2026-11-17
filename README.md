@@ -1,6 +1,6 @@
 # 🔍 Vietnam Job Search Scraper & Automation
 
-Hệ thống tự động hóa quét, tổng hợp và phân tích tin tuyển dụng vị trí **Java Backend Intern / Software Engineer Intern** tại khu vực TP. Hồ Chí Minh.
+Hệ thống tự động hóa quét, tổng hợp và phân tích tin tuyển dụng vị trí IT level **Intern / Fresher / Junior** (Java Backend, Backend, Fullstack, .NET, AI/LLM Application, QA Automation, Graduate program) tại khu vực TP. Hồ Chí Minh. Phạm vi role/level cấu hình ở `tools/job-search/search-config.json` → `search_profile`.
 
 ---
 
@@ -57,6 +57,7 @@ Dự án này là một pipeline tự động quét tin tuyển dụng từ nhi�
     *   [search_vietnam_jobs.py](file:///home/fhu_thjen/projects/java-intern/tools/job-search/search_vietnam_jobs.py): Scraper hợp nhất cào từ Ybox và ITviec, xử lý bộ lọc từ khóa và ghi file tổng hợp.
     *   [search_linkedin.py](file:///home/fhu_thjen/projects/java-intern/tools/job-search/search_linkedin.py): Scraper chuyên biệt cào LinkedIn Guest API theo từ khóa cấu hình.
     *   [generate_daily_reports.py](file:///home/fhu_thjen/projects/java-intern/tools/job-search/generate_daily_reports.py): Điều phối chạy các scraper, cập nhật đếm ngược deadline và tạo báo cáo tổng hợp chuyên sâu.
+    *   [job_filters.py](tools/job-search/job_filters.py): Bộ lọc dùng chung — phân loại Level (Intern/Fresher/Junior) và Nhóm role theo `search_profile` trong config.
     *   [SKILL.md](file:///home/fhu_thjen/projects/java-intern/tools/job-search/SKILL.md): Cẩm nang hướng dẫn vận hành, các tiêu chuẩn lọc và cách mở rộng scraper.
 *   `reports/`: Thư mục chứa báo cáo lịch sử chia theo ngày (`YYYY-MM-DD/`). Mỗi ngày bao gồm đúng 3 file:
     *   `job-search.md`: Báo cáo phân tích chuyên sâu (có đánh giá độ phù hợp ⭐, theo dõi dealine ứng tuyển và cập nhật danh sách tự động).
