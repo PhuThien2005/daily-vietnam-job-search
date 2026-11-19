@@ -44,9 +44,16 @@ sẵn sàng full-time từ 12/2026 → mở rộng từ "chỉ Intern" sang **In
 | CareerLink | HTML tìm kiếm HCM | JSON-LD `monthsOfExperience` / "2 - 5 năm kinh nghiệm" (CareerLink chặn khi gọi dồn → có giãn cách & giới hạn) |
 | ITviec | HTML; 403 trên GitHub Actions → tự chuyển sang Jina Reader (`r.jina.ai`) | đọc JD |
 | Ybox | React state | — |
+| UIT Forum | Discourse JSON `/c/ho-tro-doi-song/viec-lam-thuc-tap/32.json` (khung 30 ngày) | đọc nội dung bài |
+| FIT HCMUS | action `getPosts` (CategoryId 9) — cùng request mà trang tự gọi (khung 30 ngày) | đọc nội dung bài |
+| HCMUTE Career Hub | API công khai `api.hcmute.edu.vn:8443/viec-lam/rest/thong-tin-tuyen-dung/paging` | trường `yeuCauCongViec` |
 | LinkedIn | Guest API | đọc JD |
 
-Chưa tự động được: **TopCV, Glints, JobsGO** (Cloudflare/403, kể cả qua Jina) — check thủ công.
+Không quét tự động (chủ ý): **TopCV, Glints, JobsGO** chặn truy cập tự động bằng Cloudflare (403 cả trực tiếp lẫn
+qua Jina); **HCMIU** có JS cookie challenge chống bot. KHÔNG dùng công cụ giả lập trình duyệt / vượt anti-bot cho các
+trang này — dùng job alert email chính thức của họ và check thủ công. **HCMUT**: chưa có cổng việc làm công khai còn
+hoạt động (blog tuyển dụng khoa CSE chỉ có 1 bài từ 04/2025).
+Đã loại nhóm hạ tầng/cloud/DevOps/sysadmin và bài sự kiện/hội thảo/học bổng qua `exclude_roles`.
 Code: `vn_sources.py` (VietnamWorks/TopDev/CareerLink), `http_util.py` (HTTP + Jina), `jd_reader.py` (đọc JD mọi nguồn).
 
 ### 🧹 Lọc theo description (cập nhật 19/11/2026)

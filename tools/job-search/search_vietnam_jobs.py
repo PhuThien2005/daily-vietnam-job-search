@@ -9,7 +9,8 @@ from datetime import datetime, timezone, timedelta
 
 from http_util import http_get, jina_get
 from jd_reader import enrich_jobs, experience_label
-from vn_sources import search_careerlink, search_topdev, search_vietnamworks
+from vn_sources import (search_careerlink, search_fit_hcmus, search_hcmute, search_topdev, search_uit_forum,
+                        search_vietnamworks)
 from job_filters import (PROJECT_DIR, apply_experience_filter, clean_text, filter_jobs, get_platform, load_config,
                          load_profile, md_cell)
 from search_linkedin import CACHE_PATH, fetch_all
@@ -192,11 +193,15 @@ def main():
     profile = load_profile(config)
 
     max_days = profile.get("max_days_old", 7)
+    uni_days = profile.get("max_days_old_university", 21)
     sources = [
         ("VietnamWorks", lambda: search_vietnamworks(config, max_days)),
         ("TopDev", lambda: search_topdev(config, max_days)),
         ("CareerLink", lambda: search_careerlink(config, max_days)),
         ("ITviec", lambda: search_itviec(config)),
+        ("UIT Forum", lambda: search_uit_forum(config, uni_days)),
+        ("FIT HCMUS", lambda: search_fit_hcmus(config, uni_days)),
+        ("HCMUTE", lambda: search_hcmute(config, uni_days)),
         ("Ybox", search_ybox),
         ("LinkedIn", lambda: search_linkedin(config)),
     ]

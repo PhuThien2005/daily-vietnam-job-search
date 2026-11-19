@@ -69,6 +69,9 @@ def clean_text(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+# Sources whose posts are IT/student oriented: a generic "IT / CNTT / lập trình" title counts as relevant.
+GENERIC_IT_SOURCES = {"Ybox", "UIT Forum", "FIT HCMUS", "HCMUTE"}
+IT_ONLY_SOURCES = {"UIT Forum", "FIT HCMUS"}  # boards of IT universities/faculties
 LEVEL_ORDER = {"Intern": 0, "Fresher": 1, "Junior": 2, "Entry (LinkedIn)": 3}
 _PATTERN_CACHE = {}
 
@@ -129,10 +132,12 @@ def classify(job, profile):
         return False, None, None
 
     role = detect_role(job["title"], profile)
-    if not role and job.get("source") == "Ybox":
+    if not role and job.get("source") in GENERIC_IT_SOURCES:
         # Ybox titles are Vietnamese posts; treat generic IT posts as relevant.
-        if re.search(r"\b(it|cntt)\b", t) or _has(t, ["công nghệ thông tin", "lập trình"]):
+        if re.search(r"\b(it|cntt)\b", t) or _has(t, ["công nghệ thông tin", "lập trình", "phần mềm"]):
             role = "IT (chung)"
+        elif job.get("source") in IT_ONLY_SOURCES and level:
+            role = "IT (chung)"  # IT-faculty boards: "Nexlab Forge Program · 4 intern" is an IT internship
     if not role:
         return False, None, None
 
@@ -164,7 +169,7 @@ def filter_jobs(jobs, profile):
     for job in jobs:
         if job["id"] in seen:
             continue
-        if parse_time_to_hours(job["time"]) > max_hours:
+        if parse_time_to_hours(job["time"]) > job.get("max_days", max_hours / 24) * 24:
             continue
         keep, level, role = classify(job, profile)
         if not keep:

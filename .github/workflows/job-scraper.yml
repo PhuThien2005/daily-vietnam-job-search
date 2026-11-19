@@ -79,7 +79,7 @@ jobs:
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendDocument" \
             -F "chat_id=${{ secrets.TELEGRAM_TO }}" \
             -F "document=@reports/${{ env.TODAY_DATE }}/vietnam-jobs-scan.md" \
-            -F "caption=📄 Bảng hợp nhất: VietnamWorks, TopDev, CareerLink, ITviec, Ybox, LinkedIn (đã lọc theo số năm kinh nghiệm)"
+            -F "caption=📄 Bảng hợp nhất: VietnamWorks, TopDev, CareerLink, ITviec, UIT Forum, FIT HCMUS, HCMUTE, Ybox, LinkedIn (đã lọc theo số năm kinh nghiệm)"
             
           # 4. Upload linkedin-scan.md
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendDocument" \

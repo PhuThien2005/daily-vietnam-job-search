@@ -226,15 +226,38 @@ def _fetch_careerlink(job):
             "seniority": ""}
 
 
+def _fetch_uit_forum(job):
+    from http_util import http_get
+    topic_id = job["id"].split("-", 1)[1]
+    status, text = http_get(f"https://forum.uit.edu.vn/t/{topic_id}.json")
+    if status != 200:
+        return None
+    posts = json.loads(text).get("post_stream", {}).get("posts", [])
+    return {"text": html_to_text(posts[0].get("cooked", "")) if posts else "", "seniority": ""}
+
+
+def _fetch_fit_hcmus(job):
+    from http_util import http_get
+    status, page = http_get(job["link"])
+    if status != 200:
+        return None
+    text = html_to_text(page)
+    if job["title"][:20].lower() not in text.lower():
+        return None  # not the article page: don't cache
+    return {"text": _slice(text, [job["title"][:20]], ["©2006", "Các tin khác", "Tin liên quan"]), "seniority": ""}
+
+
 FETCHERS = {
+    "UIT Forum": _fetch_uit_forum,
+    "FIT HCMUS": _fetch_fit_hcmus,
     "LinkedIn": lambda job: _fetch_linkedin(job["id"]),
     "ITviec": _fetch_itviec,
     "CareerLink": _fetch_careerlink,
 }
 
 
-MAX_NEW_FETCHES = {"LinkedIn": 60, "ITviec": 25, "CareerLink": 20}  # per run; the rest wait for the next run
-DELAY_SECONDS = {"LinkedIn": 1.2, "ITviec": 1.0, "CareerLink": 3.0}  # Jina calls are spaced in http_util
+MAX_NEW_FETCHES = {"LinkedIn": 60, "ITviec": 25, "CareerLink": 20, "UIT Forum": 30, "FIT HCMUS": 30}  # per run; the rest wait for the next run
+DELAY_SECONDS = {"LinkedIn": 1.2, "ITviec": 1.0, "CareerLink": 3.0, "UIT Forum": 2.0, "FIT HCMUS": 1.5}  # Jina calls are spaced in http_util
 
 
 def enrich_jobs(jobs):

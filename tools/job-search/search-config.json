@@ -140,7 +140,8 @@
           "fresher-backend",
           "lap-trinh-vien-fresher"
         ],
-        "note": "Cloudflare chặn cả request trực tiếp lẫn Jina Reader (403/CAPTCHA) → chưa quét tự động được, check thủ công."
+        "note": "Cloudflare chặn cả request trực tiếp lẫn Jina Reader (403/CAPTCHA) → chưa quét tự động được, check thủ công.",
+        "in_ci": false
       },
       {
         "name": "ITviec",
@@ -198,7 +199,8 @@
           "java+fresher",
           "junior+backend+developer"
         ],
-        "note": "Glints chặn 403, kể cả qua Jina → chưa quét tự động được."
+        "note": "Glints chặn 403, kể cả qua Jina → chưa quét tự động được.",
+        "in_ci": false
       },
       {
         "name": "TopDev",
@@ -234,23 +236,32 @@
     "university_career_pages": [
       {
         "name": "FIT HCMUS",
-        "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265"
+        "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
+        "in_ci": true,
+        "note": "Gọi action getPosts (CategoryId 9) giống trang web; đọc nội dung bài."
       },
       {
         "name": "HCMUTE Career Hub",
-        "url": "https://careerhub.hcmute.edu.vn/get-jobs?khoa=612ba20febb5856c68702f09"
+        "url": "https://careerhub.hcmute.edu.vn/get-jobs?khoa=612ba20febb5856c68702f09",
+        "in_ci": true,
+        "note": "API công khai api.hcmute.edu.vn:8443/viec-lam/rest/thong-tin-tuyen-dung/paging. Phần lớn tin là cơ khí/điện — bộ lọc role giữ tin IT."
       },
       {
         "name": "UIT Forum - Viec lam Thuc tap",
-        "url": "https://forum.uit.edu.vn/c/ho-tro-doi-song/viec-lam-thuc-tap/32"
+        "url": "https://forum.uit.edu.vn/c/ho-tro-doi-song/viec-lam-thuc-tap/32",
+        "in_ci": true,
+        "note": "Discourse JSON /c/.../32.json; đọc nội dung bài để lọc số năm kinh nghiệm."
       },
       {
         "name": "UIT Career",
-        "url": "https://www.uit.edu.vn/viec-lam"
+        "url": "https://www.uit.edu.vn/viec-lam",
+        "in_ci": false
       },
       {
         "name": "HCMUT Career (Bach Khoa)",
-        "url": "https://hcmut.edu.vn/tuyen-dung"
+        "url": "https://hcmut.edu.vn/tuyen-dung",
+        "in_ci": false,
+        "note": "Không tìm thấy cổng việc làm công khai còn hoạt động (blog tuyển dụng khoa CSE chỉ có 1 bài từ 04/2025)."
       },
       {
         "name": "UEL Career (Kinh te Luat)",
@@ -258,7 +269,9 @@
       },
       {
         "name": "HCMIU Career (Quoc te)",
-        "url": "https://hcmiu.edu.vn/tin-tuc-su-kien/tin-tuyen-dung/"
+        "url": "https://hcmiu.edu.vn/tin-tuc-su-kien/tin-tuyen-dung/",
+        "in_ci": false,
+        "note": "Trang có cơ chế chống bot (JS cookie challenge) → không quét tự động."
       }
     ],
     "company_career_pages": [
@@ -653,7 +666,9 @@
         "lập trình",
         "programmer",
         "developer",
-        "engineer"
+        "engineer",
+        "phần mềm",
+        "software"
       ]
     },
     "exclude_roles": [
@@ -697,9 +712,40 @@
       "helpdesk",
       "it support",
       "hỗ trợ kỹ thuật",
-      "kỹ thuật viên"
+      "kỹ thuật viên",
+      "infrastructure",
+      "hạ tầng",
+      "cloud engineer",
+      "cloud architect",
+      "site reliability",
+      "sre",
+      "system administrator",
+      "sysadmin",
+      "system admin",
+      "quản trị hệ thống",
+      "1st line",
+      "l1 support",
+      "devops",
+      "devsecops",
+      "platform engineer",
+      "data center",
+      "noc",
+      "hội thảo",
+      "workshop",
+      "webinar",
+      "talkshow",
+      "sự kiện",
+      "lắng nghe chuyện nghề",
+      "học bổng",
+      "scholarship",
+      "cuộc thi",
+      "hackathon",
+      "social challenge",
+      "mời doanh nghiệp"
     ],
     "max_years_experience": 2,
-    "_note_max_years_experience": "Dùng cho cả tiêu đề lẫn description LinkedIn (jd_reader.py): job YÊU CẦU nhiều hơn số năm này bị loại. 2 = loại job yêu cầu từ 3 năm trở lên (cả 'trên 2 năm'). Yêu cầu ghi 'ưu tiên/preferred/a plus' không bị loại."
+    "_note_max_years_experience": "Dùng cho cả tiêu đề lẫn description LinkedIn (jd_reader.py): job YÊU CẦU nhiều hơn số năm này bị loại. 2 = loại job yêu cầu từ 3 năm trở lên (cả 'trên 2 năm'). Yêu cầu ghi 'ưu tiên/preferred/a plus' không bị loại.",
+    "max_days_old_university": 30,
+    "_note_exclude_roles": "Đã loại nhóm hạ tầng/cloud/DevOps (infrastructure, cloud engineer, SRE, sysadmin, devops...) theo yêu cầu 19/11/2026. Muốn nhận lại DevOps thì xoá 'devops'/'devsecops' khỏi danh sách."
   }
 }
