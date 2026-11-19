@@ -8,7 +8,7 @@ import time
 from datetime import datetime, timezone, timedelta
 
 from http_util import http_get, jina_get
-from jd_reader import enrich_jobs, experience_label
+from jd_reader import enrich_jobs, experience_label, flags_label
 from vn_sources import (search_careerlink, search_fit_hcmus, search_hcmute, search_topdev, search_uit_forum,
                         search_vietnamworks)
 from job_filters import (PROJECT_DIR, apply_experience_filter, clean_text, filter_jobs, get_platform, load_config,
@@ -245,12 +245,29 @@ def main():
         f.write("🎯 *Role: Java/Spring, Backend, Fullstack, .NET/C#, AI/LLM Application, QA/Test Automation, Software Engineer — "
                 "cấu hình tại `tools/job-search/search-config.json` → `search_profile`*\n\n")
         f.write("📅 *Sắp xếp: job ghi rõ Intern/Fresher/Junior/Entry lên trước, sau đó là job chưa rõ level; trong mỗi nhóm mới nhất → cũ nhất*\n\n")
-        f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Level | Nhóm role | Kinh nghiệm (JD) | Ngày đăng | Link chi tiết |\n")
-        f.write("|---|-------|---------|--------------------|-------|-----------|------------------|-----------|---------------|\n")
+        priority = [j for j in filtered if "chuyển chính thức" in flags_label(j)
+                    or (j["level"] == "Intern" and flags_label(j))]
+        f.write(f"⭐ *{len(priority)} tin có cơ hội chuyển chính thức hoặc intern có lương — xem mục \"Ưu tiên ứng tuyển\" "
+                "ngay dưới bảng.*\n\n")
+        f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Level | Nhóm role | Kinh nghiệm (JD) | Điểm cộng | Ngày đăng | Link chi tiết |\n")
+        f.write("|---|-------|---------|--------------------|-------|-----------|------------------|-----------|-----------|---------------|\n")
         for idx, job in enumerate(filtered, 1):
+            job["_idx"] = idx
             f.write(f"| {idx} | {job['source']} | **{md_cell(job['company'])}** | {md_cell(job['title'])} | {job['level']} "
-                    f"| {job['role']} | {experience_label(job.get('jd')) if job['source'] != 'Ybox' else '—'} "
+                    f"| {job['role']} | {experience_label(job.get('jd')) if job['source'] != 'Ybox' else '—'} | {flags_label(job)} "
                     f"| {job['time']} | [{job['source']} Direct Link]({job['link']}) |\n")
+
+        if priority:
+            # 🎯 conversion first, then paid internships; each newest first
+            priority.sort(key=lambda j: ("chuyển chính thức" not in flags_label(j), j["_idx"]))
+            f.write(f"\n## ⭐ Ưu tiên ứng tuyển — có cơ hội chuyển chính thức / intern có lương ({len(priority)})\n\n")
+            f.write("*Phát hiện từ nội dung JD (\"chuyển chính thức\", \"return offer\", \"có lương\", \"allowance\"...). "
+                    "Tin không ghi điều này vẫn có thể có — hỏi HR khi phỏng vấn.*\n\n")
+            f.write("| # (bảng trên) | Nguồn | Công ty | Vị trí | Level | Điểm cộng | Kinh nghiệm (JD) | Link |\n")
+            f.write("|---------------|-------|---------|--------|-------|-----------|------------------|------|\n")
+            for job in priority:
+                f.write(f"| {job['_idx']} | {job['source']} | {md_cell(job['company'])} | {md_cell(job['title'])} | {job['level']} "
+                        f"| {flags_label(job)} | {experience_label(job.get('jd'))} | [Link]({job['link']}) |\n")
 
         if removed:
             f.write(f"\n## 🚫 Đã loại vì yêu cầu trên {limit:g} năm kinh nghiệm ({len(removed)})\n\n")

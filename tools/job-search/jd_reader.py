@@ -19,7 +19,7 @@ import urllib.request
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".cache")
 JD_CACHE_PATH = os.path.join(CACHE_DIR, "jd-cache.json")
 CACHE_TTL_DAYS = 21
-PARSER_VERSION = 3  # bump when extract_experience changes so cached results are recomputed
+PARSER_VERSION = 4  # bump when extract_experience changes so cached results are recomputed
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9,vi;q=0.8",
@@ -126,6 +126,40 @@ def extract_experience(text):
     return result
 
 
+# ---- "Apply first" flags -------------------------------------------------------------
+CONVERT_PATTERN = re.compile(
+    r"chuyển (?:lên |sang |thành )?(?:nhân viên |làm |hợp đồng )?chính thức|trở thành (?:nhân viên )?chính thức|"
+    r"(?:cơ hội|xem xét|xét|được) (?:được |để )?(?:ký |làm |tuyển |giữ lại |nhận )?(?:hợp đồng |làm việc |vào )?(?:chính thức|lâu dài)|"
+    r"ký hợp đồng (?:lao động )?chính thức|giữ lại làm việc|nhân viên chính thức sau|"
+    r"return offer|full[- ]time offer|offer (?:of |for )?(?:a )?full[- ]time|"
+    r"convert(?:ed|ing)? (?:to|into) (?:a )?(?:full[- ]time|permanent|official)|conversion to (?:a )?(?:full[- ]time|permanent)|"
+    r"(?:opportunit(?:y|ies)|chance|possibility) (?:to|for) (?:become|be|join|transition|move)\w* (?:\w+ ){0,3}?"
+    r"(?:full[- ]time|permanent|official) (?:employee|position|role|staff|member)|"
+    r"(?:full[- ]time|permanent|official) (?:position|role|employment) (?:after|upon)", re.I)
+PAID_PATTERN = re.compile(r"có lương|có trợ cấp|trợ cấp|phụ cấp thực tập|hỗ trợ (?:chi phí|tài chính|lương)|lương thực tập|"
+                          r"\ballowance|paid internship|stipend|\bpaid\b", re.I)
+
+
+def extract_flags(text):
+    """['convert'] if the post promises an intern→official path, ['paid'] if the internship is paid."""
+    flags = []
+    if CONVERT_PATTERN.search(text or ""):
+        flags.append("convert")
+    if PAID_PATTERN.search(text or ""):
+        flags.append("paid")
+    return flags
+
+
+def flags_label(job):
+    flags = set((job.get("jd") or {}).get("flags", [])) | set(extract_flags(job.get("title", "")))
+    parts = []
+    if "convert" in flags:
+        parts.append("🎯 chuyển chính thức")
+    if "paid" in flags and job.get("level") in ("Intern", None):
+        parts.append("💰 có lương")
+    return ", ".join(parts)
+
+
 def html_to_text(fragment):
     """HTML → plain text that keeps one line per paragraph/list item (needed for line-based parsing)."""
     text = re.sub(r"<(?:script|style)[^>]*>.*?</(?:script|style)>", " ", fragment or "", flags=re.S)
@@ -210,20 +244,21 @@ def _fetch_careerlink(job):
     text = html_to_text(page)
     if not months and not summary and "Mô tả công việc" not in text:
         return None  # CareerLink throttles bursts with an empty shell page: don't cache, retry next run
+    body = _slice(text, ["Mô tả công việc"], ["Thông tin liên hệ", "Việc làm tương tự", "Việc làm liên quan"])
+    exp = None
     if summary:
         line = summary.group(1).strip()
         if re.search(r"không yêu cầu|chưa có|dưới 1", line, re.I):
-            return {"exp": {"min_years": 0.0, "strict": False, "optional": False, "snippet": f"CareerLink: {line}"}}
-        exp = extract_experience("Kinh nghiệm: " + line)
-        if exp:
-            exp["snippet"] = f"CareerLink: {line}"
-            return {"exp": exp}
-    if months:
+            exp = {"min_years": 0.0, "strict": False, "optional": False, "snippet": f"CareerLink: {line}"}
+        else:
+            exp = extract_experience("Kinh nghiệm: " + line)
+            if exp:
+                exp["snippet"] = f"CareerLink: {line}"
+    if exp is None and months:
         m = int(months.group(1))
-        return {"exp": {"min_years": round(m / 12, 2), "strict": False, "optional": False,
-                        "snippet": f"CareerLink: {m} tháng kinh nghiệm"}}
-    return {"text": _slice(text, ["Mô tả công việc"], ["Thông tin liên hệ", "Việc làm tương tự", "Việc làm liên quan"]),
-            "seniority": ""}
+        exp = {"min_years": round(m / 12, 2), "strict": False, "optional": False,
+               "snippet": f"CareerLink: {m} tháng kinh nghiệm"}
+    return {"exp": exp, "text": body, "seniority": ""}
 
 
 def _fetch_uit_forum(job):
@@ -281,7 +316,7 @@ def enrich_jobs(jobs):
             if posting:
                 exp = posting.get("exp") or extract_experience(posting.get("text", "")) or {}
                 entry = {"read": True, "seniority": posting.get("seniority", ""), "fetched_at": time.time(),
-                         "v": PARSER_VERSION, **exp}
+                         "v": PARSER_VERSION, "flags": extract_flags(posting.get("text", "")), **exp}
                 cache[key] = entry
         job["jd"] = entry or {"read": False}
     _save_cache(cache)

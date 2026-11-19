@@ -5,7 +5,7 @@ import sys
 import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from jd_reader import experience_label, extract_experience  # noqa: E402
+from jd_reader import experience_label, extract_experience, extract_flags  # noqa: E402
 from job_filters import apply_experience_filter, load_profile  # noqa: E402
 
 # (description text, expected label, expected to be removed with max_years_experience = 2)
@@ -38,6 +38,29 @@ CASES = [
     ("Sinh viên năm cuối, năm 2026", "Không ghi số năm", False),
     ("Không yêu cầu kinh nghiệm, chấp nhận sinh viên năm cuối", "Không ghi số năm", False),
 ]
+
+
+FLAG_CASES = [
+    ("Sau thực tập có cơ hội trở thành nhân viên chính thức", ["convert"]),
+    ("Cơ hội được ký hợp đồng chính thức sau kỳ thực tập", ["convert"]),
+    ("Xét chuyển chính thức sau 3 tháng", ["convert"]),
+    ("Được giữ lại làm việc sau khi tốt nghiệp", ["convert"]),
+    ("Opportunity to become a full-time employee after the internship", ["convert"]),
+    ("Outstanding interns will receive a return offer.", ["convert"]),
+    ("Monthly allowance and opportunity to be converted to a full-time position", ["convert", "paid"]),
+    ("Thực tập sinh có lương 5 triệu/tháng", ["paid"]),
+    ("Trợ cấp thực tập 4.000.000 VNĐ", ["paid"]),
+    ("We are a full-time remote team", []),
+    ("Lương tháng 13, chế độ bảo hiểm đầy đủ", []),
+    ("Hợp đồng chính thức ngay từ ngày đầu, lương 15-20 triệu", []),
+]
+
+
+class FlagTest(unittest.TestCase):
+    def test_flags(self):
+        for text, flags in FLAG_CASES:
+            with self.subTest(text=text):
+                self.assertEqual(sorted(extract_flags(text)), sorted(flags))
 
 
 class ExperienceFilterTest(unittest.TestCase):

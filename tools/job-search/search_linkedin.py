@@ -12,7 +12,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
-from jd_reader import enrich_linkedin, experience_label
+from jd_reader import enrich_linkedin, experience_label, flags_label
 from job_filters import (PROJECT_DIR, apply_experience_filter, clean_text, filter_jobs, get_linkedin_queries,
                          load_config, load_profile, md_cell)
 
@@ -127,11 +127,11 @@ def main():
         f.write("- 🎯 *Phạm vi: Intern / Fresher / Junior / Entry level — Java, Backend, Fullstack, .NET, AI, QA Automation, Software Engineer*\n")
         f.write("- 📅 *Sắp xếp: job ghi rõ Intern/Fresher/Junior/Entry lên trước, sau đó là job chưa rõ level; trong mỗi nhóm mới nhất → cũ nhất*\n\n")
         f.write("## 📋 Job Listings\n")
-        f.write("| # | Job Title | Company | Level | Nhóm role | Kinh nghiệm (JD) | Location | Posted Date | Direct LinkedIn Link |\n")
-        f.write("|---|-----------|---------|-------|-----------|------------------|----------|-------------|----------------------|\n")
+        f.write("| # | Job Title | Company | Level | Nhóm role | Kinh nghiệm (JD) | Điểm cộng | Location | Posted Date | Direct LinkedIn Link |\n")
+        f.write("|---|-----------|---------|-------|-----------|------------------|-----------|----------|-------------|----------------------|\n")
         for idx, job in enumerate(filtered_jobs, 1):
             f.write(f"| {idx} | **{md_cell(job['title'])}** | {md_cell(job['company'])} | {job['level']} | {job['role']} "
-                    f"| {experience_label(job.get('jd'))} | {md_cell(job['location'])} | {job['time']} | [Link]({job['link']}) |\n")
+                    f"| {experience_label(job.get('jd'))} | {flags_label(job)} | {md_cell(job['location'])} | {job['time']} | [Link]({job['link']}) |\n")
         if removed:
             f.write(f"\n## 🚫 Đã loại vì JD yêu cầu trên {limit:g} năm kinh nghiệm ({len(removed)})\n")
             f.write("| # | Job Title | Company | Yêu cầu | Trích JD | Link |\n")

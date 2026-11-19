@@ -15,7 +15,7 @@ import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 from http_util import http_get
-from jd_reader import extract_experience, html_to_text
+from jd_reader import extract_experience, extract_flags, html_to_text
 from job_filters import clean_text, get_platform
 
 ICT = timezone(timedelta(hours=7))
@@ -82,6 +82,8 @@ def search_vietnamworks(config, max_days=7):
             else:
                 exp = extract_experience(html_to_text(h.get("jobRequirement", "")))
                 jd = {"read": True, "site": True, **(exp or {})}
+            jd["flags"] = extract_flags(html_to_text(" ".join(
+                str(h.get(k) or "") for k in ("jobDescription", "jobRequirement", "benefits"))))
             jobs.append({
                 "source": "VietnamWorks",
                 "title": clean_text(h.get("jobTitle", "")),
@@ -291,6 +293,7 @@ def search_hcmute(config, max_days=21):
             "source": "HCMUTE", "title": clean_text(j.get("tenCongViec", "")), "company": clean_text(str(company)),
             "location": city or "Ho Chi Minh City", "time": ago_text(posted),
             "link": f"https://careerhub.hcmute.edu.vn/get-jobs/{j['id']}", "id": f"hcmute-{j['id']}",
-            "max_days": max_days, "jd": {"read": True, "site": True, **(exp or {})},
+            "max_days": max_days, "jd": {"read": True, "site": True, **(exp or {}), "flags": extract_flags(html_to_text(
+                " ".join(str(j.get(k) or "") for k in ("moTaCongViec", "yeuCauCongViec", "phucLoi"))))},
         })
     return jobs

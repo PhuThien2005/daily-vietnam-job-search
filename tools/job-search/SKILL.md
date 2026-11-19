@@ -56,6 +56,11 @@ hoạt động (blog tuyển dụng khoa CSE chỉ có 1 bài từ 04/2025).
 Đã loại nhóm hạ tầng/cloud/DevOps/sysadmin và bài sự kiện/hội thảo/học bổng qua `exclude_roles`.
 Code: `vn_sources.py` (VietnamWorks/TopDev/CareerLink), `http_util.py` (HTTP + Jina), `jd_reader.py` (đọc JD mọi nguồn).
 
+### ⭐ Cờ "Ưu tiên ứng tuyển" (cập nhật 19/11/2026)
+`jd_reader.extract_flags` đọc JD và gắn **🎯 chuyển chính thức** ("cơ hội trở thành nhân viên chính thức", "return offer",
+"full-time employment after internship"...) và **💰 có lương** (chỉ hiển thị cho Intern: "có lương", "trợ cấp", "allowance").
+Cột "Điểm cộng" trong bảng + mục "⭐ Ưu tiên ứng tuyển" trong `vietnam-jobs-scan.md`. Test: `FLAG_CASES` trong `test_jd_reader.py`.
+
 ### 🧹 Lọc theo description (cập nhật 19/11/2026)
 - `jd_reader.py` đọc JD của từng job LinkedIn (Guest API `jobs-guest/jobs/api/jobPosting/{id}`) và trích số năm kinh nghiệm
   **bắt buộc** — tiếng Anh & tiếng Việt, số lẫn chữ ("three (3) years", "ba năm", "trên 2 năm", "3-5 yrs", "6 tháng").
