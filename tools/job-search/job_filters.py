@@ -165,9 +165,15 @@ def parse_time_to_hours(time_str):
 def filter_jobs(jobs, profile):
     """Dedupe by id, drop jobs older than max_days_old, classify and sort."""
     max_hours = profile.get("max_days_old", 7) * 24
-    seen, kept = set(), []
+    seen, seen_titles, kept = set(), set(), []
     for job in jobs:
         if job["id"] in seen:
+            continue
+        # Same post on several boards (e.g. UIT Forum + FIT HCMUS): long titles dedupe on title alone,
+        # short generic ones ("Backend Developer") only together with the company.
+        norm = re.sub(r"[^\w]+", "", job["title"].lower())
+        title_key = norm if len(norm) >= 25 else f"{norm}|{job.get('company', '').lower()}"
+        if title_key in seen_titles:
             continue
         if parse_time_to_hours(job["time"]) > job.get("max_days", max_hours / 24) * 24:
             continue
@@ -175,6 +181,7 @@ def filter_jobs(jobs, profile):
         if not keep:
             continue
         seen.add(job["id"])
+        seen_titles.add(title_key)
         kept.append({**job, "level": level, "role": role})
     # Jobs with an explicit entry-level marker first, then "level unknown"; each block newest first.
     kept.sort(key=lambda j: (j["level"] not in LEVEL_ORDER, parse_time_to_hours(j["time"])))
