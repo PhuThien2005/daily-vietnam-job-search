@@ -19,6 +19,7 @@ import urllib.request
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".cache")
 JD_CACHE_PATH = os.path.join(CACHE_DIR, "jd-cache.json")
 CACHE_TTL_DAYS = 21
+PARSER_VERSION = 2  # bump when extract_experience changes so cached results are recomputed
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9,vi;q=0.8",
@@ -32,6 +33,8 @@ VI_NUMBERS = {"một": 1, "hai": 2, "ba": 3, "bốn": 4, "tư": 4, "năm": 5, "s
 EXPERIENCE_WORDS = re.compile(r"experience|exp\b|yoe|kinh nghiệm|\bkn\b|làm việc|background|track record", re.I)
 OPTIONAL_WORDS = re.compile(r"prefer|nice[- ]to[- ]have|\bplus\b|bonus|advantage|desirable|ideally|"
                             r"ưu tiên|lợi thế|điểm cộng|là một lợi thế", re.I)
+STRONG_OPTIONAL = re.compile(r"\ba (?:big |huge |strong )?plus\b|nice[- ]to[- ]have|\bbonus\b|advantage|desirable|"
+                             r"lợi thế|điểm cộng|\bpreferred\W*$|\(preferred\)|\(ưu tiên\)", re.I)
 REQUIRED_HEADER = re.compile(r"require|qualification|must|you have|what we need|who you are|yêu cầu|tiêu chuẩn|"
                              r"responsibilit|mô tả|benefit|quyền lợi|about", re.I)
 NOT_REQUIREMENT = re.compile(r"years? old|tuổi|day-?off|ngày phép|per year|mỗi năm|hàng năm|/năm|annual|"
@@ -83,7 +86,7 @@ def extract_experience(text):
             continue
         has_exp_word = bool(EXPERIENCE_WORDS.search(line))
         norm = _normalize(line)
-        values = []
+        values, first_pos = [], len(norm)
         if has_exp_word:
             patterns = (EN_PATTERN, VI_PATTERN)
         else:
@@ -91,24 +94,36 @@ def extract_experience(text):
             patterns = (EN_CONTEXT_PATTERN,)
         for pattern in patterns:
             for m in pattern.finditer(norm):
-                values.append(float(m.group(1).replace(",", ".")))
+                v = float(m.group(1).replace(",", "."))
+                if v <= 10:  # bigger numbers are company/team history, not requirements
+                    values.append(v)
+                    first_pos = min(first_pos, m.start())
         if not values and has_exp_word:
             for m in MONTH_PATTERN.finditer(norm):
                 values.append(round(float(m.group(1).replace(",", ".")) / 12, 2))
-        # "trên 2 năm" / "more than 2 years" / "over 2 years" means strictly greater
-        values = [v for v in values if v <= 10]  # bigger numbers are company/team history, not requirements
+                first_pos = min(first_pos, m.start())
         if not values:
             continue
         years = min(values)  # a range "3-5 years" → minimum 3
-        if re.search(r"(?:more than|over|trên|hơn)\s*" + re.escape(str(int(years)) if years.is_integer() else str(years)), norm):
-            years += 0.5
-        hit = {"min_years": years, "snippet": line[:160]}
-        if optional_section or OPTIONAL_WORDS.search(line):
-            if optional_best is None or years > optional_best["min_years"]:
-                optional_best = {**hit, "optional": True}
-        elif best is None or years > best["min_years"]:
-            best = {**hit, "optional": False}
-    return best or optional_best
+        num = str(int(years)) if years.is_integer() else str(years)
+        # "trên 2 năm" / "more than 2 years" / "over 2 years" means strictly greater than 2
+        strict = bool(re.search(r"(?:more than|over|above|trên|hơn)\s*" + re.escape(num) + r"\b", norm))
+        hit = {"min_years": years, "strict": strict, "snippet": re.sub(r"\s+", " ", line).strip(" -•*")[:160]}
+        # Optional only if the hedge comes before the number ("Ưu tiên ứng viên có 2 năm", "Preferred: 3 years")
+        # or the sentence is clearly a nice-to-have ("... is a plus", "... là lợi thế", "..., preferred.").
+        # "5 years of experience, preferably with distributed systems" stays required.
+        optional = (optional_section or OPTIONAL_WORDS.search(norm[:first_pos])
+                    or STRONG_OPTIONAL.search(norm))
+        rank = years + (0.5 if strict else 0)
+        if optional:
+            if optional_best is None or rank > optional_best["_rank"]:
+                optional_best = {**hit, "optional": True, "_rank": rank}
+        elif best is None or rank > best["_rank"]:
+            best = {**hit, "optional": False, "_rank": rank}
+    result = best or optional_best
+    if result:
+        result.pop("_rank")
+    return result
 
 
 def _parse_linkedin_posting(page):
@@ -144,7 +159,8 @@ def _load_cache():
     except (OSError, ValueError):
         return {}
     cutoff = time.time() - CACHE_TTL_DAYS * 86400
-    return {k: v for k, v in cache.items() if v.get("fetched_at", 0) >= cutoff}
+    return {k: v for k, v in cache.items()
+            if v.get("fetched_at", 0) >= cutoff and v.get("v") == PARSER_VERSION}
 
 
 def _save_cache(cache):
@@ -168,7 +184,8 @@ def enrich_linkedin(jobs, max_new_fetches=60, delay_seconds=1.2):
             posting = _fetch_linkedin(job["id"])
             if posting:
                 exp = extract_experience(posting["text"]) or {}
-                entry = {"read": True, "seniority": posting["seniority"], "fetched_at": time.time(), **exp}
+                entry = {"read": True, "seniority": posting["seniority"], "fetched_at": time.time(),
+                         "v": PARSER_VERSION, **exp}
                 cache[job["id"]] = entry
         job["jd"] = entry or {"read": False}
     _save_cache(cache)
@@ -184,6 +201,6 @@ def experience_label(jd):
     y = jd["min_years"]
     if y == 0:
         return "0 năm (nhận fresher)"
-    y_txt = f"{y:g}" if y >= 1 else f"{round(y * 12):g} tháng"
-    label = f"≥ {y_txt} năm" if y >= 1 else f"≥ {y_txt}"
+    sign = ">" if jd.get("strict") else "≥"
+    label = f"{sign} {y:g} năm" if y >= 1 else f"{sign} {round(y * 12):g} tháng"
     return label + (" (ưu tiên)" if jd.get("optional") else "")

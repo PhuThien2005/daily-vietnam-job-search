@@ -36,6 +36,15 @@ sẵn sàng full-time từ 12/2026 → mở rộng từ "chỉ Intern" sang **In
   `Chưa rõ — xem JD` và xếp sau các job có level rõ ràng — khi đưa vào báo cáo chuyên sâu, phải đọc JD để kiểm tra số năm kinh nghiệm.
 - LinkedIn query dạng `{"keywords": ..., "entry_filter": true}` thêm `f_E=1,2` (Internship + Entry level).
 
+### 🧹 Lọc theo description (cập nhật 19/11/2026)
+- `jd_reader.py` đọc JD của từng job LinkedIn (Guest API `jobs-guest/jobs/api/jobPosting/{id}`) và trích số năm kinh nghiệm
+  **bắt buộc** — tiếng Anh & tiếng Việt, số lẫn chữ ("three (3) years", "ba năm", "trên 2 năm", "3-5 yrs", "6 tháng").
+- Job yêu cầu > `max_years_experience` (mặc định 2 → loại từ 3 năm, và "trên 2 năm") bị loại; bảng "🚫 Đã loại" trong
+  `linkedin-scan.md` trích nguyên câu trong JD làm bằng chứng. Yêu cầu dạng "ưu tiên / preferred / a plus / là lợi thế"
+  và mục "Preferred/Ưu tiên" KHÔNG bị loại. Số > 10 năm bị bỏ qua (thường là lịch sử công ty).
+- Cache theo job id ở `.cache/jd-cache.json` (CI giữ bằng `actions/cache`). Khi sửa logic trích xuất, tăng `PARSER_VERSION`.
+- Test: `python3 tools/job-search/test_jd_reader.py`. Lưu ý: ITviec bị chặn 403 trên GitHub Actions nên chưa có lọc JD cho ITviec.
+
 ## Mục đích
 Skill này giúp tìm kiếm, lọc và tổng hợp các vị trí Intern / Fresher / Junior
 (Java Backend, Backend, Fullstack, .NET, AI/LLM Application, QA Automation, Software Engineering) ở HCM City từ nhiều nguồn khác nhau.

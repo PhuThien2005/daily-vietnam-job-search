@@ -178,7 +178,8 @@ def apply_experience_filter(jobs, profile):
     kept, removed = [], []
     for job in jobs:
         jd = job.get("jd") or {}
-        if jd.get("min_years") is not None and not jd.get("optional") and jd["min_years"] > limit:
+        y = jd.get("min_years")
+        if y is not None and not jd.get("optional") and (y > limit or (jd.get("strict") and y >= limit)):
             removed.append(job)
         else:
             kept.append(job)
