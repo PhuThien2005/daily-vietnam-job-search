@@ -7,7 +7,9 @@ import os
 import time
 from datetime import datetime, timezone, timedelta
 
-from jd_reader import enrich_linkedin, experience_label
+from http_util import http_get, jina_get
+from jd_reader import enrich_jobs, experience_label
+from vn_sources import search_careerlink, search_topdev, search_vietnamworks
 from job_filters import (PROJECT_DIR, apply_experience_filter, clean_text, filter_jobs, get_platform, load_config,
                          load_profile, md_cell)
 from search_linkedin import CACHE_PATH, fetch_all
@@ -131,68 +133,86 @@ def search_ybox():
         print(f"  [Error] Ybox search failed: {e}")
     return jobs
 
+def parse_itviec_cards(page):
+    """Parse ITviec search-result cards. Accepts both quote styles (Jina Reader rewrites ' to ")."""
+    jobs = []
+    for card in re.split(r"class=[\"']job-card ", page)[1:]:
+        slug_match = re.search(r"data-search--job-selection-job-slug-value=[\"']([^\"']+)[\"']", card)
+        if not slug_match:
+            continue
+        slug = slug_match.group(1)
+        title_match = re.search(r"<h3[^>]*>\s*(.*?)\s*</h3>", card, re.DOTALL)
+        company_match = re.search(r"class=[\"']text-rich-grey[\"'][^>]*>\s*(.*?)\s*</a>", card, re.DOTALL)
+        time_match = re.search(r"Posted\s*(.*?)\s*</span>", card, re.DOTALL)
+        jobs.append({
+            "source": "ITviec",
+            "title": clean_text(title_match.group(1)) if title_match else "N/A",
+            "company": clean_text(company_match.group(1)) if company_match else "N/A",
+            "location": "Ho Chi Minh City",
+            "time": clean_text(time_match.group(1)) if time_match else "Recent",
+            "link": f"https://itviec.com/it-jobs/{slug}",
+            "id": slug,
+        })
+    return jobs
+
+
 def search_itviec(config):
+    """ITviec blocks GitHub Actions IPs (403) → switch to Jina Reader for the rest of the run."""
     jobs = []
     print("📡 Scanning ITviec...")
     platform = get_platform(config, "ITviec")
     suffix = platform.get("scraper_slug_suffix", "-ho-chi-minh")
     queries = platform.get("search_queries") or ["java-intern", "software-engineer-intern"]
+    use_jina = False
     for i, q in enumerate(queries):
-        if i:
-            time.sleep(1)
         url = f"https://itviec.com/it-jobs/{q}{suffix}"
-        try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=20) as resp:
-                html = resp.read().decode('utf-8')
-                cards = html.split("class='job-card ")
-                for card in cards[1:]:
-                    slug_match = re.search(r"data-search--job-selection-job-slug-value='([^']+)'", card)
-                    if not slug_match:
-                        continue
-                    slug = slug_match.group(1)
-                    
-                    title_match = re.search(r"<h3[^>]*>\s*(.*?)\s*</h3>", card, re.DOTALL)
-                    title = title_match.group(1).strip() if title_match else "N/A"
-                    title = clean_text(title)
-                    
-                    company_match = re.search(r'class="text-rich-grey"[^>]*>\s*(.*?)\s*</a>', card, re.DOTALL)
-                    company = company_match.group(1).strip() if company_match else "N/A"
-                    company = clean_text(company)
-                    
-                    time_match = re.search(r"Posted\s*(.*?)\s*</span>", card, re.DOTALL)
-                    time_str = time_match.group(1).strip() if time_match else "Recent"
-                    time_str = re.sub(r'<[^>]*>', '', time_str)
-                    time_str = re.sub(r'\s+', ' ', time_str)
-                    
-                    clean_link = f"https://itviec.com/it-jobs/{slug}"
-                    
-                    jobs.append({
-                        "source": "ITviec",
-                        "title": title,
-                        "company": company,
-                        "location": "Ho Chi Minh City",
-                        "time": time_str,
-                        "link": clean_link,
-                        "id": slug
-                    })
-        except Exception as e:
-            print(f"  [Error] ITviec '{q}' failed: {e}")
-            continue
+        page = None
+        if not use_jina:
+            if i:
+                time.sleep(1)
+            status, page = http_get(url)
+            if status in (403, 429):
+                print(f"  [ITviec] HTTP {status} → switching to Jina Reader")
+                use_jina, page = True, None
+            elif status != 200:
+                print(f"  [Error] ITviec '{q}': HTTP {status}")
+                continue
+        if use_jina:
+            page = jina_get(url, as_html=True)
+            if not page:
+                print(f"  [Error] ITviec '{q}' via Jina failed")
+                continue
+        jobs.extend(parse_itviec_cards(page))
     return jobs
+
 
 def main():
     print("🚀 Running Vietnam Job Search Aggregator...")
     config = load_config()
     profile = load_profile(config)
 
-    all_jobs = []
-    for name, results in (("LinkedIn", search_linkedin(config)), ("Ybox", search_ybox()), ("ITviec", search_itviec(config))):
+    max_days = profile.get("max_days_old", 7)
+    sources = [
+        ("VietnamWorks", lambda: search_vietnamworks(config, max_days)),
+        ("TopDev", lambda: search_topdev(config, max_days)),
+        ("CareerLink", lambda: search_careerlink(config, max_days)),
+        ("ITviec", lambda: search_itviec(config)),
+        ("Ybox", search_ybox),
+        ("LinkedIn", lambda: search_linkedin(config)),
+    ]
+    all_jobs, source_counts = [], {}
+    for name, fetch in sources:
+        try:
+            results = fetch()
+        except Exception as e:  # one broken site must not kill the whole report
+            print(f"  [Error] {name} scraper crashed: {e}")
+            results = []
         print(f"  [Found] {len(results)} {name} jobs.")
+        source_counts[name] = len(results)
         all_jobs.extend(results)
 
     filtered = filter_jobs(all_jobs, profile)
-    enrich_linkedin(filtered)  # served from jd-cache.json written by search_linkedin.py
+    enrich_jobs(filtered)  # LinkedIn served from jd-cache.json written by search_linkedin.py; ITviec/CareerLink read here
     filtered, removed = apply_experience_filter(filtered, profile)
     limit = profile.get("max_years_experience", 2)
     print(f"✨ Deduplicated & filtered to {len(filtered)} positions ({len(removed)} removed: JD > {limit:g} years).")
@@ -210,8 +230,13 @@ def main():
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(f"# Báo cáo tuyển dụng IT — Intern / Fresher / Junior ({today_str})\n\n")
         f.write(f"Tìm thấy **{len(filtered)}** vị trí phù hợp ({level_summary or 'không có'}).\n\n")
-        f.write(f"🧹 *Đã đọc description LinkedIn và loại {len(removed)} job yêu cầu trên {limit:g} năm kinh nghiệm "
-                "(chi tiết ở `linkedin-scan.md`).*\n\n")
+        kept_by_source = {}
+        for job in filtered:
+            kept_by_source[job["source"]] = kept_by_source.get(job["source"], 0) + 1
+        f.write("🌐 *Nguồn (giữ lại / quét được): " + ", ".join(
+            f"{name} {kept_by_source.get(name, 0)}/{count}" for name, count in source_counts.items()) + "*\n\n")
+        f.write(f"🧹 *Đã đọc description / thông tin kinh nghiệm và loại {len(removed)} job yêu cầu trên {limit:g} năm "
+                "kinh nghiệm (danh sách ở cuối file).*\n\n")
         f.write("🎯 *Role: Java/Spring, Backend, Fullstack, .NET/C#, AI/LLM Application, QA/Test Automation, Software Engineer — "
                 "cấu hình tại `tools/job-search/search-config.json` → `search_profile`*\n\n")
         f.write("📅 *Sắp xếp: job ghi rõ Intern/Fresher/Junior/Entry lên trước, sau đó là job chưa rõ level; trong mỗi nhóm mới nhất → cũ nhất*\n\n")
@@ -219,8 +244,16 @@ def main():
         f.write("|---|-------|---------|--------------------|-------|-----------|------------------|-----------|---------------|\n")
         for idx, job in enumerate(filtered, 1):
             f.write(f"| {idx} | {job['source']} | **{md_cell(job['company'])}** | {md_cell(job['title'])} | {job['level']} "
-                    f"| {job['role']} | {experience_label(job.get('jd')) if job['source'] == 'LinkedIn' else '—'} "
+                    f"| {job['role']} | {experience_label(job.get('jd')) if job['source'] != 'Ybox' else '—'} "
                     f"| {job['time']} | [{job['source']} Direct Link]({job['link']}) |\n")
+
+        if removed:
+            f.write(f"\n## 🚫 Đã loại vì yêu cầu trên {limit:g} năm kinh nghiệm ({len(removed)})\n\n")
+            f.write("| # | Nguồn | Công ty | Vị trí | Yêu cầu | Trích JD | Link |\n")
+            f.write("|---|-------|---------|--------|---------|----------|------|\n")
+            for idx, job in enumerate(removed, 1):
+                f.write(f"| {idx} | {job['source']} | {md_cell(job['company'])} | {md_cell(job['title'])} "
+                        f"| {experience_label(job['jd'])} | {md_cell(job['jd'].get('snippet', ''))} | [Link]({job['link']}) |\n")
 
     print(f"\n💾 Report successfully saved to: {report_path}\n")
     for idx, job in enumerate(filtered[:30], 1):

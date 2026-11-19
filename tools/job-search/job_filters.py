@@ -69,6 +69,7 @@ def clean_text(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+LEVEL_ORDER = {"Intern": 0, "Fresher": 1, "Junior": 2, "Entry (LinkedIn)": 3}
 _PATTERN_CACHE = {}
 
 
@@ -107,6 +108,11 @@ def classify(job, profile):
     """Return (keep, level_label, role_label) for a job dict with 'title' and optional 'entry_hint'."""
     t = job["title"].lower()
     level = detect_level(job["title"], profile)
+    hint = job.get("level_hint")  # level stated by the site itself (VietnamWorks, TopDev)
+    if hint == "__senior__" and not level:
+        return False, None, None
+    if not level and hint in LEVEL_ORDER:
+        level = hint
 
     if _has(t, profile["exclude_levels"]):
         # "Junior/Senior" style titles stay; pure senior/lead roles go.
@@ -149,7 +155,6 @@ def parse_time_to_hours(time_str):
     return 99999
 
 
-LEVEL_ORDER = {"Intern": 0, "Fresher": 1, "Junior": 2, "Entry (LinkedIn)": 3}
 
 
 def filter_jobs(jobs, profile):

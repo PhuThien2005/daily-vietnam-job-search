@@ -6,7 +6,7 @@ Hệ thống tự động hóa quét, tổng hợp và phân tích tin tuyển d
 
 ## 📊 Tổng Quan Dự Án
 
-Dự án này là một pipeline tự động quét tin tuyển dụng từ nhiều nguồn uy tín tại Việt Nam (LinkedIn, ITviec, Ybox) theo tần suất hàng giờ, tự động chuẩn hóa dữ liệu, sắp xếp theo thời gian đăng mới nhất, cập nhật thời hạn nộp CV và gửi báo cáo trực tiếp đến Telegram cá nhân khi có thay đổi mới.
+Dự án này là một pipeline tự động quét tin tuyển dụng từ nhiều nguồn uy tín tại Việt Nam (VietnamWorks, TopDev, CareerLink, ITviec, Ybox, LinkedIn) theo tần suất hàng giờ, tự động chuẩn hóa dữ liệu, sắp xếp theo thời gian đăng mới nhất, cập nhật thời hạn nộp CV và gửi báo cáo trực tiếp đến Telegram cá nhân khi có thay đổi mới.
 
 ```
                   ┌──────────────┐

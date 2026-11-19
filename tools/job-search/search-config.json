@@ -125,7 +125,8 @@
             "entry_filter": true
           }
         ],
-        "note": "entry_filter=true thêm f_E=1,2 (Internship + Entry level) vào LinkedIn Guest API. search_linkedin.py chạy trước và cache kết quả cho search_vietnam_jobs.py."
+        "note": "entry_filter=true thêm f_E=1,2 (Internship + Entry level) vào LinkedIn Guest API. search_linkedin.py chạy trước và cache kết quả cho search_vietnam_jobs.py.",
+        "in_ci": true
       },
       {
         "name": "TopCV",
@@ -138,7 +139,8 @@
           "junior-java",
           "fresher-backend",
           "lap-trinh-vien-fresher"
-        ]
+        ],
+        "note": "Cloudflare chặn cả request trực tiếp lẫn Jina Reader (403/CAPTCHA) → chưa quét tự động được, check thủ công."
       },
       {
         "name": "ITviec",
@@ -157,7 +159,8 @@
           "junior"
         ],
         "scraper_slug_suffix": "-ho-chi-minh",
-        "note": "ITviec search là fuzzy (trả về nhiều job Senior) — search_profile sẽ lọc lại theo level."
+        "note": "ITviec chặn IP GitHub Actions (403) → script tự chuyển sang Jina Reader (r.jina.ai). JD được đọc để lọc số năm kinh nghiệm.",
+        "in_ci": true
       },
       {
         "name": "Indeed",
@@ -178,7 +181,12 @@
           "thuc-tap-backend",
           "fresher-java",
           "junior-backend"
-        ]
+        ],
+        "in_ci": true,
+        "api_city_id": 29,
+        "api_it_group_id": 5,
+        "max_pages": 6,
+        "note": "Quét bằng API ms.vietnamworks.com: toàn bộ job nhóm CNTT tại HCM đăng <= 7 ngày; có sẵn số năm kinh nghiệm + cấp bậc."
       },
       {
         "name": "Glints",
@@ -190,7 +198,37 @@
           "java+fresher",
           "junior+backend+developer"
         ],
-        "note": "Glints blocks direct crawl (403). Use Jina Reader: prefix URL with https://r.jina.ai/"
+        "note": "Glints chặn 403, kể cả qua Jina → chưa quét tự động được."
+      },
+      {
+        "name": "TopDev",
+        "in_ci": true,
+        "api_region_id": 79,
+        "search_queries": [
+          "java",
+          "backend",
+          "spring",
+          "developer",
+          "lập trình",
+          "fullstack",
+          ".net",
+          "software engineer",
+          "fresher",
+          "intern"
+        ],
+        "note": "API api.topdev.vn; có sẵn kinh nghiệm (experiences_str) + cấp bậc. Lọc HCM (region 79), đăng <= 7 ngày."
+      },
+      {
+        "name": "CareerLink",
+        "in_ci": true,
+        "search_queries": [
+          "java",
+          "backend",
+          "lập trình viên",
+          "thực tập IT",
+          "fresher IT"
+        ],
+        "note": "HTML trang tìm kiếm HCM; JD được đọc để lọc số năm kinh nghiệm."
       }
     ],
     "university_career_pages": [
@@ -526,7 +564,15 @@
       "staff engineer",
       "chief",
       "vp",
-      "principle"
+      "principle",
+      "teamlead",
+      "team lead",
+      "tech lead",
+      "trưởng nhóm",
+      "trưởng phòng",
+      "trưởng bộ phận",
+      "giám đốc",
+      "quản lý"
     ],
     "soft_exclude_levels": [
       "middle",
@@ -640,7 +686,18 @@
       "pentest",
       "penetration",
       "soc analyst",
-      "firmware"
+      "firmware",
+      "project engineer",
+      "quản lý dự án",
+      "cam",
+      "cnc",
+      "autocad",
+      "network",
+      "mạng",
+      "helpdesk",
+      "it support",
+      "hỗ trợ kỹ thuật",
+      "kỹ thuật viên"
     ],
     "max_years_experience": 2,
     "_note_max_years_experience": "Dùng cho cả tiêu đề lẫn description LinkedIn (jd_reader.py): job YÊU CẦU nhiều hơn số năm này bị loại. 2 = loại job yêu cầu từ 3 năm trở lên (cả 'trên 2 năm'). Yêu cầu ghi 'ưu tiên/preferred/a plus' không bị loại."

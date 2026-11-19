@@ -19,7 +19,7 @@ import urllib.request
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".cache")
 JD_CACHE_PATH = os.path.join(CACHE_DIR, "jd-cache.json")
 CACHE_TTL_DAYS = 21
-PARSER_VERSION = 2  # bump when extract_experience changes so cached results are recomputed
+PARSER_VERSION = 3  # bump when extract_experience changes so cached results are recomputed
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9,vi;q=0.8",
@@ -126,12 +126,19 @@ def extract_experience(text):
     return result
 
 
+def html_to_text(fragment):
+    """HTML → plain text that keeps one line per paragraph/list item (needed for line-based parsing)."""
+    text = re.sub(r"<(?:script|style)[^>]*>.*?</(?:script|style)>", " ", fragment or "", flags=re.S)
+    text = re.sub(r"<(?:br|/p|/li|li|p|/h\d|h\d|/ul|/div|div|tr)[^>]*>", "\n", text)
+    text = html.unescape(re.sub(r"<[^>]+>", " ", text))
+    return "\n".join(re.sub(r"[ \t\xa0]+", " ", line).strip() for line in text.splitlines() if line.strip())
+
+
 def _parse_linkedin_posting(page):
     desc = re.search(r'class="show-more-less-html__markup[^"]*"[^>]*>(.*?)</div>', page, re.S)
     if not desc:
         return None
-    text = re.sub(r"<(?:br|/p|/li|li|p|/h\d|/ul|/div)[^>]*>", "\n", desc.group(1))
-    text = html.unescape(re.sub(r"<[^>]+>", " ", text))
+    text = html_to_text(desc.group(1))
     criteria = dict((k.strip(), html.unescape(re.sub(r"\s+", " ", v)).strip()) for k, v in re.findall(
         r'description__job-criteria-subheader">\s*(.*?)\s*</h3>\s*<span[^>]*>\s*(.*?)\s*</span>', page, re.S))
     return {"text": text, "seniority": criteria.get("Seniority level", "")}
@@ -169,28 +176,97 @@ def _save_cache(cache):
         json.dump(cache, f, ensure_ascii=False)
 
 
-def enrich_linkedin(jobs, max_new_fetches=60, delay_seconds=1.2):
-    """Attach job["jd"] = {read, min_years, optional, snippet, seniority} to LinkedIn jobs (cached)."""
+def _slice(text, starts, ends, max_len=12000):
+    """Keep only the job-description part of a full page (drops 'similar jobs' sidebars)."""
+    low = text.lower()
+    start = min([i for i in (low.find(k.lower()) for k in starts) if i >= 0] or [0])
+    end_candidates = [i for i in (low.find(k.lower(), start + 1) for k in ends) if i > start]
+    end = min(end_candidates) if end_candidates else start + max_len
+    return text[start:min(end, start + max_len)]
+
+
+def _fetch_itviec(job):
+    """ITviec job page: direct first, Jina Reader when ITviec blocks us (403 on GitHub Actions)."""
+    from http_util import http_get, jina_get
+    status, page = http_get(job["link"])
+    text = html_to_text(page) if status == 200 else jina_get(job["link"])
+    if not text or not re.search(r"Job description|Mô tả công việc|skills and experience", text, re.I):
+        return None  # blocked / empty page: don't cache, retry next run
+    return {"text": _slice(text, ["Job description", "Mô tả công việc"],
+                           ["Why you'll love working here", "Tại sao bạn sẽ yêu thích", "More jobs for you",
+                            "Việc làm khác"]), "seniority": ""}
+
+
+def _fetch_careerlink(job):
+    """CareerLink job page. Prefers its structured data: JSON-LD monthsOfExperience and the
+    '2 - 5 năm kinh nghiệm' summary; falls back to the description text."""
+    from http_util import http_get
+    status, page = http_get(job["link"])
+    if status != 200:
+        return None
+    months = re.search(r'monthsOfExperience\\?"\s*:\s*(\d+)', page)
+    summary = re.search(r">\s*((?:Không yêu cầu kinh nghiệm|Chưa có kinh nghiệm|Dưới 1 năm[^<]*|"
+                        r"[^<>]{0,25}\d+[^<>]{0,25}năm kinh nghiệm))\s*<", page)
+    text = html_to_text(page)
+    if not months and not summary and "Mô tả công việc" not in text:
+        return None  # CareerLink throttles bursts with an empty shell page: don't cache, retry next run
+    if summary:
+        line = summary.group(1).strip()
+        if re.search(r"không yêu cầu|chưa có|dưới 1", line, re.I):
+            return {"exp": {"min_years": 0.0, "strict": False, "optional": False, "snippet": f"CareerLink: {line}"}}
+        exp = extract_experience("Kinh nghiệm: " + line)
+        if exp:
+            exp["snippet"] = f"CareerLink: {line}"
+            return {"exp": exp}
+    if months:
+        m = int(months.group(1))
+        return {"exp": {"min_years": round(m / 12, 2), "strict": False, "optional": False,
+                        "snippet": f"CareerLink: {m} tháng kinh nghiệm"}}
+    return {"text": _slice(text, ["Mô tả công việc"], ["Thông tin liên hệ", "Việc làm tương tự", "Việc làm liên quan"]),
+            "seniority": ""}
+
+
+FETCHERS = {
+    "LinkedIn": lambda job: _fetch_linkedin(job["id"]),
+    "ITviec": _fetch_itviec,
+    "CareerLink": _fetch_careerlink,
+}
+
+
+MAX_NEW_FETCHES = {"LinkedIn": 60, "ITviec": 25, "CareerLink": 20}  # per run; the rest wait for the next run
+DELAY_SECONDS = {"LinkedIn": 1.2, "ITviec": 1.0, "CareerLink": 3.0}  # Jina calls are spaced in http_util
+
+
+def enrich_jobs(jobs):
+    """Attach job["jd"] = {read, min_years, strict, optional, snippet, seniority} by reading each job's description.
+    Jobs whose site already states the experience (VietnamWorks, TopDev) keep their structured value.
+    Results are cached per source+id, so each description is read once."""
     cache = _load_cache()
-    fetched = 0
+    fetched = {}
     for job in jobs:
-        if job.get("source") != "LinkedIn":
+        source = job.get("source")
+        fetcher = FETCHERS.get(source)
+        if job.get("jd") or not fetcher:
             continue
-        entry = cache.get(job["id"])
-        if entry is None and fetched < max_new_fetches:
-            if fetched:
-                time.sleep(delay_seconds)
-            fetched += 1
-            posting = _fetch_linkedin(job["id"])
+        key = job["id"] if source == "LinkedIn" else f"{source}:{job['id']}"
+        entry = cache.get(key)
+        if entry is None and fetched.get(source, 0) < MAX_NEW_FETCHES.get(source, 20):
+            if fetched.get(source):
+                time.sleep(DELAY_SECONDS.get(source, 1.5))
+            fetched[source] = fetched.get(source, 0) + 1
+            posting = fetcher(job)
             if posting:
-                exp = extract_experience(posting["text"]) or {}
-                entry = {"read": True, "seniority": posting["seniority"], "fetched_at": time.time(),
+                exp = posting.get("exp") or extract_experience(posting.get("text", "")) or {}
+                entry = {"read": True, "seniority": posting.get("seniority", ""), "fetched_at": time.time(),
                          "v": PARSER_VERSION, **exp}
-                cache[job["id"]] = entry
+                cache[key] = entry
         job["jd"] = entry or {"read": False}
     _save_cache(cache)
-    print(f"  [JD] fetched {fetched} new descriptions, {len(cache)} cached")
+    print(f"  [JD] read new descriptions {fetched or '{}'}, {len(cache)} cached")
     return jobs
+
+
+enrich_linkedin = enrich_jobs  # backwards-compatible name
 
 
 def experience_label(jd):

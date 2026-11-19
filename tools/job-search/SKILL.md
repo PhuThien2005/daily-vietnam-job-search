@@ -36,6 +36,19 @@ sẵn sàng full-time từ 12/2026 → mở rộng từ "chỉ Intern" sang **In
   `Chưa rõ — xem JD` và xếp sau các job có level rõ ràng — khi đưa vào báo cáo chuyên sâu, phải đọc JD để kiểm tra số năm kinh nghiệm.
 - LinkedIn query dạng `{"keywords": ..., "entry_filter": true}` thêm `f_E=1,2` (Internship + Entry level).
 
+### 🌐 Nguồn trong CI (cập nhật 19/11/2026)
+| Nguồn | Cách lấy | Kinh nghiệm lấy từ |
+|-------|----------|--------------------|
+| VietnamWorks | API `ms.vietnamworks.com/job-search/v1.0/search` (nhóm CNTT, HCM) | trường `yearsOfExperience` + cấp bậc |
+| TopDev | API `api.topdev.vn/td/v2/jobs` (region 79 = HCM) | trường `experiences_str` + cấp bậc |
+| CareerLink | HTML tìm kiếm HCM | JSON-LD `monthsOfExperience` / "2 - 5 năm kinh nghiệm" (CareerLink chặn khi gọi dồn → có giãn cách & giới hạn) |
+| ITviec | HTML; 403 trên GitHub Actions → tự chuyển sang Jina Reader (`r.jina.ai`) | đọc JD |
+| Ybox | React state | — |
+| LinkedIn | Guest API | đọc JD |
+
+Chưa tự động được: **TopCV, Glints, JobsGO** (Cloudflare/403, kể cả qua Jina) — check thủ công.
+Code: `vn_sources.py` (VietnamWorks/TopDev/CareerLink), `http_util.py` (HTTP + Jina), `jd_reader.py` (đọc JD mọi nguồn).
+
 ### 🧹 Lọc theo description (cập nhật 19/11/2026)
 - `jd_reader.py` đọc JD của từng job LinkedIn (Guest API `jobs-guest/jobs/api/jobPosting/{id}`) và trích số năm kinh nghiệm
   **bắt buộc** — tiếng Anh & tiếng Việt, số lẫn chữ ("three (3) years", "ba năm", "trên 2 năm", "3-5 yrs", "6 tháng").
