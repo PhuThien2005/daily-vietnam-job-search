@@ -642,6 +642,7 @@
       "soc analyst",
       "firmware"
     ],
-    "max_years_experience": 2
+    "max_years_experience": 2,
+    "_note_max_years_experience": "Dùng cho cả tiêu đề lẫn description LinkedIn (jd_reader.py): job YÊU CẦU nhiều hơn số năm này bị loại. 2 = loại job yêu cầu từ 3 năm trở lên (cả 'trên 2 năm'). Yêu cầu ghi 'ưu tiên/preferred/a plus' không bị loại."
   }
 }

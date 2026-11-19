@@ -7,7 +7,9 @@ import os
 import time
 from datetime import datetime, timezone, timedelta
 
-from job_filters import PROJECT_DIR, clean_text, filter_jobs, get_platform, load_config, load_profile, md_cell
+from jd_reader import enrich_linkedin, experience_label
+from job_filters import (PROJECT_DIR, apply_experience_filter, clean_text, filter_jobs, get_platform, load_config,
+                         load_profile, md_cell)
 from search_linkedin import CACHE_PATH, fetch_all
 
 headers = {
@@ -190,7 +192,10 @@ def main():
         all_jobs.extend(results)
 
     filtered = filter_jobs(all_jobs, profile)
-    print(f"✨ Deduplicated & filtered to {len(filtered)} positions (newest first).")
+    enrich_linkedin(filtered)  # served from jd-cache.json written by search_linkedin.py
+    filtered, removed = apply_experience_filter(filtered, profile)
+    limit = profile.get("max_years_experience", 2)
+    print(f"✨ Deduplicated & filtered to {len(filtered)} positions ({len(removed)} removed: JD > {limit:g} years).")
 
     today_str = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
     report_dir = os.path.join(PROJECT_DIR, "reports", today_str)
@@ -205,14 +210,17 @@ def main():
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(f"# Báo cáo tuyển dụng IT — Intern / Fresher / Junior ({today_str})\n\n")
         f.write(f"Tìm thấy **{len(filtered)}** vị trí phù hợp ({level_summary or 'không có'}).\n\n")
+        f.write(f"🧹 *Đã đọc description LinkedIn và loại {len(removed)} job yêu cầu trên {limit:g} năm kinh nghiệm "
+                "(chi tiết ở `linkedin-scan.md`).*\n\n")
         f.write("🎯 *Role: Java/Spring, Backend, Fullstack, .NET/C#, AI/LLM Application, QA/Test Automation, Software Engineer — "
                 "cấu hình tại `tools/job-search/search-config.json` → `search_profile`*\n\n")
         f.write("📅 *Sắp xếp: job ghi rõ Intern/Fresher/Junior/Entry lên trước, sau đó là job chưa rõ level; trong mỗi nhóm mới nhất → cũ nhất*\n\n")
-        f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Level | Nhóm role | Ngày đăng | Link chi tiết |\n")
-        f.write("|---|-------|---------|--------------------|-------|-----------|-----------|---------------|\n")
+        f.write("| # | Nguồn | Công ty | Vị trí tuyển dụng | Level | Nhóm role | Kinh nghiệm (JD) | Ngày đăng | Link chi tiết |\n")
+        f.write("|---|-------|---------|--------------------|-------|-----------|------------------|-----------|---------------|\n")
         for idx, job in enumerate(filtered, 1):
             f.write(f"| {idx} | {job['source']} | **{md_cell(job['company'])}** | {md_cell(job['title'])} | {job['level']} "
-                    f"| {job['role']} | {job['time']} | [{job['source']} Direct Link]({job['link']}) |\n")
+                    f"| {job['role']} | {experience_label(job.get('jd')) if job['source'] == 'LinkedIn' else '—'} "
+                    f"| {job['time']} | [{job['source']} Direct Link]({job['link']}) |\n")
 
     print(f"\n💾 Report successfully saved to: {report_path}\n")
     for idx, job in enumerate(filtered[:30], 1):

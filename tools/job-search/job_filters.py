@@ -171,5 +171,19 @@ def filter_jobs(jobs, profile):
     return kept
 
 
+def apply_experience_filter(jobs, profile):
+    """Split jobs by the experience their description *requires* (job["jd"] set by jd_reader).
+    Nice-to-have mentions and unread JDs never remove a job. Returns (kept, removed)."""
+    limit = profile.get("max_years_experience", 2)
+    kept, removed = [], []
+    for job in jobs:
+        jd = job.get("jd") or {}
+        if jd.get("min_years") is not None and not jd.get("optional") and jd["min_years"] > limit:
+            removed.append(job)
+        else:
+            kept.append(job)
+    return kept, removed
+
+
 def md_cell(s):
     return str(s).replace("|", "/")

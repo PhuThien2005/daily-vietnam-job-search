@@ -25,6 +25,16 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Restore job description cache
+        # Keeps tools/job-search/.cache (LinkedIn JD experience results) between hourly runs,
+        # so only newly posted jobs have their description fetched.
+        uses: actions/cache@v4
+        with:
+          path: tools/job-search/.cache
+          key: jobsearch-cache-${{ github.run_id }}
+          restore-keys: |
+            jobsearch-cache-
+
       - name: Generate Daily Reports
         run: |
           python3 tools/job-search/generate_daily_reports.py
